@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://kidoniko-blog.github.io</id>
-    <title>Gridea</title>
-    <updated>2019-08-07T08:49:54.572Z</updated>
+    <title>满地都是老星星</title>
+    <updated>2019-08-07T08:51:22.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://kidoniko-blog.github.io"/>
     <link rel="self" href="http://kidoniko-blog.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
     <logo>http://kidoniko-blog.github.io/images/avatar.png</logo>
     <icon>http://kidoniko-blog.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, 满地都是老星星</rights>
     <entry>
         <title type="html"><![CDATA[这是一篇有关开除与退学的..绝笔？也许]]></title>
         <id>http://kidoniko-blog.github.io/post/special</id>
