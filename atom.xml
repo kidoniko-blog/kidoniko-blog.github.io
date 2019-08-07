@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://kidoniko-blog.github.io/kidoniko-blog2.github.io/</id>
+    <id>https://kidoniko-blog.github.io/</id>
     <title>满地都是小星星呐 - kidonikoの博客</title>
-    <updated>2019-08-07T12:37:12.371Z</updated>
+    <updated>2019-08-07T12:42:53.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://kidoniko-blog.github.io/kidoniko-blog2.github.io/"/>
-    <link rel="self" href="https://kidoniko-blog.github.io/kidoniko-blog2.github.io//atom.xml"/>
+    <link rel="alternate" href="https://kidoniko-blog.github.io/"/>
+    <link rel="self" href="https://kidoniko-blog.github.io//atom.xml"/>
     <subtitle>我们总为了挣扎而低落，却又因为每一次间歇性的幸福到来而撑过。&lt;br&gt;如此生存着。</subtitle>
-    <logo>https://kidoniko-blog.github.io/kidoniko-blog2.github.io//images/avatar.png</logo>
-    <icon>https://kidoniko-blog.github.io/kidoniko-blog2.github.io//favicon.ico</icon>
+    <logo>https://kidoniko-blog.github.io//images/avatar.png</logo>
+    <icon>https://kidoniko-blog.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 满地都是小星星呐 - kidonikoの博客</rights>
     <entry>
         <title type="html"><![CDATA[这是一篇有关开除与退学的..绝笔？也许]]></title>
-        <id>https://kidoniko-blog.github.io/kidoniko-blog2.github.io//post/special</id>
-        <link href="https://kidoniko-blog.github.io/kidoniko-blog2.github.io//post/special">
+        <id>https://kidoniko-blog.github.io//post/special</id>
+        <link href="https://kidoniko-blog.github.io//post/special">
         </link>
         <updated>2019-08-05T07:30:08.000Z</updated>
         <content type="html"><![CDATA[<p>我尽我的力量阐明事情经过。<br>
@@ -155,8 +155,8 @@ life is too short to be ordinary<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://kidoniko-blog.github.io/kidoniko-blog2.github.io//post/hello-gridea</id>
-        <link href="https://kidoniko-blog.github.io/kidoniko-blog2.github.io//post/hello-gridea">
+        <id>https://kidoniko-blog.github.io//post/hello-gridea</id>
+        <link href="https://kidoniko-blog.github.io//post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
