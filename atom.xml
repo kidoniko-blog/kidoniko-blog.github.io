@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://kidoniko-blog.github.io</id>
-    <title>满地都是老星星</title>
-    <updated>2019-08-07T11:32:18.149Z</updated>
+    <title>满地都是小星星呐_kidoniko的博客</title>
+    <updated>2019-08-07T11:48:53.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://kidoniko-blog.github.io"/>
     <link rel="self" href="http://kidoniko-blog.github.io/atom.xml"/>
+    <subtitle>以生之有涯随知之无涯，殆矣，然何为，为何为。&lt;br&gt;&lt;a href=https://www.zhihu.com/people/jiang-lu-bing-19/&quot; target=&quot;_blank&quot;&gt;另一个知乎号子 欢迎互关&lt;/a&gt;</subtitle>
     <logo>http://kidoniko-blog.github.io/images/avatar.png</logo>
     <icon>http://kidoniko-blog.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, 满地都是老星星</rights>
+    <rights>All rights reserved 2019, 满地都是小星星呐_kidoniko的博客</rights>
     <entry>
         <title type="html"><![CDATA[这是一篇有关开除与退学的..绝笔？也许]]></title>
         <id>http://kidoniko-blog.github.io/post/special</id>
