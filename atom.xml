@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kidoniko.coding.me/</id>
-    <title>满地都是小星星呐 - KidonikoのBlog - 厚德博學 敬業樂群[1]</title>
-    <updated>2019-08-08T03:41:17.031Z</updated>
+    <title>满地都是小星星呐 - KidoNikoのBlog </title>
+    <updated>2019-08-08T03:51:41.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kidoniko.coding.me/"/>
     <link rel="self" href="https://kidoniko.coding.me//atom.xml"/>
-    <subtitle>我们总为了挣扎而低落，却又因为每一次间歇性的幸福到来而撑过。&lt;br&gt;如此生存着。——《满地都是小星星》陆&lt;br&gt;人生就像玻璃窗上的苍蝇，前途一片光明，却找不到出路。&lt;br&gt;[1]Slogan为北京邮电大学校训</subtitle>
+    <subtitle>我们总为了挣扎而低落，却又因为每一次间歇性的幸福到来而撑过。如此生存着。&lt;br&gt;——《满地都是小星星》陆&lt;br&gt;厚德博學 敬業樂群 ——北邮校训&lt;br&gt;人生就像玻璃窗上的苍蝇，前途一片光明，却找不到出路。</subtitle>
     <logo>https://kidoniko.coding.me//images/avatar.png</logo>
     <icon>https://kidoniko.coding.me//favicon.ico</icon>
-    <rights>All rights reserved 2019, 满地都是小星星呐 - KidonikoのBlog - 厚德博學 敬業樂群[1]</rights>
+    <rights>All rights reserved 2019, 满地都是小星星呐 - KidoNikoのBlog </rights>
     <entry>
         <title type="html"><![CDATA[一期一会：人间走一遭，不过一秒万年和万年一秒]]></title>
         <id>https://kidoniko.coding.me//post/yi-qi-yi-hui-ren-jian-zou-yi-zao-bu-guo-yi-miao-wan-nian-he-wan-nian-yi-miao</id>
