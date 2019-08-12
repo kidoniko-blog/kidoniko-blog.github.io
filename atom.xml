@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://annzan.xyz</id>
     <title>安璇看繁星 - 小太阳のBlog </title>
-    <updated>2019-08-12T02:17:34.578Z</updated>
+    <updated>2019-08-12T02:23:54.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://annzan.xyz"/>
     <link rel="self" href="http://annzan.xyz/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>http://annzan.xyz/images/avatar.png</logo>
     <icon>http://annzan.xyz/favicon.ico</icon>
     <rights>All rights reserved 2019, 安璇看繁星 - 小太阳のBlog </rights>
+    <entry>
+        <title type="html"><![CDATA[「转载」从此以后，咱们只有死别，再无生离。]]></title>
+        <id>http://annzan.xyz/post/qwgUEa9Rm</id>
+        <link href="http://annzan.xyz/post/qwgUEa9Rm">
+        </link>
+        <updated>2019-08-12T02:19:17.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[好气。Markdown居然不支持右对齐]]></title>
         <id>http://annzan.xyz/post/kbg2JV-rR</id>
