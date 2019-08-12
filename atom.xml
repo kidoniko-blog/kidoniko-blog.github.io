@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://kidoniko-blog.github.io/</id>
+    <id>http://annzan.xyz</id>
     <title>安璇看繁星 - 小太阳のBlog </title>
-    <updated>2019-08-12T02:09:22.905Z</updated>
+    <updated>2019-08-12T02:10:57.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://kidoniko-blog.github.io/"/>
-    <link rel="self" href="https://kidoniko-blog.github.io//atom.xml"/>
+    <link rel="alternate" href="http://annzan.xyz"/>
+    <link rel="self" href="http://annzan.xyz/atom.xml"/>
     <subtitle>&lt;b&gt;耽美文学爱好者/魔都/小透明/MBA11赛高&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;推荐食用：「满地都是小星星」陆+「璀璨」水在镜中+ 夜空中最亮的星 Acappella版/Moonlight组合&lt;b&gt;&lt;br&gt;&lt;br&gt;我们总为了挣扎而低落，却又因为每一次间歇性的幸福到来而撑过。如此生存着。&lt;br&gt;——《满地都是小星星》陆&lt;br&gt;&lt;br&gt;厚德博學 敬業樂群 ——北邮校训&lt;br&gt;&lt;br&gt;&lt;b&gt;为了学习，我今天有特意去买了一盒巧克力，预计前途是一片光明。&lt;b&gt;</subtitle>
-    <logo>https://kidoniko-blog.github.io//images/avatar.png</logo>
-    <icon>https://kidoniko-blog.github.io//favicon.ico</icon>
+    <logo>http://annzan.xyz/images/avatar.png</logo>
+    <icon>http://annzan.xyz/favicon.ico</icon>
     <rights>All rights reserved 2019, 安璇看繁星 - 小太阳のBlog </rights>
     <entry>
         <title type="html"><![CDATA[关于我]]></title>
-        <id>https://kidoniko-blog.github.io//post/who</id>
-        <link href="https://kidoniko-blog.github.io//post/who">
+        <id>http://annzan.xyz/post/who</id>
+        <link href="http://annzan.xyz/post/who">
         </link>
         <updated>2019-08-11T15:47:29.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[不要升级！MacOS 10.14.6 →12款MBA11]]></title>
-        <id>https://kidoniko-blog.github.io//post/bu-yao-sheng-ji-macos-10146-12-kuan-mba11</id>
-        <link href="https://kidoniko-blog.github.io//post/bu-yao-sheng-ji-macos-10146-12-kuan-mba11">
+        <id>http://annzan.xyz/post/bu-yao-sheng-ji-macos-10146-12-kuan-mba11</id>
+        <link href="http://annzan.xyz/post/bu-yao-sheng-ji-macos-10146-12-kuan-mba11">
         </link>
         <updated>2019-08-11T15:27:00.000Z</updated>
         <summary type="html"><![CDATA[<p>虽然很想体验一下Catalina，但毕竟Pubic Beta那也不是正式版对吧。听说会有CPU占用鬼畜变高的情况。我可不想让我的小风扇呼呼呼。<br>
@@ -34,8 +34,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[「带你去私奔唷。」：简评《满地都是小星星》陆]]></title>
-        <id>https://kidoniko-blog.github.io//post/dai-ni-qu-si-ben-yo-jian-ping-man-di-du-shi-xiao-xing-xing</id>
-        <link href="https://kidoniko-blog.github.io//post/dai-ni-qu-si-ben-yo-jian-ping-man-di-du-shi-xiao-xing-xing">
+        <id>http://annzan.xyz/post/dai-ni-qu-si-ben-yo-jian-ping-man-di-du-shi-xiao-xing-xing</id>
+        <link href="http://annzan.xyz/post/dai-ni-qu-si-ben-yo-jian-ping-man-di-du-shi-xiao-xing-xing">
         </link>
         <updated>2019-08-08T05:53:30.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
@@ -73,8 +73,8 @@ Actually，「满地都是小星星」这篇文是我在昨天晚上肝完的，
     </entry>
     <entry>
         <title type="html"><![CDATA[那个穿着青橘色衬衫的少年阿，你在哪里？]]></title>
-        <id>https://kidoniko-blog.github.io//post/ling-rou-guan-xi</id>
-        <link href="https://kidoniko-blog.github.io//post/ling-rou-guan-xi">
+        <id>http://annzan.xyz/post/ling-rou-guan-xi</id>
+        <link href="http://annzan.xyz/post/ling-rou-guan-xi">
         </link>
         <updated>2019-08-08T03:04:01.000Z</updated>
         <summary type="html"><![CDATA[<p>我在客厅醒来，有个什么东西被糊到了脸上，挺硬的，打的我生疼生疼的。</p>
@@ -90,8 +90,8 @@ Actually，「满地都是小星星」这篇文是我在昨天晚上肝完的，
     </entry>
     <entry>
         <title type="html"><![CDATA[一个过期两个月的po上网的自白书]]></title>
-        <id>https://kidoniko-blog.github.io//post/yi-ge-bao-shou-jia-bao-qi-ling-de-xiao-peng-you-de-ne-han</id>
-        <link href="https://kidoniko-blog.github.io//post/yi-ge-bao-shou-jia-bao-qi-ling-de-xiao-peng-you-de-ne-han">
+        <id>http://annzan.xyz/post/yi-ge-bao-shou-jia-bao-qi-ling-de-xiao-peng-you-de-ne-han</id>
+        <link href="http://annzan.xyz/post/yi-ge-bao-shou-jia-bao-qi-ling-de-xiao-peng-you-de-ne-han">
         </link>
         <updated>2019-08-08T03:03:01.000Z</updated>
         <summary type="html"><![CDATA[<p>首先安利一下Tea这个软件,让我写部落格又舒服了不少.</p>
@@ -111,8 +111,8 @@ Actually，「满地都是小星星」这篇文是我在昨天晚上肝完的，
     </entry>
     <entry>
         <title type="html"><![CDATA[又是一些不知道会不会成真的垃圾话]]></title>
-        <id>https://kidoniko-blog.github.io//post/yi-xie-shi-hua</id>
-        <link href="https://kidoniko-blog.github.io//post/yi-xie-shi-hua">
+        <id>http://annzan.xyz/post/yi-xie-shi-hua</id>
+        <link href="http://annzan.xyz/post/yi-xie-shi-hua">
         </link>
         <updated>2019-08-08T03:01:42.000Z</updated>
         <summary type="html"><![CDATA[<p>·<br>
@@ -132,15 +132,15 @@ Actually，「满地都是小星星」这篇文是我在昨天晚上肝完的，
     </entry>
     <entry>
         <title type="html"><![CDATA[一期一会：人间走一遭，不过一秒万年和万年一秒]]></title>
-        <id>https://kidoniko-blog.github.io//post/yi-qi-yi-hui-ren-jian-zou-yi-zao-bu-guo-yi-miao-wan-nian-he-wan-nian-yi-miao</id>
-        <link href="https://kidoniko-blog.github.io//post/yi-qi-yi-hui-ren-jian-zou-yi-zao-bu-guo-yi-miao-wan-nian-he-wan-nian-yi-miao">
+        <id>http://annzan.xyz/post/yi-qi-yi-hui-ren-jian-zou-yi-zao-bu-guo-yi-miao-wan-nian-he-wan-nian-yi-miao</id>
+        <link href="http://annzan.xyz/post/yi-qi-yi-hui-ren-jian-zou-yi-zao-bu-guo-yi-miao-wan-nian-he-wan-nian-yi-miao">
         </link>
         <updated>2019-08-08T01:16:25.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[曾经「早熟」的那个孩子长大了: 乱语我的6200天日子]]></title>
-        <id>https://kidoniko-blog.github.io//post/ceng-jing-zao-shou-de-na-ge-hai-zi-chang-da-liao-luan-yu-wo-de-6200-tian-ri-zi</id>
-        <link href="https://kidoniko-blog.github.io//post/ceng-jing-zao-shou-de-na-ge-hai-zi-chang-da-liao-luan-yu-wo-de-6200-tian-ri-zi">
+        <id>http://annzan.xyz/post/ceng-jing-zao-shou-de-na-ge-hai-zi-chang-da-liao-luan-yu-wo-de-6200-tian-ri-zi</id>
+        <link href="http://annzan.xyz/post/ceng-jing-zao-shou-de-na-ge-hai-zi-chang-da-liao-luan-yu-wo-de-6200-tian-ri-zi">
         </link>
         <updated>2019-08-07T13:10:47.000Z</updated>
         <summary type="html"><![CDATA[<p>每当你想自戕时，想象一下，你重生了。<br>
