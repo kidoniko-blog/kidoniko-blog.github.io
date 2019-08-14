@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://annzan.xyz</id>
     <title>曲奇看繁星🍪</title>
-    <updated>2019-08-14T07:35:26.462Z</updated>
+    <updated>2019-08-14T07:39:40.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://annzan.xyz"/>
     <link rel="self" href="https://annzan.xyz/atom.xml"/>
@@ -20,6 +20,13 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>➡️<a href="https://annzan.xyz/post/fz/">友人帐</a> ➡️ <a href="https://annzan.xyz/post/who/">关于我</a>  ➡️<a href="http://allcp.net">公子长佩</a>🤘为了学习，我今天有特意去买了一盒巧克力，预计前途是一片光明。</p>
 ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「我不是我没有」一些奇怪的书单]]></title>
+        <id>https://annzan.xyz/post/i_LCUh6yd</id>
+        <link href="https://annzan.xyz/post/i_LCUh6yd">
+        </link>
+        <updated>2019-08-14T07:36:42.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[别用ios搜狗输入法的粘贴辅助]]></title>
@@ -41,16 +48,5 @@
         <link href="https://annzan.xyz/post/XoMAYl3Tz">
         </link>
         <updated>2019-08-14T07:10:44.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「带你去私奔唷。」：简评《满地都是小星星》陆]]></title>
-        <id>https://annzan.xyz/post/dai-ni-qu-si-ben-yo-jian-ping-man-di-du-shi-xiao-xing-xing</id>
-        <link href="https://annzan.xyz/post/dai-ni-qu-si-ben-yo-jian-ping-man-di-du-shi-xiao-xing-xing">
-        </link>
-        <updated>2019-08-14T05:53:30.000Z</updated>
-        <summary type="html"><![CDATA[<p>从此，我们只有死别，再无生离。 —— 杨绛《我们仨》</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>从此，我们只有死别，再无生离。 —— 杨绛《我们仨》</p>
-]]></content>
     </entry>
 </feed>
