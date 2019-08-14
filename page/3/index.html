@@ -17,7 +17,7 @@
 
   </head>
   <body>
-    <div id="app" class="main px-4 flex flex-col lg:flex-row">
+    <div class="main px-4 flex flex-col lg:flex-row">
       <div id="sidebar" class="sidebar-wrapper lg:static lg:w-1/4">
   <div class="lg:sticky top-0">
     <div class="sidebar-content">
@@ -117,161 +117,46 @@
 <div class="mask" onclick="closeMenu()">
 </div>
       <div class="content-wrapper py-32 lg:p-8 lg:w-3/4">
-        <h2 class="text-lg text-gray-700 mb-8">
-          <i class="remixicon-archive-line"></i> 文章归档
+        <h2 class="latest-article text-lg text-gray-700 mb-8">
+          <i class="remixicon-article-line"></i>
+          最新文章
         </h2>
         
+  <section class="post-item md:flex pb-12 animated fadeIn" :style="{ 'animation-delay': `${0 * 0.2}s` }">
+    
+    <div class="content">
+      <a href="https://annzan.xyz/post/hello-gridea">
+        <h2 class="post-title text-xl font-extrabold mt-5 md:mt-0">Hello World！</h2>
+      </a>
+      <div class="post-abstract text-gray-700 font-light my-4">
+        <p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 
-        <div class="archives-container">
-          
-            <h2 class="text-gray-600 py-4 animated fadeIn">
-              <i class="remixicon-map-pin-time-line"></i>
-              2020
-            </h2>
-            
-              
-                <a href="https://annzan.xyz/post/F6pkYHCsz" class="post">
-                  <h2 class="inline-block font-bold text-lg post-title animated fadeIn">
-                    「置顶」Study with me
-                  </h2>
-                </a>
-                <div class="text-sm font-light mt-3 mb-6 text-gray-400 animated fadeInDown" style="animation-delay: 0.4s">于星星历 08月14号上传到这个神奇的网站</div>
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-          
-            <h2 class="text-gray-600 py-4 animated fadeIn">
-              <i class="remixicon-map-pin-time-line"></i>
-              2019
-            </h2>
-            
-              
-            
-              
-                <a href="https://annzan.xyz/post/dai-ni-qu-si-ben-yo-jian-ping-man-di-du-shi-xiao-xing-xing" class="post">
-                  <h2 class="inline-block font-bold text-lg post-title animated fadeIn">
-                    「带你去私奔唷。」：简评《满地都是小星星》陆
-                  </h2>
-                </a>
-                <div class="text-sm font-light mt-3 mb-6 text-gray-400 animated fadeInDown" style="animation-delay: 0.4s">于星星历 08月14号上传到这个神奇的网站</div>
-              
-            
-              
-                <a href="https://annzan.xyz/post/qwgUEa9Rm" class="post">
-                  <h2 class="inline-block font-bold text-lg post-title animated fadeIn">
-                    「转载」从此以后，咱们只有死别，再无生离。
-                  </h2>
-                </a>
-                <div class="text-sm font-light mt-3 mb-6 text-gray-400 animated fadeInDown" style="animation-delay: 0.4s">于星星历 08月12号上传到这个神奇的网站</div>
-              
-            
-              
-                <a href="https://annzan.xyz/post/kbg2JV-rR" class="post">
-                  <h2 class="inline-block font-bold text-lg post-title animated fadeIn">
-                    好气。Markdown居然不支持右对齐
-                  </h2>
-                </a>
-                <div class="text-sm font-light mt-3 mb-6 text-gray-400 animated fadeInDown" style="animation-delay: 0.4s">于星星历 08月12号上传到这个神奇的网站</div>
-              
-            
-              
-                <a href="https://annzan.xyz/post/bu-yao-sheng-ji-macos-10146-12-kuan-mba11" class="post">
-                  <h2 class="inline-block font-bold text-lg post-title animated fadeIn">
-                    不要升级！MacOS 10.14.6 →12款MBA11
-                  </h2>
-                </a>
-                <div class="text-sm font-light mt-3 mb-6 text-gray-400 animated fadeInDown" style="animation-delay: 0.4s">于星星历 08月11号上传到这个神奇的网站</div>
-              
-            
-              
-                <a href="https://annzan.xyz/post/ling-rou-guan-xi" class="post">
-                  <h2 class="inline-block font-bold text-lg post-title animated fadeIn">
-                    那个穿着青橘色衬衫的少年阿，你在哪里？
-                  </h2>
-                </a>
-                <div class="text-sm font-light mt-3 mb-6 text-gray-400 animated fadeInDown" style="animation-delay: 0.4s">于星星历 08月08号上传到这个神奇的网站</div>
-              
-            
-              
-            
-              
-            
-          
-            <h2 class="text-gray-600 py-4 animated fadeIn">
-              <i class="remixicon-map-pin-time-line"></i>
-              2018
-            </h2>
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-                <a href="https://annzan.xyz/post/hello-gridea" class="post">
-                  <h2 class="inline-block font-bold text-lg post-title animated fadeIn">
-                    Hello World！
-                  </h2>
-                </a>
-                <div class="text-sm font-light mt-3 mb-6 text-gray-400 animated fadeInDown" style="animation-delay: 0.4s">于星星历 12月12号上传到这个神奇的网站</div>
-              
-            
-              
-            
-          
-            <h2 class="text-gray-600 py-4 animated fadeIn">
-              <i class="remixicon-map-pin-time-line"></i>
-              2017
-            </h2>
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-                <a href="https://annzan.xyz/post/OmAFPxA2L" class="post">
-                  <h2 class="inline-block font-bold text-lg post-title animated fadeIn">
-                    部分过期的很丧的文章被我隐藏了
-                  </h2>
-                </a>
-                <div class="text-sm font-light mt-3 mb-6 text-gray-400 animated fadeInDown" style="animation-delay: 0.4s">于星星历 06月15号上传到这个神奇的网站</div>
-              
-            
+      </div>
+      <div class="text-gray-400 text-sm font-light">于星星历 12月12号上传到这个神奇的网站 / 1 min read</div>
+    </div>
+  </section>
+
+  <section class="post-item md:flex pb-12 animated fadeIn" :style="{ 'animation-delay': `${1 * 0.2}s` }">
+    
+    <div class="content">
+      <a href="https://annzan.xyz/post/OmAFPxA2L">
+        <h2 class="post-title text-xl font-extrabold mt-5 md:mt-0">部分过期的很丧的文章被我隐藏了</h2>
+      </a>
+      <div class="post-abstract text-gray-700 font-light my-4">
+        
+      </div>
+      <div class="text-gray-400 text-sm font-light">于星星历 06月15号上传到这个神奇的网站 / 1 min read</div>
+    </div>
+  </section>
+
+        <div class="read-more">
           
         </div>
-
-        <div>
+        <div class="index-page">
           <div class="pagination-container animated fadeIn">
+  
+    <a href="https://annzan.xyz/page/2/" class="page-btn"><i class="remixicon-arrow-left-line"></i> 上一页</a>
   
   
 </div>
