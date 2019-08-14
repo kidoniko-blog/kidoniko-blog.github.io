@@ -17,7 +17,7 @@
 
   </head>
   <body>
-    <div id="app" class="main px-4 flex flex-col lg:flex-row">
+    <div class="main px-4 flex flex-col lg:flex-row">
       <div id="sidebar" class="sidebar-wrapper lg:static lg:w-1/4">
   <div class="lg:sticky top-0">
     <div class="sidebar-content">
@@ -117,11 +117,69 @@
 <div class="mask" onclick="closeMenu()">
 </div>
       <div class="content-wrapper py-32 lg:p-8 lg:w-3/4">
-        <h2 class="text-lg text-gray-700 mb-8">
-          <i class="remixicon-bookmark-2-line"></i> 标签云
+        <h2 class="latest-article text-lg text-gray-700 mb-8">
+          <i class="remixicon-article-line"></i>
+          最新文章
         </h2>
-        <div class="tags-container">
+        
+  <section class="post-item md:flex pb-12 animated fadeIn" :style="{ 'animation-delay': `${0 * 0.2}s` }">
+    
+    <div class="content">
+      <a href="http://annzan.xyz/post/yi-xie-shi-hua">
+        <h2 class="post-title text-xl font-extrabold mt-5 md:mt-0">又是一些不知道会不会成真的垃圾话</h2>
+      </a>
+      <div class="post-abstract text-gray-700 font-light my-4">
+        <p>·<br>
+既然这是一个不会有人知道的地方，那我就知无不言了。</p>
+<p>首先，我生存在一个非常压抑、非常痛苦的家庭环境里。</p>
+<p>父母离异、家暴。</p>
+<p>我逐渐长大了，老妈不敢打我了。</p>
+<p>但我仍然记得儿时的恐惧。</p>
+
+      </div>
+      <div class="text-gray-400 text-sm font-light">于星星历 08月08号上传到这个神奇的网站 / 1 min read</div>
+    </div>
+  </section>
+
+  <section class="post-item md:flex pb-12 animated fadeIn" :style="{ 'animation-delay': `${1 * 0.2}s` }">
+    
+    <div class="content">
+      <a href="http://annzan.xyz/post/yi-qi-yi-hui-ren-jian-zou-yi-zao-bu-guo-yi-miao-wan-nian-he-wan-nian-yi-miao">
+        <h2 class="post-title text-xl font-extrabold mt-5 md:mt-0">一期一会：人间走一遭，不过一秒万年和万年一秒</h2>
+      </a>
+      <div class="post-abstract text-gray-700 font-light my-4">
+        
+      </div>
+      <div class="text-gray-400 text-sm font-light">于星星历 08月08号上传到这个神奇的网站 / 1 min read</div>
+    </div>
+  </section>
+
+  <section class="post-item md:flex pb-12 animated fadeIn" :style="{ 'animation-delay': `${2 * 0.2}s` }">
+    
+    <div class="content">
+      <a href="http://annzan.xyz/post/ceng-jing-zao-shou-de-na-ge-hai-zi-chang-da-liao-luan-yu-wo-de-6200-tian-ri-zi">
+        <h2 class="post-title text-xl font-extrabold mt-5 md:mt-0">曾经「早熟」的那个孩子长大了: 乱语我的6200天日子</h2>
+      </a>
+      <div class="post-abstract text-gray-700 font-light my-4">
+        <p>每当你想自戕时，想象一下，你重生了。<br>
+——某知名中文程序员社区，某猿在一篇自杀咨询帖下，如是回复。</p>
+
+      </div>
+      <div class="text-gray-400 text-sm font-light">于星星历 08月07号上传到这个神奇的网站 / 1 min read</div>
+    </div>
+  </section>
+
+        <div class="read-more">
           
+        </div>
+        <div class="index-page">
+          <div class="pagination-container animated fadeIn">
+  
+    <a href="http://annzan.xyz/page/2/" class="page-btn"><i class="remixicon-arrow-left-line"></i> 上一页</a>
+  
+  
+</div>
+
         </div>
       </div>
     </div>
