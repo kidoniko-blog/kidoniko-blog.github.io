@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://annzan.xyz</id>
     <title>曲奇看繁星🍪</title>
-    <updated>2019-08-14T07:10:26.626Z</updated>
+    <updated>2019-08-14T07:15:42.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://annzan.xyz"/>
     <link rel="self" href="https://annzan.xyz/atom.xml"/>
@@ -20,6 +20,13 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>➡️<a href="https://annzan.xyz/post/fz/">友人帐</a> ➡️ <a href="https://annzan.xyz/post/who/">关于我</a>  ➡️<a href="http://allcp.net">公子长佩</a>🤘为了学习，我今天有特意去买了一盒巧克力，预计前途是一片光明。</p>
 ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个让Mac端支持iPhone App免流的方法]]></title>
+        <id>https://annzan.xyz/post/XoMAYl3Tz</id>
+        <link href="https://annzan.xyz/post/XoMAYl3Tz">
+        </link>
+        <updated>2019-08-14T07:10:44.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[「带你去私奔唷。」：简评《满地都是小星星》陆]]></title>
@@ -74,35 +81,6 @@
 <p><a href="https://www.douban.com/note/264551404/">林青霞</a> 2013-03-01</p>
 </blockquote>
 <p>我做好了准备离开你，而且也按计划去实施了，我把自己封在厚厚的茧子里，不愿和你再有瓜葛，更不愿与你再起纷争。就当你是一个与我无关的人吧。我想，只要这样坚持下去，我会忘了你的。世上哪有忘不了的人呢？</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好气。Markdown居然不支持右对齐]]></title>
-        <id>https://annzan.xyz/post/kbg2JV-rR</id>
-        <link href="https://annzan.xyz/post/kbg2JV-rR">
-        </link>
-        <updated>2019-08-12T02:16:20.000Z</updated>
-        <summary type="html"><![CDATA[<pre><code>居中：
-&lt;center&gt;诶嘿&lt;/center&gt;
-
-左对齐：
-&lt;p align=&quot;left&quot;&gt;诶嘿&lt;/p&gt;
-右对齐：
-&lt;p align=&quot;right&quot;&gt;诶嘿&lt;/p&gt;
-
-绝对正确，诶嘿~~
-</code></pre>
-]]></summary>
-        <content type="html"><![CDATA[<pre><code>居中：
-&lt;center&gt;诶嘿&lt;/center&gt;
-
-左对齐：
-&lt;p align=&quot;left&quot;&gt;诶嘿&lt;/p&gt;
-右对齐：
-&lt;p align=&quot;right&quot;&gt;诶嘿&lt;/p&gt;
-
-绝对正确，诶嘿~~
-</code></pre>
 ]]></content>
     </entry>
 </feed>
