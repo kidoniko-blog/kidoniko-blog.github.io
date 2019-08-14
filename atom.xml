@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://annzan.xyz</id>
     <title>曲奇看繁星🍪</title>
-    <updated>2019-08-14T07:30:50.274Z</updated>
+    <updated>2019-08-14T07:35:26.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://annzan.xyz"/>
     <link rel="self" href="https://annzan.xyz/atom.xml"/>
@@ -20,6 +20,13 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>➡️<a href="https://annzan.xyz/post/fz/">友人帐</a> ➡️ <a href="https://annzan.xyz/post/who/">关于我</a>  ➡️<a href="http://allcp.net">公子长佩</a>🤘为了学习，我今天有特意去买了一盒巧克力，预计前途是一片光明。</p>
 ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[别用ios搜狗输入法的粘贴辅助]]></title>
+        <id>https://annzan.xyz/post/N1MV7BXqy</id>
+        <link href="https://annzan.xyz/post/N1MV7BXqy">
+        </link>
+        <updated>2019-08-14T07:33:01.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[对一些事情的看法]]></title>
@@ -44,33 +51,6 @@
         <summary type="html"><![CDATA[<p>从此，我们只有死别，再无生离。 —— 杨绛《我们仨》</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>从此，我们只有死别，再无生离。 —— 杨绛《我们仨》</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一次Github pages+Gridea协作搭建静态博客的经历]]></title>
-        <id>https://annzan.xyz/post/xpwgqKyCG</id>
-        <link href="https://annzan.xyz/post/xpwgqKyCG">
-        </link>
-        <updated>2019-08-14T05:42:38.000Z</updated>
-        <summary type="html"><![CDATA[<p><a href="https://gridea.dev/docs/">官方文档</a><br>
-不想写成教程向。毕竟网上帖子很多，自己爬贴也是一种体验（笑<br>
-小白向的话Gridea作者已经给你们写好<a href="https://fehey.com/post/hve-notes-start/">教程</a>咯<br>
-非专业向，毕竟我只是一个什么也不懂的小透明。<br>
-就写意一点，一种FU~</p>
-<p>首先准备环境。Git+Gridea macOS的话还需要xcode<br>
-如果你的macOS不是最新的话，可以到developers<a href="https://developer.apple.com/download/more/">那个页面</a>去下载xcode 10<br>
-或者直接在<a href="https://www.jianshu.com/p/75fd6f051216">我这个页面</a>下载历史版本<br>
-注意Linux的Gridea很可能挂了。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><a href="https://gridea.dev/docs/">官方文档</a><br>
-不想写成教程向。毕竟网上帖子很多，自己爬贴也是一种体验（笑<br>
-小白向的话Gridea作者已经给你们写好<a href="https://fehey.com/post/hve-notes-start/">教程</a>咯<br>
-非专业向，毕竟我只是一个什么也不懂的小透明。<br>
-就写意一点，一种FU~</p>
-<p>首先准备环境。Git+Gridea macOS的话还需要xcode<br>
-如果你的macOS不是最新的话，可以到developers<a href="https://developer.apple.com/download/more/">那个页面</a>去下载xcode 10<br>
-或者直接在<a href="https://www.jianshu.com/p/75fd6f051216">我这个页面</a>下载历史版本<br>
-注意Linux的Gridea很可能挂了。</p>
 ]]></content>
     </entry>
 </feed>
