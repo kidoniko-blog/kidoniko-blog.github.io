@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://annzan.xyz</id>
     <title>🍪曲奇看繁星</title>
-    <updated>2019-08-14T03:02:29.235Z</updated>
+    <updated>2019-08-14T03:05:50.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://annzan.xyz"/>
     <link rel="self" href="https://annzan.xyz/atom.xml"/>
@@ -19,6 +19,17 @@
         <summary type="html"><![CDATA[<p>为了学习，我今天有特意去买了一盒巧克力，预计前途是一片光明。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>为了学习，我今天有特意去买了一盒巧克力，预计前途是一片光明。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「带你去私奔唷。」：简评《满地都是小星星》陆]]></title>
+        <id>https://annzan.xyz/post/dai-ni-qu-si-ben-yo-jian-ping-man-di-du-shi-xiao-xing-xing</id>
+        <link href="https://annzan.xyz/post/dai-ni-qu-si-ben-yo-jian-ping-man-di-du-shi-xiao-xing-xing">
+        </link>
+        <updated>2019-08-14T05:53:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>从此，我们只有死别，再无生离。 —— 杨绛《我们仨》</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>从此，我们只有死别，再无生离。 —— 杨绛《我们仨》</p>
 ]]></content>
     </entry>
     <entry>
@@ -80,17 +91,6 @@
         <content type="html"><![CDATA[<p>虽然很想体验一下Catalina，但毕竟Pubic Beta那也不是正式版对吧。听说会有CPU占用鬼畜变高的情况。我可不想让我的小风扇呼呼呼。<br>
 那么就保守更新一下Mojave的10.14.6吧<br>
 结果我的middle 2012（型号md223），在9102年下半年仍然使用64g过时巨大SSD的MacBook Air 11&quot;翻车了。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「带你去私奔唷。」：简评《满地都是小星星》陆]]></title>
-        <id>https://annzan.xyz/post/dai-ni-qu-si-ben-yo-jian-ping-man-di-du-shi-xiao-xing-xing</id>
-        <link href="https://annzan.xyz/post/dai-ni-qu-si-ben-yo-jian-ping-man-di-du-shi-xiao-xing-xing">
-        </link>
-        <updated>2019-08-08T05:53:30.000Z</updated>
-        <summary type="html"><![CDATA[<p>从此，我们只有死别，再无生离。 —— 杨绛《我们仨》</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>从此，我们只有死别，再无生离。 —— 杨绛《我们仨》</p>
 ]]></content>
     </entry>
 </feed>
