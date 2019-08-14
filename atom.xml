@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://annzan.xyz</id>
+    <id>https://annzan.xyz</id>
     <title>🍪曲奇看繁星</title>
-    <updated>2019-08-14T02:31:30.761Z</updated>
+    <updated>2019-08-14T02:41:26.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://annzan.xyz"/>
-    <link rel="self" href="http://annzan.xyz/atom.xml"/>
+    <link rel="alternate" href="https://annzan.xyz"/>
+    <link rel="self" href="https://annzan.xyz/atom.xml"/>
     <subtitle>耽美文学爱好者&lt;br&gt;魔都&lt;br&gt;小透明&lt;br&gt;&lt;br&gt;我们总为了挣扎而低落&lt;br&gt;却又因为每一次间歇性的幸福到来而撑过，如此生存着</subtitle>
-    <logo>http://annzan.xyz/images/avatar.png</logo>
-    <icon>http://annzan.xyz/favicon.ico</icon>
+    <logo>https://annzan.xyz/images/avatar.png</logo>
+    <icon>https://annzan.xyz/favicon.ico</icon>
     <rights>All rights reserved 2019, 🍪曲奇看繁星</rights>
     <entry>
         <title type="html"><![CDATA[「Up!」Study with me]]></title>
-        <id>http://annzan.xyz/post/F6pkYHCsz</id>
-        <link href="http://annzan.xyz/post/F6pkYHCsz">
+        <id>https://annzan.xyz/post/F6pkYHCsz</id>
+        <link href="https://annzan.xyz/post/F6pkYHCsz">
         </link>
         <updated>2020-08-14T01:39:50.000Z</updated>
         <summary type="html"><![CDATA[<p>为了学习，我今天有特意去买了一盒巧克力，预计前途是一片光明。</p>
@@ -23,8 +23,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[「转载」从此以后，咱们只有死别，再无生离。]]></title>
-        <id>http://annzan.xyz/post/qwgUEa9Rm</id>
-        <link href="http://annzan.xyz/post/qwgUEa9Rm">
+        <id>https://annzan.xyz/post/qwgUEa9Rm</id>
+        <link href="https://annzan.xyz/post/qwgUEa9Rm">
         </link>
         <updated>2019-08-12T02:19:17.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
@@ -40,8 +40,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[好气。Markdown居然不支持右对齐]]></title>
-        <id>http://annzan.xyz/post/kbg2JV-rR</id>
-        <link href="http://annzan.xyz/post/kbg2JV-rR">
+        <id>https://annzan.xyz/post/kbg2JV-rR</id>
+        <link href="https://annzan.xyz/post/kbg2JV-rR">
         </link>
         <updated>2019-08-12T02:16:20.000Z</updated>
         <summary type="html"><![CDATA[<pre><code>居中：
@@ -69,8 +69,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[不要升级！MacOS 10.14.6 →12款MBA11]]></title>
-        <id>http://annzan.xyz/post/bu-yao-sheng-ji-macos-10146-12-kuan-mba11</id>
-        <link href="http://annzan.xyz/post/bu-yao-sheng-ji-macos-10146-12-kuan-mba11">
+        <id>https://annzan.xyz/post/bu-yao-sheng-ji-macos-10146-12-kuan-mba11</id>
+        <link href="https://annzan.xyz/post/bu-yao-sheng-ji-macos-10146-12-kuan-mba11">
         </link>
         <updated>2019-08-11T15:27:00.000Z</updated>
         <summary type="html"><![CDATA[<p>虽然很想体验一下Catalina，但毕竟Pubic Beta那也不是正式版对吧。听说会有CPU占用鬼畜变高的情况。我可不想让我的小风扇呼呼呼。<br>
@@ -84,8 +84,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[「带你去私奔唷。」：简评《满地都是小星星》陆]]></title>
-        <id>http://annzan.xyz/post/dai-ni-qu-si-ben-yo-jian-ping-man-di-du-shi-xiao-xing-xing</id>
-        <link href="http://annzan.xyz/post/dai-ni-qu-si-ben-yo-jian-ping-man-di-du-shi-xiao-xing-xing">
+        <id>https://annzan.xyz/post/dai-ni-qu-si-ben-yo-jian-ping-man-di-du-shi-xiao-xing-xing</id>
+        <link href="https://annzan.xyz/post/dai-ni-qu-si-ben-yo-jian-ping-man-di-du-shi-xiao-xing-xing">
         </link>
         <updated>2019-08-08T05:53:30.000Z</updated>
         <summary type="html"><![CDATA[<p>从此，我们只有死别，再无生离。 —— 杨绛《我们仨》</p>
