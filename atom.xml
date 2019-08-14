@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://annzan.xyz</id>
     <title>曲奇看繁星🍪</title>
-    <updated>2019-08-14T07:40:58.986Z</updated>
+    <updated>2019-08-14T07:46:28.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://annzan.xyz"/>
     <link rel="self" href="https://annzan.xyz/atom.xml"/>
@@ -20,6 +20,13 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>➡️<a href="https://annzan.xyz/post/fz/">友人帐</a> ➡️ <a href="https://annzan.xyz/post/who/">关于我</a>  ➡️<a href="http://allcp.net">公子长佩</a>🤘为了学习，我今天有特意去买了一盒巧克力，预计前途是一片光明。</p>
 ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「中美贸易摩擦」b站里一些令人血脉贲张的评论]]></title>
+        <id>https://annzan.xyz/post/2B9V3MA-t</id>
+        <link href="https://annzan.xyz/post/2B9V3MA-t">
+        </link>
+        <updated>2019-08-14T07:43:45.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[「我不是我没有」奇怪的已读列表什么的]]></title>
@@ -41,12 +48,5 @@
         <link href="https://annzan.xyz/post/sTDSCZppw">
         </link>
         <updated>2019-08-14T07:27:01.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个让Mac端支持iPhone App免流的方法]]></title>
-        <id>https://annzan.xyz/post/XoMAYl3Tz</id>
-        <link href="https://annzan.xyz/post/XoMAYl3Tz">
-        </link>
-        <updated>2019-08-14T07:10:44.000Z</updated>
     </entry>
 </feed>
