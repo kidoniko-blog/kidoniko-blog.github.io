@@ -17,7 +17,7 @@
 
   </head>
   <body>
-    <div id="app" class="main px-4 flex flex-col lg:flex-row">
+    <div class="main px-4 flex flex-col lg:flex-row">
       <div id="sidebar" class="sidebar-wrapper lg:static lg:w-1/4">
   <div class="lg:sticky top-0">
     <div class="sidebar-content">
@@ -31,17 +31,30 @@
       
         <div class="animated fadeInLeft" style="animation-delay: 0.4s">
           <p class="my-4 text-gray-600 font-light hidden lg:block">
-            文章目录
+            耽美文学爱好者<br>魔都<br>小透明<br><br>↓↓安利↓↓<br>「满地都是小星星」陆<br>「璀璨」水在镜中<br>夜空中最亮的星<br><br>我们总为了挣扎而低落<br>却又因为每一次间歇性的幸福到来而撑过，如此生存着
           </p>
-          <div class="toc-container hidden lg:block">
-            <ul class="markdownIt-TOC">
-<li>
-<ul>
-<li><a href="#%E7%89%B9%E6%80%A7">特性👇</a></li>
-</ul>
-</li>
-</ul>
-
+          <div class="animated fadeInLeft social-container hidden lg:block" style="animation-delay: 0.6s">
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
           </div>
         </div>
       
@@ -103,80 +116,39 @@
 </div>
 <div class="mask" onclick="closeMenu()">
 </div>
-      <div class="content-wrapper py-32 lg:p-8 lg:w-3/4 post-detail animated fadeIn">
-        <h1 class="text-3xl font-bold lg:mt-16">Hello Gridea</h1>
-        <div class="text-sm text-gray-700 lg:my-8">
-          于星星历 12月12号上传到这个神奇的网站 / 1 min read
-        </div>
+      <div class="content-wrapper py-32 lg:p-8 lg:w-3/4">
+        <h2 class="latest-article text-lg text-gray-700 mb-8">
+          <i class="remixicon-article-line"></i>
+          最新文章
+        </h2>
         
-          <img class="post-feature-image rounded-lg mx-auto my-4" src="http://annzan.xyz/post-images/hello-gridea.png" alt="">
-        
-        <div class="post-content yue">
-          <p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="http://hvenotes.fehey.com/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>𝖶𝗂𝗇𝖽𝗈𝗐𝗌</strong> 或 <strong>𝖬𝖺𝖼𝖮𝖲</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+  <section class="post-item md:flex pb-12 animated fadeIn" :style="{ 'animation-delay': `${0 * 0.2}s` }">
+    
+    <div class="content">
+      <a href="http://annzan.xyz/post/ceng-jing-zao-shou-de-na-ge-hai-zi-chang-da-liao-luan-yu-wo-de-6200-tian-ri-zi">
+        <h2 class="post-title text-xl font-extrabold mt-5 md:mt-0">曾经「早熟」的那个孩子长大了: 乱语我的6200天日子</h2>
+      </a>
+      <div class="post-abstract text-gray-700 font-light my-4">
+        <p>每当你想自戕时，想象一下，你重生了。<br>
+——某知名中文程序员社区，某猿在一篇自杀咨询帖下，如是回复。</p>
 
-        </div>
+      </div>
+      <div class="text-gray-400 text-sm font-light">于星星历 08月07号上传到这个神奇的网站 / 1 min read</div>
+    </div>
+  </section>
 
-        
-          <a class="animated fadeInUp p-2 items-center text-sm text-gray-700 border hover:bg-gray-300 leading-none rounded-full flex lg:inline-flex m-4 " href="http://annzan.xyz/tag/CLjGLBZ8y">
-            <span class="flex-auto">Gridea</span>
-          </a>
-        
-
-
-        <div class="flex justify-between py-8">
-          
-
+        <div class="read-more">
           
         </div>
+        <div class="index-page">
+          <div class="pagination-container animated fadeIn">
+  
+    <a href="http://annzan.xyz/page/3/" class="page-btn"><i class="remixicon-arrow-left-line"></i> 上一页</a>
+  
+  
+</div>
 
-        
-          
-            <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
-
-<div id="gitalk-container"></div>
-
-<script>
-
-  var gitalk = new Gitalk({
-    clientID: '3692ea75628d0aeee7c6',
-    clientSecret: 'e29d4c310c5b90c69177e913719c50e961288aa7',
-    repo: 'pinglun',
-    owner: 'kidoniko-blog',
-    admin: ['kidoniko-blog'],
-    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
-    distractionFreeMode: false  // Facebook-like distraction free mode
-  })
-
-  gitalk.render('gitalk-container')
-
-</script>
-
-          
-
-          
-        
-
+        </div>
       </div>
     </div>
 
