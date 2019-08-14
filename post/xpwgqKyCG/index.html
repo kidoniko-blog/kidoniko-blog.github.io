@@ -43,14 +43,7 @@
             文章目录
           </p>
           <div class="toc-container hidden lg:block">
-            <ul class="markdownIt-TOC">
-<li>
-<ul>
-<li><a href="#%E7%89%B9%E6%80%A7">特性👇</a></li>
-</ul>
-</li>
-</ul>
-
+            
           </div>
         </div>
       
@@ -113,50 +106,96 @@
 <div class="mask" onclick="closeMenu()">
 </div>
       <div class="content-wrapper py-32 lg:p-8 lg:w-3/4 post-detail animated fadeIn">
-        <h1 class="text-3xl font-bold lg:mt-16">Hello World！</h1>
+        <h1 class="text-3xl font-bold lg:mt-16">一次Github pages+Gridea协作建站的经历</h1>
         <div class="text-sm text-gray-700 lg:my-8">
-          12-12 / 1 min read
+          08-14 / 1 min read
         </div>
         
         <div class="post-content yue">
-          <p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="http://hvenotes.fehey.com/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>𝖶𝗂𝗇𝖽𝗈𝗐𝗌</strong> 或 <strong>𝖬𝖺𝖼𝖮𝖲</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+          <p>不想写成教程向。毕竟网上帖子很多，自己爬贴也是一种体验（笑<br>
+非专业向，毕竟我只是一个什么也不懂的小透明。<br>
+就写意一点，一种FU~</p>
+<p>首先准备环境。Git+Gridea macOS的话还需要xcode<br>
+如果你的macOS不是最新的话，可以到developers那个页面去下载xcode 10<br>
+注意Linux的Gridea很可能挂了。</p>
+<p>好了<br>
+首先注册github账号。<br>
+然后开一个nickname.github.io的repo<br>
+默认的话page服务是开的<br>
+在github申请一个开了repo权限的OAuth<br>
+然后把相关的东西填到Gridea里<br>
+（这里注意网址那里前缀一定填https：//，因为填错网页会异常）<br>
+然后Gridea左下角同步一下就行了<br>
+相当于就是git里的push，<br>
+（这里要吹一下，比MWeb的静态博客部署功能更进了一步。MWeb只能帮你本地网页渲染好，还要你自己到terminal去粘贴执行一下。当然这个也跟macOS的sandbox有关吧大概）<br>
+到此网站基本就可以访问了。<br>
+如果不能访问的话清除一下浏览器缓存。<br>
+还是不能的话删一下repo，重新操作一遍。<br>
+网页显示异常的话注意一下gridea那里填的是不是https前缀</p>
+<p>接下来是域名。<br>
+国内的服务商都得备案的。<br>
+我的话直接在狗爹Godaddy上买的.xyz域名，首年9元续费100。<br>
+当然你也可以在深水宝上搜「godaddy域名」，可以买到首年58续费也58的.com域名。当然也可以去买它家已经备案的老域名。对SEO比较好（我什么也没说。<br>
+域名买好把DNS改到DNSpod或者Cloudflare家的（你自己注册我就不说了）<br>
+我用的是cf，因为cf有免费的cdn用（可恶的verycloud不给没备案的网站用）<br>
+改好以后等几分钟到cloudflare去识别，如果识别不到的话等它识别了会给你发邮件的。<br>
+然后添加一个A记录，域名填你注册的域名，ip填<br>
+185.199.108.153<br>
+185.199.109.153<br>
+185.199.110.153<br>
+185.199.111.153<br>
+上面的随便一个就行。通用的。<br>
+不要相信那些让你填192.30.252.153 或 192.30.252.154 或207.97.227.245 或 204.232.175.78的教程，这些教程都过时了。它们要么是不支持https，要么是已经停用，实际上只作为转发的了。</p>
+<p>最后到github pages那里绑定好你的域名。<br>
+把enforce https打开。现在github支持给自定义的域名开强制https了。<br>
+这样你的域名就可以成功被解析了。<br>
+这里附上GIthub官方的三方域名绑定的FAQ<a href="https://help.github.com/cn/articles/troubleshooting-custom-domains">传送</a><br>
+如果你用的是cf的话，等12小时应该就可以加上cdn了。<br>
+用这个可以测一下速度。http://tool.chinaz.com/speedtest/<br>
+还行的话就不用开cdn了，cf的cdn也不咋地（雾</p>
+<p>然后配置一下评论服务。<br>
+推荐用Gridea的小白教程里用的Gitalk<br>
+Disqus在国内会有一些问题。<br>
+一样，到他给的那个页面申请一下OAuth，填到Gridea里<br>
+同样注意填写的时候的http和https的区分。<br>
+仓库的话你可以新建一个repo专门用于存放评论。<br>
+发布以后到网站上去按提示开通一下，就好了。</p>
+<p>不过评论者都要有github账号，这个很不方便。<br>
+如果有朋友有那种填一下昵称和邮箱就能评论的，请一定告诉我。</p>
+<p>最后再到Google统计添加一下你的网站，获取一个UA-xxxxx-x代码，填到Gridea上对应的位置（具体我不多说了，你自己搜一下教程叭）<br>
+这样就可以看到你网站的访问量了。<br>
+可以到https://www.giuem.com/google-analytics-loading-optimize/<br>
+这里添加一个代码，可以优化google统计的加载速度。</p>
+<p>最后你可以到百度添加一下你的网站，然后等着随缘收录叭<br>
+然后你还可以到各种小朋友的网站里请求互加一下友链。<br>
+注意你自己要先把对方加到友链里噢<br>
+有的博主会要求博客更新数量和成立时间以及https什么的。你可以改一下文章创建时间骗一下？（逃，不过看WHois一切就都真相了</p>
+<p>PS</p>
+<p>Gridea那个付费的6元主题很好看，推荐食用<br>
+默认的Notes主题在手机端的宽度有点问题，会特别窄，显示不舒服的。<br>
+把文章的创建时间改到未来，可以实现让文章置顶的功效。<br>
+通过更改源文件夹，可以实现类似于让Gridea「切换账号」的功效，让你可以同时更新不同的博客。<br>
+这里建议如果真的要建多个博客的话可以注册多个Github账号，因为如果再新建一个Repo的话这个repo属于项目网页，绑定域名的时候会遇到麻烦（<a href="https://help.github.com/cn/articles/custom-domain-redirects-for-github-pages-sites">参见</a>）<br>
+不建议食用Coding pages，因为它的免费版里会有重定向，百度也不收录它了，所以它唯一的优点也消失了。<br>
+另外它在高峰期会爆炸，连访问都访问不了，哪像Github稳定如斯的慢，我最爱G家了<br>
+通过坚果云可以实现定期备份Gridea的文件到云端。防止丢失。<br>
+这里再次安利macOS时光机器（Time Machine），群里一位朋友Mojave小升一下居然卡白苹果了，真是可怕如斯(再次建议全员不要升级10.15.6。<br>
+Gridea的网站描述和底部信息支持html,这里提供一个最实用的代码，也就是：蹡蹡 <code>&lt;br&gt;</code>换行符。简单又实用<br>
+网站没有更新或者有奇怪的问题的话，删浏览器缓存+删repo大法好。<br>
+换网站主题容易出bug，出了bug的话删repo大法好。</p>
 
         </div>
 
-        
-          <a class="animated fadeInUp p-2 items-center text-sm text-gray-700 border hover:bg-gray-300 leading-none rounded-full flex lg:inline-flex m-4 " href="https://annzan.xyz/tag/CLjGLBZ8y">
-            <span class="flex-auto">Gridea</span>
-          </a>
         
 
 
         <div class="flex justify-between py-8">
           
             <div class="prev-post">
-              <a href="https://annzan.xyz/post/ling-rou-guan-xi">
+              <a href="https://annzan.xyz/post/dai-ni-qu-si-ben-yo-jian-ping-man-di-du-shi-xiao-xing-xing">
                 <h3 class="post-title">
                   <i class="remixicon-arrow-left-line"></i>
-                  那个穿着青橘色衬衫的少年阿，你在哪里？
+                  「带你去私奔唷。」：简评《满地都是小星星》陆
                 </h3>
               </a>
             </div>
@@ -164,9 +203,9 @@
 
           
             <div class="next-post">
-              <a href="https://annzan.xyz/post/OmAFPxA2L">
+              <a href="https://annzan.xyz/post/qwgUEa9Rm">
                 <h3 class="post-title">
-                  部分过期的很丧的文章被我隐藏了
+                  「杨绛」从此以后，咱们只有死别，再无生离。
                   <i class="remixicon-arrow-right-line"></i>
                 </h3>
               </a>

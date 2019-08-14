@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://annzan.xyz</id>
     <title>曲奇看繁星🍪</title>
-    <updated>2019-08-14T04:46:32.594Z</updated>
+    <updated>2019-08-14T06:29:15.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://annzan.xyz"/>
     <link rel="self" href="https://annzan.xyz/atom.xml"/>
@@ -31,6 +31,13 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>从此，我们只有死别，再无生离。 —— 杨绛《我们仨》</p>
 ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一次Github pages+Gridea协作建站的经历]]></title>
+        <id>https://annzan.xyz/post/xpwgqKyCG</id>
+        <link href="https://annzan.xyz/post/xpwgqKyCG">
+        </link>
+        <updated>2019-08-14T05:42:38.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[「杨绛」从此以后，咱们只有死别，再无生离。]]></title>
@@ -76,21 +83,6 @@
 
 绝对正确，诶嘿~~
 </code></pre>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不要升级！MacOS 10.14.6 →12款MBA11]]></title>
-        <id>https://annzan.xyz/post/bu-yao-sheng-ji-macos-10146-12-kuan-mba11</id>
-        <link href="https://annzan.xyz/post/bu-yao-sheng-ji-macos-10146-12-kuan-mba11">
-        </link>
-        <updated>2019-08-11T15:27:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>虽然很想体验一下Catalina，但毕竟Pubic Beta那也不是正式版对吧。听说会有CPU占用鬼畜变高的情况。我可不想让我的小风扇呼呼呼。<br>
-那么就保守更新一下Mojave的10.14.6吧<br>
-结果我的middle 2012（型号md223），在9102年下半年仍然使用64g过时巨大SSD的MacBook Air 11&quot;翻车了。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>虽然很想体验一下Catalina，但毕竟Pubic Beta那也不是正式版对吧。听说会有CPU占用鬼畜变高的情况。我可不想让我的小风扇呼呼呼。<br>
-那么就保守更新一下Mojave的10.14.6吧<br>
-结果我的middle 2012（型号md223），在9102年下半年仍然使用64g过时巨大SSD的MacBook Air 11&quot;翻车了。</p>
 ]]></content>
     </entry>
 </feed>
