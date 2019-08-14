@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>/Users/guest/Documents/GrideaGithub/output</id>
+    <id>https://annzan.xyz</id>
     <title>曲奇看繁星🍪</title>
-    <updated>2019-08-14T06:56:43.923Z</updated>
+    <updated>2019-08-14T06:58:31.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="/Users/guest/Documents/GrideaGithub/output"/>
-    <link rel="self" href="/Users/guest/Documents/GrideaGithub/output/atom.xml"/>
+    <link rel="alternate" href="https://annzan.xyz"/>
+    <link rel="self" href="https://annzan.xyz/atom.xml"/>
     <subtitle>耽美文学爱好者🌈&lt;br&gt;魔都🏙&lt;br&gt;小透明☝️&lt;br&gt;&lt;br&gt;我们总为了挣扎而低落&lt;br&gt;却又因为每一次间歇性的幸福到来而撑过，如此生存着</subtitle>
-    <logo>/Users/guest/Documents/GrideaGithub/output/images/avatar.png</logo>
-    <icon>/Users/guest/Documents/GrideaGithub/output/favicon.ico</icon>
+    <logo>https://annzan.xyz/images/avatar.png</logo>
+    <icon>https://annzan.xyz/favicon.ico</icon>
     <rights>All rights reserved 2019, 曲奇看繁星🍪</rights>
     <entry>
         <title type="html"><![CDATA[「置顶」Study with me]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/F6pkYHCsz/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/F6pkYHCsz/index.html">
+        <id>https://annzan.xyz/post/F6pkYHCsz</id>
+        <link href="https://annzan.xyz/post/F6pkYHCsz">
         </link>
         <updated>2020-08-14T01:39:50.000Z</updated>
         <summary type="html"><![CDATA[<p>➡️<a href="https://annzan.xyz/post/fz/">友人帐</a> ➡️ <a href="https://annzan.xyz/post/who/">关于我</a>  🤘为了学习，我今天有特意去买了一盒巧克力，预计前途是一片光明。</p>
@@ -23,8 +23,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[「带你去私奔唷。」：简评《满地都是小星星》陆]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/dai-ni-qu-si-ben-yo-jian-ping-man-di-du-shi-xiao-xing-xing/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/dai-ni-qu-si-ben-yo-jian-ping-man-di-du-shi-xiao-xing-xing/index.html">
+        <id>https://annzan.xyz/post/dai-ni-qu-si-ben-yo-jian-ping-man-di-du-shi-xiao-xing-xing</id>
+        <link href="https://annzan.xyz/post/dai-ni-qu-si-ben-yo-jian-ping-man-di-du-shi-xiao-xing-xing">
         </link>
         <updated>2019-08-14T05:53:30.000Z</updated>
         <summary type="html"><![CDATA[<p>从此，我们只有死别，再无生离。 —— 杨绛《我们仨》</p>
@@ -34,8 +34,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[一次Github pages+Gridea协作建站的经历]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/xpwgqKyCG/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/xpwgqKyCG/index.html">
+        <id>https://annzan.xyz/post/xpwgqKyCG</id>
+        <link href="https://annzan.xyz/post/xpwgqKyCG">
         </link>
         <updated>2019-08-14T05:42:38.000Z</updated>
         <summary type="html"><![CDATA[<p><a href="https://gridea.dev/docs/">官方文档</a><br>
@@ -45,6 +45,7 @@
 就写意一点，一种FU~</p>
 <p>首先准备环境。Git+Gridea macOS的话还需要xcode<br>
 如果你的macOS不是最新的话，可以到developers那个页面去下载xcode 10<br>
+或者直接在<a href="https://www.jianshu.com/p/75fd6f051216">我这个页面</a>下载历史版本<br>
 注意Linux的Gridea很可能挂了。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><a href="https://gridea.dev/docs/">官方文档</a><br>
@@ -54,13 +55,14 @@
 就写意一点，一种FU~</p>
 <p>首先准备环境。Git+Gridea macOS的话还需要xcode<br>
 如果你的macOS不是最新的话，可以到developers那个页面去下载xcode 10<br>
+或者直接在<a href="https://www.jianshu.com/p/75fd6f051216">我这个页面</a>下载历史版本<br>
 注意Linux的Gridea很可能挂了。</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[「杨绛」从此以后，咱们只有死别，再无生离。]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/qwgUEa9Rm/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/qwgUEa9Rm/index.html">
+        <id>https://annzan.xyz/post/qwgUEa9Rm</id>
+        <link href="https://annzan.xyz/post/qwgUEa9Rm">
         </link>
         <updated>2019-08-12T02:19:17.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
@@ -76,8 +78,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[好气。Markdown居然不支持右对齐]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/kbg2JV-rR/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/kbg2JV-rR/index.html">
+        <id>https://annzan.xyz/post/kbg2JV-rR</id>
+        <link href="https://annzan.xyz/post/kbg2JV-rR">
         </link>
         <updated>2019-08-12T02:16:20.000Z</updated>
         <summary type="html"><![CDATA[<pre><code>居中：
