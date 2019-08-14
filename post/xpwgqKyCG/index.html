@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>曲奇看繁星🍪</title>
 <meta name="description" content="耽美文学爱好者🌈<br>魔都🏙<br>小透明☝️<br><br>我们总为了挣扎而低落<br>却又因为每一次间歇性的幸福到来而撑过，如此生存着" />
-<link rel="shortcut icon" href="https://annzan.xyz/favicon.ico?v=1565764639989">
+<link rel="shortcut icon" href="https://annzan.xyz/favicon.ico?v=1565765061852">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link href="https://cdn.remixicon.com/releases/v1.3.1/remixicon.css" rel="stylesheet">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
@@ -33,7 +33,7 @@
       <div class="flex lg:block p-4 lg:px-0 items-center fixed lg:static lg:block top-0 right-0 left-0 bg-white z-50">
         <i class="remixicon-menu-2-line lg:mt-4 text-2xl cursor-pointer animated fadeIn" onclick="openMenu()"></i>
         <a href="https://annzan.xyz">
-          <img class="animated fadeInLeft avatar rounded-lg mx-4 lg:mt-32 lg:mx-0 mt-0 lg:w-24 lg:h-24 w-12 w-12" src="https://annzan.xyz/images/avatar.png?v=1565764639989" alt="">
+          <img class="animated fadeInLeft avatar rounded-lg mx-4 lg:mt-32 lg:mx-0 mt-0 lg:w-24 lg:h-24 w-12 w-12" src="https://annzan.xyz/images/avatar.png?v=1565765061852" alt="">
         </a>
         <h1 class="animated fadeInLeft lg:text-4xl font-extrabold lg:mt-8 mt-0 text-xl" style="animation-delay: 0.2s">曲奇看繁星🍪</h1>
       </div>
@@ -43,7 +43,17 @@
             文章目录
           </p>
           <div class="toc-container hidden lg:block">
-            
+            <ul class="markdownIt-TOC">
+<li><a href="#%E4%B8%8A%E7%BA%BF">上线</a></li>
+<li><a href="#%E5%9F%9F%E5%90%8D%E5%92%8C%E8%A7%A3%E6%9E%90">域名和解析</a></li>
+<li><a href="#cdn">CDN</a></li>
+<li><a href="#%E8%AF%84%E8%AE%BA">评论</a></li>
+<li><a href="#%E8%AE%BF%E9%97%AE%E7%BB%9F%E8%AE%A1">访问统计</a></li>
+<li><a href="#%E6%94%B6%E5%BD%95%E5%92%8C%E5%8F%8B%E9%93%BE">收录和友链</a></li>
+<li><a href="#codinggithub-%E5%A4%9A%E8%B7%AF%E8%A7%A3%E6%9E%90">Coding+Github 多路解析</a></li>
+<li><a href="#%E9%A1%BA%E4%BE%BF">顺便</a></li>
+</ul>
+
           </div>
         </div>
       
@@ -112,13 +122,15 @@
         </div>
         
         <div class="post-content yue">
-          <p>不想写成教程向。毕竟网上帖子很多，自己爬贴也是一种体验（笑<br>
+          <p>官方文档：https://gridea.dev/docs/<br>
+不想写成教程向。毕竟网上帖子很多，自己爬贴也是一种体验（笑<br>
 小白向的话Gridea作者已经给你们写好<a href="https://fehey.com/post/hve-notes-start/">教程</a>咯<br>
 非专业向，毕竟我只是一个什么也不懂的小透明。<br>
 就写意一点，一种FU~</p>
 <p>首先准备环境。Git+Gridea macOS的话还需要xcode<br>
 如果你的macOS不是最新的话，可以到developers那个页面去下载xcode 10<br>
 注意Linux的Gridea很可能挂了。</p>
+<h1 id="上线">上线</h1>
 <p>好了<br>
 首先注册github账号。<br>
 然后开一个nickname.github.io的repo<br>
@@ -133,6 +145,7 @@
 如果不能访问的话清除一下浏览器缓存。<br>
 还是不能的话删一下repo，重新操作一遍。<br>
 网页显示异常的话注意一下gridea那里填的是不是https前缀</p>
+<h1 id="域名和解析">域名和解析</h1>
 <p>接下来是域名。<br>
 国内的服务商都得备案的。<br>
 我的话直接在狗爹Godaddy上买的.xyz域名，首年9元续费100。<br>
@@ -150,10 +163,12 @@
 <p>最后到github pages那里绑定好你的域名。<br>
 把enforce https打开。现在github支持给自定义的域名开强制https了。<br>
 这样你的域名就可以成功被解析了。<br>
-这里附上GIthub官方的三方域名绑定的FAQ<a href="https://help.github.com/cn/articles/troubleshooting-custom-domains">传送</a><br>
-如果你用的是cf的话，等12小时cdn应该就自动生效了。<br>
+这里附上GIthub官方的三方域名绑定的FAQ<a href="https://help.github.com/cn/articles/troubleshooting-custom-domains">传送</a></p>
+<h1 id="cdn">CDN</h1>
+<p>如果你用的是cf的话，等12小时cdn应该就自动生效了。<br>
 用<a href="http://tool.chinaz.com/speedtest/">这个</a>可以测一下速度。<br>
 沿海地区绿的挺多，速度还行的话就不用开cdn了，cf的cdn也不咋地（雾</p>
+<h1 id="评论">评论</h1>
 <p>然后配置一下评论服务。<br>
 推荐用Gridea的小白教程里用的Gitalk<br>
 Disqus在国内会有一些问题。<br>
@@ -163,15 +178,20 @@ Disqus在国内会有一些问题。<br>
 发布以后到网站上去按提示开通一下，就好了。</p>
 <p>不过评论者都要有github账号，这个很不方便。<br>
 如果有朋友有那种填一下昵称和邮箱就能评论的，请一定告诉我。</p>
+<h1 id="访问统计">访问统计</h1>
 <p>最后再到Google统计添加一下你的网站，获取一个UA-xxxxx-x代码，填到Gridea上对应的位置（具体我不多说了，你自己搜一下教程叭）<br>
 这样就可以看到你网站的访问量了。<br>
 可以到https://www.giuem.com/google-analytics-loading-optimize/<br>
 这里添加一个代码，可以优化google统计的加载速度。</p>
+<h1 id="收录和友链">收录和友链</h1>
 <p>最后你可以到百度添加一下你的网站，然后等着随缘收录叭<br>
 然后你还可以到各种小朋友的网站里请求互加一下友链。<br>
 注意你自己要先把对方加到友链里噢<br>
 有的博主会要求博客更新数量和成立时间以及https什么的。你可以改一下文章创建时间骗一下？（逃，不过看WHois一切就都真相了</p>
-<p>PS</p>
+<h1 id="codinggithub-多路解析">Coding+Github 多路解析</h1>
+<p>我的访客基本都是国内，就不折腾了。<br>
+<a href="https://www.huliujia.com/blog/7d8b8a8b346ec437171b8ceca0c4fd708af4b702/">需要的看这里</a></p>
+<h1 id="顺便">顺便</h1>
 <p>👉Gridea那个付费的6元主题很好看，推荐食用<br>
 👉默认的Notes主题在手机端的宽度有点问题，会特别窄，显示不舒服的。<br>
 👉把文章的创建时间改到未来，可以实现让文章置顶的功效。<br>
