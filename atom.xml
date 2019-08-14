@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>/Users/guest/Documents/GrideaGithub/output</id>
+    <id>http://annzan.xyz</id>
     <title>安璇看繁星</title>
-    <updated>2019-08-14T01:32:22.149Z</updated>
+    <updated>2019-08-14T01:33:52.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="/Users/guest/Documents/GrideaGithub/output"/>
-    <link rel="self" href="/Users/guest/Documents/GrideaGithub/output/atom.xml"/>
+    <link rel="alternate" href="http://annzan.xyz"/>
+    <link rel="self" href="http://annzan.xyz/atom.xml"/>
     <subtitle>耽美文学爱好者&lt;br&gt;魔都&lt;br&gt;小透明&lt;br&gt;&lt;br&gt;↓↓安利↓↓&lt;br&gt;「满地都是小星星」陆&lt;br&gt;「璀璨」水在镜中&lt;br&gt;夜空中最亮的星&lt;br&gt;Acappella版/Moonlight组合&lt;br&gt;&lt;br&gt;我们总为了挣扎而低落&lt;br&gt;却又因为每一次间歇性的幸福到来而撑过，如此生存着&lt;br&gt;&lt;br&gt;为了学习&lt;br&gt;我今天有特意去买了一盒巧克力&lt;br&gt;预计前途是一片光明</subtitle>
-    <logo>/Users/guest/Documents/GrideaGithub/output/images/avatar.png</logo>
-    <icon>/Users/guest/Documents/GrideaGithub/output/favicon.ico</icon>
+    <logo>http://annzan.xyz/images/avatar.png</logo>
+    <icon>http://annzan.xyz/favicon.ico</icon>
     <rights>All rights reserved 2019, 安璇看繁星</rights>
     <entry>
         <title type="html"><![CDATA[「转载」从此以后，咱们只有死别，再无生离。]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/qwgUEa9Rm/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/qwgUEa9Rm/index.html">
+        <id>http://annzan.xyz/post/qwgUEa9Rm</id>
+        <link href="http://annzan.xyz/post/qwgUEa9Rm">
         </link>
         <updated>2019-08-12T02:19:17.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
@@ -37,8 +37,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[好气。Markdown居然不支持右对齐]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/kbg2JV-rR/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/kbg2JV-rR/index.html">
+        <id>http://annzan.xyz/post/kbg2JV-rR</id>
+        <link href="http://annzan.xyz/post/kbg2JV-rR">
         </link>
         <updated>2019-08-12T02:16:20.000Z</updated>
         <summary type="html"><![CDATA[<pre><code>居中：
@@ -68,8 +68,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[不要升级！MacOS 10.14.6 →12款MBA11]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/bu-yao-sheng-ji-macos-10146-12-kuan-mba11/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/bu-yao-sheng-ji-macos-10146-12-kuan-mba11/index.html">
+        <id>http://annzan.xyz/post/bu-yao-sheng-ji-macos-10146-12-kuan-mba11</id>
+        <link href="http://annzan.xyz/post/bu-yao-sheng-ji-macos-10146-12-kuan-mba11">
         </link>
         <updated>2019-08-11T15:27:00.000Z</updated>
         <summary type="html"><![CDATA[<p>虽然很想体验一下Catalina，但毕竟Pubic Beta那也不是正式版对吧。听说会有CPU占用鬼畜变高的情况。我可不想让我的小风扇呼呼呼。<br>
@@ -90,8 +90,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[「带你去私奔唷。」：简评《满地都是小星星》陆]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/dai-ni-qu-si-ben-yo-jian-ping-man-di-du-shi-xiao-xing-xing/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/dai-ni-qu-si-ben-yo-jian-ping-man-di-du-shi-xiao-xing-xing/index.html">
+        <id>http://annzan.xyz/post/dai-ni-qu-si-ben-yo-jian-ping-man-di-du-shi-xiao-xing-xing</id>
+        <link href="http://annzan.xyz/post/dai-ni-qu-si-ben-yo-jian-ping-man-di-du-shi-xiao-xing-xing">
         </link>
         <updated>2019-08-08T05:53:30.000Z</updated>
         <summary type="html"><![CDATA[<p>从此，我们只有死别，再无生离。 —— 杨绛《我们仨》</p>
@@ -185,8 +185,8 @@ Cool Down。</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[那个穿着青橘色衬衫的少年阿，你在哪里？]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/ling-rou-guan-xi/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/ling-rou-guan-xi/index.html">
+        <id>http://annzan.xyz/post/ling-rou-guan-xi</id>
+        <link href="http://annzan.xyz/post/ling-rou-guan-xi">
         </link>
         <updated>2019-08-08T03:04:01.000Z</updated>
         <summary type="html"><![CDATA[<p>我在客厅醒来，有个什么东西被糊到了脸上，挺硬的，打的我生疼生疼的。</p>
@@ -224,8 +224,8 @@ Cool Down。</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[一个过期两个月的po上网的自白书]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/yi-ge-bao-shou-jia-bao-qi-ling-de-xiao-peng-you-de-ne-han/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/yi-ge-bao-shou-jia-bao-qi-ling-de-xiao-peng-you-de-ne-han/index.html">
+        <id>http://annzan.xyz/post/yi-ge-bao-shou-jia-bao-qi-ling-de-xiao-peng-you-de-ne-han</id>
+        <link href="http://annzan.xyz/post/yi-ge-bao-shou-jia-bao-qi-ling-de-xiao-peng-you-de-ne-han">
         </link>
         <updated>2019-08-08T03:03:01.000Z</updated>
         <summary type="html"><![CDATA[<p>首先安利一下Tea这个软件,让我写部落格又舒服了不少.</p>
@@ -325,8 +325,8 @@ Cool Down。</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[又是一些不知道会不会成真的垃圾话]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/yi-xie-shi-hua/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/yi-xie-shi-hua/index.html">
+        <id>http://annzan.xyz/post/yi-xie-shi-hua</id>
+        <link href="http://annzan.xyz/post/yi-xie-shi-hua">
         </link>
         <updated>2019-08-08T03:01:42.000Z</updated>
         <summary type="html"><![CDATA[<p>·<br>
@@ -375,8 +375,8 @@ Cool Down。</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[一期一会：人间走一遭，不过一秒万年和万年一秒]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/yi-qi-yi-hui-ren-jian-zou-yi-zao-bu-guo-yi-miao-wan-nian-he-wan-nian-yi-miao/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/yi-qi-yi-hui-ren-jian-zou-yi-zao-bu-guo-yi-miao-wan-nian-he-wan-nian-yi-miao/index.html">
+        <id>http://annzan.xyz/post/yi-qi-yi-hui-ren-jian-zou-yi-zao-bu-guo-yi-miao-wan-nian-he-wan-nian-yi-miao</id>
+        <link href="http://annzan.xyz/post/yi-qi-yi-hui-ren-jian-zou-yi-zao-bu-guo-yi-miao-wan-nian-he-wan-nian-yi-miao">
         </link>
         <updated>2019-08-08T01:16:25.000Z</updated>
         <content type="html"><![CDATA[<p>国家卫健委统计，2018年中国人的平均寿命77岁，但是健康寿命是68.7岁，后面都是带病生存。如果65岁退休，剩下的健康日子平均只有3年多。这么想想，人生还是很短暂的。</p>
@@ -385,8 +385,8 @@ Cool Down。</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[曾经「早熟」的那个孩子长大了: 乱语我的6200天日子]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/ceng-jing-zao-shou-de-na-ge-hai-zi-chang-da-liao-luan-yu-wo-de-6200-tian-ri-zi/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/ceng-jing-zao-shou-de-na-ge-hai-zi-chang-da-liao-luan-yu-wo-de-6200-tian-ri-zi/index.html">
+        <id>http://annzan.xyz/post/ceng-jing-zao-shou-de-na-ge-hai-zi-chang-da-liao-luan-yu-wo-de-6200-tian-ri-zi</id>
+        <link href="http://annzan.xyz/post/ceng-jing-zao-shou-de-na-ge-hai-zi-chang-da-liao-luan-yu-wo-de-6200-tian-ri-zi">
         </link>
         <updated>2019-08-07T13:10:47.000Z</updated>
         <summary type="html"><![CDATA[<p>每当你想自戕时，想象一下，你重生了。<br>
