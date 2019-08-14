@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://annzan.xyz</id>
     <title>曲奇看繁星🍪</title>
-    <updated>2019-08-14T06:58:31.844Z</updated>
+    <updated>2019-08-14T06:59:34.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://annzan.xyz"/>
     <link rel="self" href="https://annzan.xyz/atom.xml"/>
@@ -44,7 +44,7 @@
 非专业向，毕竟我只是一个什么也不懂的小透明。<br>
 就写意一点，一种FU~</p>
 <p>首先准备环境。Git+Gridea macOS的话还需要xcode<br>
-如果你的macOS不是最新的话，可以到developers那个页面去下载xcode 10<br>
+如果你的macOS不是最新的话，可以到developers<a href="https://developer.apple.com/download/more/">那个页面</a>去下载xcode 10<br>
 或者直接在<a href="https://www.jianshu.com/p/75fd6f051216">我这个页面</a>下载历史版本<br>
 注意Linux的Gridea很可能挂了。</p>
 ]]></summary>
@@ -54,7 +54,7 @@
 非专业向，毕竟我只是一个什么也不懂的小透明。<br>
 就写意一点，一种FU~</p>
 <p>首先准备环境。Git+Gridea macOS的话还需要xcode<br>
-如果你的macOS不是最新的话，可以到developers那个页面去下载xcode 10<br>
+如果你的macOS不是最新的话，可以到developers<a href="https://developer.apple.com/download/more/">那个页面</a>去下载xcode 10<br>
 或者直接在<a href="https://www.jianshu.com/p/75fd6f051216">我这个页面</a>下载历史版本<br>
 注意Linux的Gridea很可能挂了。</p>
 ]]></content>
