@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://annzan.xyz</id>
     <title>曲奇看繁星🍪</title>
-    <updated>2019-08-14T08:01:30.642Z</updated>
+    <updated>2019-08-14T08:02:52.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://annzan.xyz"/>
     <link rel="self" href="https://annzan.xyz/atom.xml"/>
@@ -48,6 +48,14 @@
         <link href="https://annzan.xyz/post/i_LCUh6yd">
         </link>
         <updated>2019-08-14T07:36:42.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>不是很全，因为读过的实在是太多了，还不包括某些中途弃掉的文。这些还是通过爬贴等方式回溯的，因为之前根本没有做个记录这样的想法。</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>不是很全，因为读过的实在是太多了，还不包括某些中途弃掉的文。这些还是通过爬贴等方式回溯的，因为之前根本没有做个记录这样的想法。</p>
+</blockquote>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[别用ios搜狗输入法的粘贴辅助]]></title>
@@ -55,6 +63,10 @@
         <link href="https://annzan.xyz/post/N1MV7BXqy">
         </link>
         <updated>2019-08-14T07:33:01.000Z</updated>
+        <summary type="html"><![CDATA[<p>就是复制之后调出输入法会把内容显示在首选的位置的功能。尤其在搬运大段的文字的时候。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>就是复制之后调出输入法会把内容显示在首选的位置的功能。尤其在搬运大段的文字的时候。</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[对一些事情的看法]]></title>
@@ -62,5 +74,9 @@
         <link href="https://annzan.xyz/post/sTDSCZppw">
         </link>
         <updated>2019-08-14T07:27:01.000Z</updated>
+        <summary type="html"><![CDATA[<p>qq空间说说上看到一篇文字，全文转载如下</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>qq空间说说上看到一篇文字，全文转载如下</p>
+]]></content>
     </entry>
 </feed>
