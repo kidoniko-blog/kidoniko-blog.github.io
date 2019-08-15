@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>/Users/guest/Documents/GrideaGithub/output</id>
+    <id>https://annzan.xyz</id>
     <title>曲奇看繁星🍪</title>
-    <updated>2019-08-15T10:18:31.365Z</updated>
+    <updated>2019-08-15T10:20:45.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="/Users/guest/Documents/GrideaGithub/output"/>
-    <link rel="self" href="/Users/guest/Documents/GrideaGithub/output/atom.xml"/>
+    <link rel="alternate" href="https://annzan.xyz"/>
+    <link rel="self" href="https://annzan.xyz/atom.xml"/>
     <subtitle>耽美文学爱好者🌈&lt;br&gt;魔都🏙&lt;br&gt;小透明☝️&lt;br&gt;&lt;br&gt;愿世界一片彩虹。</subtitle>
-    <logo>/Users/guest/Documents/GrideaGithub/output/images/avatar.png</logo>
-    <icon>/Users/guest/Documents/GrideaGithub/output/favicon.ico</icon>
+    <logo>https://annzan.xyz/images/avatar.png</logo>
+    <icon>https://annzan.xyz/favicon.ico</icon>
     <rights>All rights reserved 2019, 曲奇看繁星🍪</rights>
     <entry>
         <title type="html"><![CDATA[「置顶」Study with me]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/F6pkYHCsz/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/F6pkYHCsz/index.html">
+        <id>https://annzan.xyz/post/F6pkYHCsz</id>
+        <link href="https://annzan.xyz/post/F6pkYHCsz">
         </link>
         <updated>2020-08-14T01:39:50.000Z</updated>
         <summary type="html"><![CDATA[<p>➡️<a href="https://annzan.xyz/post/fz/">友人帐</a> ➡️ <a href="https://annzan.xyz/post/who/">关于我</a>  ➡️<a href="http://allcp.net">公子长佩</a>👉本站已登录<a href="https://storeweb.cn/site/browse">个站商店</a><br>
@@ -135,209 +135,9 @@ a计划.找例题，做例题。不看答案，能做多少就做多少，做完
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一言]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/V4AjRahRS/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/V4AjRahRS/index.html">
-        </link>
-        <updated>2019-08-15T10:00:27.000Z</updated>
-        <content type="html"><![CDATA[<!-- 晴天说说_v1.11 2019-05-18 星球彦 http://storeweb.cn -->
-<br>
-这些说说是来自<a href="http://storeweb.cn" target="_blank" class="site-friend-link-homepage">个站商店</a>的一个子项目 <a
-        href="http://storeweb.cn" target="_blank" class="site-friend-link-project">『天晴说说』</a>，点<a href=""
-                                                                                                  target="_blank"
-                                                                                                  class="site-friend-link-homepage">
-    这里 </a>访问我在个站商店上的主页
-<br>
-<br>
-<br>
-<!-- ----------------------------------- 配置 --------------------------------------- -->
-<!-- HTTPS 加载此jquery：-->
-<script src='https://libs.baidu.com/jquery/1.11.1/jquery.min.js'></script>
-<!-- ----------------------------------- 配置 --------------------------------------- -->
-<style type="text/css">
-    .hide {
-        display: none !important;
-    }
-    .clear {
-        clear: both;
-    }
-    .storeweb-say>div.say-container {
-        margin-top: 10px;
-        margin-bottom: 25px;
-        padding: 10px 20px;
-        background-color: #fafafa;    /*#bed742*/
-        border-radius: 6px;
-        font-size: 15px;
-        color: #d93a49 !important;    /*#2e3a1f*/
-        line-height: 200%;
-        border: 1px #ccc solid;
-    }
-    .storeweb-say-month {
-        font-size: 30px;
-    }
-    .storeweb-say-day {
-        font-size: 18px;
-    }
-    .storeweb-say-name {
-        font-size: 18px;
-        margin-left: 20px;
-        color: #333 !important;
-    }
-    .say-container>img {
-        margin-top: 16px;
-    }
-    .storeweb-say-name:hover {
-        color: #0074d9 !important;
-        text-decoration: underline;
-    }
-    .is_member_others{
-        color: #d71345 !important;
-    }
-    .primary {
-        border: none;
-        background-color: #467B96 !important;
-        cursor: pointer;
-        -moz-border-radius: 2px;
-        -webkit-border-radius: 2px;
-        border-radius: 2px;
-        color: #FFF !important;
-    }
-    .btn {
-        border: none;
-        background-color: #E9E9E6 !important;
-        cursor: pointer;
-        -moz-border-radius: 2px;
-        -webkit-border-radius: 2px;
-        border-radius: 2px;
-        display: inline-block;
-        padding: 4px 12px;
-        height: 34px;
-        color: #666 !important;
-        vertical-align: middle;
-        zoom: 1;
-    }
-    .btn:hover {
-        background-color: #666 !important;
-        color: #E9E9E6 !important;
-    }
-</style>
-<script data-no-instant>
-    // ----------------------------------- 配置 ---------------------------------------
-    //var url = "https://storeweb.cn/api/say";  // 如果你的网站是HTTPS，则用这一行代码
-    var url = "http://storeweb.cn/api/say";     // 如果你的网站是HTTP
-    // ----------------------------------- 配置 ---------------------------------------
-    function get_say_api(timeout) {
-        $.ajax({
-            type: 'get',
-            url: url,
-            async: true,
-            dataType: 'jsonp',
-            data: {},
-            timeout: 3000,
-            success: function (result) {
-                if (result.success == 1) {
-                    //console.log(success['data']);
-                    template_make(result.data, result.information);
-                    set_storeweb_info(result.information);
-                    set_pagiation_button(result.pagination);
-                } else {
-                    $('.site-friend-link').html(result.info);
-                }
-            },
-            complete: function (XMLHttpRequest, status) { //请求完成后最终执行参数
-                if (status == 'timeout') {//超时,status还有success,error等值的情况
-                    if (timeout == 1) {
-                        $('.storeweb-say').html('获取数据超时……请联系个站商店小彦');
-                    } else {
-                        url = "http://storeweb.cn/api/say";
-                        $('.storeweb-say').html('https 获取数据超时……尝试http获取……');
-                        get_say_api(1);
-                    }
-                }
-            }
-        });
-    }
-    $(function () {
-        $('.storeweb-say').html('正在向『个站商店』请求友链数据……');
-        get_say_api(0);
-    })
-    function template_make(data, information) {
-        //console.log(data)
-        $('.storeweb-say').html('');
-        $.each(data, function (key, value) {
-            //console.log(value.name);
-            var template = $('#say-template').text();
-            template = template.replace('%%content%%', value.content);
-            template = template.replace('%%name%%', value.member.name);
-            template = template.replace('%%month%%', value.create_at_month);
-            template = template.replace('%%day%%', value.create_at_day);
-            template = template.replace('%%is_member_others%%', value.is_member_others);
-            template = template.replace('%%image_cn%%', value.image_cn);
-            if(value.url == ""){
-                template = template.replace('%%url%%', '');
-                template = template.replace('%%say-url%%', 'hide');
-            }else{
-                template = template.replace('%%url%%', value.url);
-                template = template.replace('%%url%%', value.url);
-                template = template.replace('%%say-url%%', '');
-            }
-            var template_id = $(template);
-            $('.storeweb-say').append(template_id);
-        })
-    }
-    function set_storeweb_info(information) {
-        $('.site-friend-link-homepage').attr('href', information['homepage']);
-        $('.site-friend-link-project').attr('href', information['project']);
-        //$('.site-friend-link-storeweb').attr('href',information['storeweb']);
-    }
-    function submit_pagination(url_button) {
-        $('.storeweb-say').html('正在向『个站商店』请求友链数据……');
-        url = url_button;
-        get_say_api(0);
-    }
-    function set_pagiation_button(pagination){
-        var template = $('#say-pagination-template').text();
-        if(pagination.prev_page_url){
-            template = template.replace('%%prev_page_url%%', pagination.prev_page_url);
-            template = template.replace('%%say-button-prev%%', '');
-        }else{
-            template = template.replace('%%prev_page_url%%', '');
-            template = template.replace('%%say-button-prev%%', 'hide');
-        }
-        if(pagination.next_page_url){
-            template = template.replace('%%next_page_url%%', pagination.next_page_url);   
-            template = template.replace('%%say-button-next%%', '');
-        }else{
-            template = template.replace('%%next_page_url%%', '');
-            template = template.replace('%%say-button-next%%', 'hide');
-        }
-        var template_id = $(template);
-        $('.storeweb-say').append(template_id);
-    }
-</script>
-<div class="clear"></div>
-<div class="storeweb-say">
-</div>
-<script type="text/html" id="say-template" data-no-instant>
-    <span class="storeweb-say-month">%%month%%</span> <span class="storeweb-say-day">%%day%%</span> <span class="storeweb-say-name %%is_member_others%%">%%name%%</span>
-    <div class="say-container">
-        <div class="say-contant">%%content%%</div>
-        <a href="%%url%%" target="_blank" class="%%say-url%%">%%url%%</a>
-        <img src="%%image_cn%%">
-    </div>
-</script>
-<script type="text/html" id="say-pagination-template" data-no-instant>
-    <div class="say-pagination">
-        <a href="Javascript:submit_pagination('%%prev_page_url%%')" class="btn primary left %%say-button-prev%%"><< 较新的一页</a>
-        <a href="Javascript:submit_pagination('%%next_page_url%%')" class="btn primary right %%say-button-next%%">之前的一页 >></a>
-    </div>
-</script>
-<div class="clear"></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「中美贸易摩擦」b站里一些发人深思的评论]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/2B9V3MA-t/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/2B9V3MA-t/index.html">
+        <id>https://annzan.xyz/post/2B9V3MA-t</id>
+        <link href="https://annzan.xyz/post/2B9V3MA-t">
         </link>
         <updated>2019-08-14T07:43:45.000Z</updated>
         <summary type="html"><![CDATA[<ol>
@@ -398,8 +198,8 @@ a计划.找例题，做例题。不看答案，能做多少就做多少，做完
     </entry>
     <entry>
         <title type="html"><![CDATA[「我不是我没有」奇怪的已读列表什么的]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/i_LCUh6yd/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/i_LCUh6yd/index.html">
+        <id>https://annzan.xyz/post/i_LCUh6yd</id>
+        <link href="https://annzan.xyz/post/i_LCUh6yd">
         </link>
         <updated>2019-08-14T07:36:42.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
@@ -491,8 +291,8 @@ awm<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[别用ios搜狗输入法的粘贴辅助]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/N1MV7BXqy/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/N1MV7BXqy/index.html">
+        <id>https://annzan.xyz/post/N1MV7BXqy</id>
+        <link href="https://annzan.xyz/post/N1MV7BXqy">
         </link>
         <updated>2019-08-14T07:33:01.000Z</updated>
         <summary type="html"><![CDATA[<p>就是复制之后调出输入法会把内容显示在首选的位置的功能。尤其在搬运大段的文字的时候。</p>
@@ -504,8 +304,8 @@ awm<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[对一些事情的看法]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/sTDSCZppw/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/sTDSCZppw/index.html">
+        <id>https://annzan.xyz/post/sTDSCZppw</id>
+        <link href="https://annzan.xyz/post/sTDSCZppw">
         </link>
         <updated>2019-08-14T07:27:01.000Z</updated>
         <summary type="html"><![CDATA[<p>qq空间说说上看到一篇文字，全文转载如下</p>
@@ -553,8 +353,8 @@ awm<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[一个让Mac端支持iPhone App免流的方法]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/XoMAYl3Tz/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/XoMAYl3Tz/index.html">
+        <id>https://annzan.xyz/post/XoMAYl3Tz</id>
+        <link href="https://annzan.xyz/post/XoMAYl3Tz">
         </link>
         <updated>2019-08-14T07:10:44.000Z</updated>
         <summary type="html"><![CDATA[<p>感觉一些直播app和b站在mac上的体验反而不如在ios端了。<br>
@@ -573,8 +373,8 @@ OK，嗨吧</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[「带你去私奔唷。」：简评《满地都是小星星》陆]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/dai-ni-qu-si-ben-yo-jian-ping-man-di-du-shi-xiao-xing-xing/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/dai-ni-qu-si-ben-yo-jian-ping-man-di-du-shi-xiao-xing-xing/index.html">
+        <id>https://annzan.xyz/post/dai-ni-qu-si-ben-yo-jian-ping-man-di-du-shi-xiao-xing-xing</id>
+        <link href="https://annzan.xyz/post/dai-ni-qu-si-ben-yo-jian-ping-man-di-du-shi-xiao-xing-xing">
         </link>
         <updated>2019-08-14T05:53:30.000Z</updated>
         <summary type="html"><![CDATA[<p>从此，我们只有死别，再无生离。 —— 杨绛《我们仨》</p>
@@ -669,8 +469,8 @@ Cool Down。</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[「Online」Gridea和Github让自我得以展示，展了又展]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/xpwgqKyCG/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/xpwgqKyCG/index.html">
+        <id>https://annzan.xyz/post/xpwgqKyCG</id>
+        <link href="https://annzan.xyz/post/xpwgqKyCG">
         </link>
         <updated>2019-08-14T05:42:38.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="一次github-pagesgridea协作搭建静态博客的经历">一次Github pages+Gridea协作搭建静态博客的经历</h2>
@@ -784,8 +584,8 @@ Disqus在国内会有一些问题。<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[「杨绛」从此以后，咱们只有死别，再无生离。]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/qwgUEa9Rm/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/qwgUEa9Rm/index.html">
+        <id>https://annzan.xyz/post/qwgUEa9Rm</id>
+        <link href="https://annzan.xyz/post/qwgUEa9Rm">
         </link>
         <updated>2019-08-12T02:19:17.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
@@ -809,8 +609,8 @@ Disqus在国内会有一些问题。<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[好气。Markdown居然不支持右对齐]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/kbg2JV-rR/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/kbg2JV-rR/index.html">
+        <id>https://annzan.xyz/post/kbg2JV-rR</id>
+        <link href="https://annzan.xyz/post/kbg2JV-rR">
         </link>
         <updated>2019-08-12T02:16:20.000Z</updated>
         <summary type="html"><![CDATA[<pre><code>居中：
@@ -840,8 +640,8 @@ Disqus在国内会有一些问题。<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[不要升级！MacOS 10.14.6 →12款MBA11]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/bu-yao-sheng-ji-macos-10146-12-kuan-mba11/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/bu-yao-sheng-ji-macos-10146-12-kuan-mba11/index.html">
+        <id>https://annzan.xyz/post/bu-yao-sheng-ji-macos-10146-12-kuan-mba11</id>
+        <link href="https://annzan.xyz/post/bu-yao-sheng-ji-macos-10146-12-kuan-mba11">
         </link>
         <updated>2019-08-11T15:27:00.000Z</updated>
         <summary type="html"><![CDATA[<p>虽然很想体验一下Catalina，但毕竟Pubic Beta那也不是正式版对吧。听说会有CPU占用鬼畜变高的情况。我可不想让我的小风扇呼呼呼。<br>
@@ -862,8 +662,8 @@ Disqus在国内会有一些问题。<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[「满地都是小星星」 陆]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/star/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/star/index.html">
+        <id>https://annzan.xyz/post/star</id>
+        <link href="https://annzan.xyz/post/star">
         </link>
         <updated>2019-08-08T05:41:04.000Z</updated>
         <summary type="html"><![CDATA[<p>侵删。鞠躬。</p>
@@ -4248,8 +4048,8 @@ HOP的节奏外加江式B-BOX配音撞了数十下，连小阿姨都投以侧目
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello World！]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/hello-gridea/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/hello-gridea/index.html">
+        <id>https://annzan.xyz/post/hello-gridea</id>
+        <link href="https://annzan.xyz/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
@@ -4280,8 +4080,8 @@ HOP的节奏外加江式B-BOX配音撞了数十下，连小阿姨都投以侧目
     </entry>
     <entry>
         <title type="html"><![CDATA[那个穿着青橘色衬衫的少年阿，你在哪里？]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/ling-rou-guan-xi/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/ling-rou-guan-xi/index.html">
+        <id>https://annzan.xyz/post/ling-rou-guan-xi</id>
+        <link href="https://annzan.xyz/post/ling-rou-guan-xi">
         </link>
         <updated>2018-08-08T03:04:01.000Z</updated>
         <summary type="html"><![CDATA[<p>这篇文章是在我正遭遇很痛苦的事情的时候写下的。所以请见谅。放在这里也只是存个档。</p>
@@ -4293,8 +4093,8 @@ HOP的节奏外加江式B-BOX配音撞了数十下，连小阿姨都投以侧目
     </entry>
     <entry>
         <title type="html"><![CDATA[部分过期的很丧的文章被我隐藏了]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/OmAFPxA2L/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/OmAFPxA2L/index.html">
+        <id>https://annzan.xyz/post/OmAFPxA2L</id>
+        <link href="https://annzan.xyz/post/OmAFPxA2L">
         </link>
         <updated>2017-06-15T03:01:03.000Z</updated>
         <content type="html"><![CDATA[<p>就这样。</p>
