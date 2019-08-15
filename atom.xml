@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://annzan.xyz</id>
     <title>曲奇看繁星🍪</title>
-    <updated>2019-08-15T15:32:44.974Z</updated>
+    <updated>2019-08-15T15:42:21.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://annzan.xyz"/>
     <link rel="self" href="https://annzan.xyz/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://annzan.xyz/post/F6pkYHCsz</id>
         <link href="https://annzan.xyz/post/F6pkYHCsz">
         </link>
-        <updated>2020-08-14T01:39:50.000Z</updated>
+        <updated>2021-08-14T01:39:50.000Z</updated>
         <summary type="html"><![CDATA[<p>啊不，欢迎来到我的博客。<br>
 人生一期一会，我感激我们的相遇。<strong>谢谢你。</strong><br>
 ✔️即使全世界都否定了你，你也不要否定你自己。<br>
@@ -168,6 +168,19 @@ a计划.找例题，做例题。不看答案，能做多少就做多少，做完
 好吧，只贴几个</p>
 <p>Ps.特别提醒：<br>
 没必要关注我的知乎账号，因为70～80%的干货都发在了微信公众号里，在历史信息里就有。我的微信公众号名称也是“白诗诗”，我这么负责任的人，一定不会让你失望的，请一定要关注。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[碎碎念]]></title>
+        <id>https://annzan.xyz/post/a5TRBQPEN</id>
+        <link href="https://annzan.xyz/post/a5TRBQPEN">
+        </link>
+        <updated>2019-08-15T15:34:34.000Z</updated>
+        <content type="html"><![CDATA[<p>其实有一个类似于说说的插件的，叫天晴说说，但是我不会用。<br>
+那我就假装这个页面是个说说（碎碎念）页面吧。<br>
+顺便，搜狗输入法输入「rq」，「sj」，「xq」可以插入时间戳哦。</p>
+<p><strong>像b站id299，迷路的牙刷这样优秀的主播居然跟我差不多同岁？？自卑✖️n</strong><br>
+<code>2019年08月15日23 :40 :01</code></p>
 ]]></content>
     </entry>
     <entry>
