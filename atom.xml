@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://annzan.xyz</id>
     <title>曲奇看繁星🍪</title>
-    <updated>2019-08-15T09:24:09.532Z</updated>
+    <updated>2019-08-15T09:25:03.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://annzan.xyz"/>
     <link rel="self" href="https://annzan.xyz/atom.xml"/>
@@ -539,6 +539,7 @@ Disqus在国内会有一些问题。<br>
 这样就可以看到你网站的访问量了。<br>
 可以到https://www.giuem.com/google-analytics-loading-optimize/<br>
 这里添加一个代码，可以优化google统计的加载速度。</p>
+<p>另外cloudflare也有统计功能</p>
 <h1 id="收录和友链">收录和友链</h1>
 <p>最后你可以到百度添加一下你的网站，然后等着随缘收录叭<br>
 然后你还可以到各种小朋友的网站里请求互加一下友链。<br>
