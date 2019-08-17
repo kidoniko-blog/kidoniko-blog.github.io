@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>/Users/guest/Documents/GrideaGithub/output</id>
+    <id>https://annzan.xyz</id>
     <title>🍪曲奇看繁星</title>
-    <updated>2019-08-17T09:02:53.592Z</updated>
+    <updated>2019-08-17T09:03:30.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="/Users/guest/Documents/GrideaGithub/output"/>
-    <link rel="self" href="/Users/guest/Documents/GrideaGithub/output/atom.xml"/>
-    <subtitle>&lt;br&gt;魔都。&lt;br&gt;为了灵魂的自由，我甘愿失去肉体的自由。&lt;br&gt;凛然，独自，开放。&lt;br&gt;要成为像Dimpurr一样优秀的人。</subtitle>
-    <logo>/Users/guest/Documents/GrideaGithub/output/images/avatar.png</logo>
-    <icon>/Users/guest/Documents/GrideaGithub/output/favicon.ico</icon>
+    <link rel="alternate" href="https://annzan.xyz"/>
+    <link rel="self" href="https://annzan.xyz/atom.xml"/>
+    <subtitle>&lt;br&gt;上海。&lt;br&gt;为了灵魂的自由，我甘愿失去肉体的自由。&lt;br&gt;凛然，独自，开放。&lt;br&gt;要成为像Dimpurr一样优秀的人。</subtitle>
+    <logo>https://annzan.xyz/images/avatar.png</logo>
+    <icon>https://annzan.xyz/favicon.ico</icon>
     <rights>All rights reserved 2019, 🍪曲奇看繁星</rights>
     <entry>
         <title type="html"><![CDATA[🔝  (￣▽￣)"欢迎来到惊悚乐园~]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/F6pkYHCsz/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/F6pkYHCsz/index.html">
+        <id>https://annzan.xyz/post/F6pkYHCsz</id>
+        <link href="https://annzan.xyz/post/F6pkYHCsz">
         </link>
         <updated>2021-08-14T01:39:50.000Z</updated>
         <summary type="html"><![CDATA[<p>啊不，欢迎来到我的博客。<br>
@@ -172,8 +172,8 @@ a计划.找例题，做例题。不看答案，能做多少就做多少，做完
     </entry>
     <entry>
         <title type="html"><![CDATA[③「Reprint」再见高中，以及你好大学。]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/i7Vkd59rZ/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/i7Vkd59rZ/index.html">
+        <id>https://annzan.xyz/post/i7Vkd59rZ</id>
+        <link href="https://annzan.xyz/post/i7Vkd59rZ">
         </link>
         <updated>2019-08-17T08:57:46.000Z</updated>
         <content type="html"><![CDATA[<p>再见高中，以及你好大学。<br>
@@ -450,8 +450,8 @@ CLANNAD、龙与虎、凉宫春日的消失</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[②「Reprint」euphoric field]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/7GTVN7fG6/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/7GTVN7fG6/index.html">
+        <id>https://annzan.xyz/post/7GTVN7fG6</id>
+        <link href="https://annzan.xyz/post/7GTVN7fG6">
         </link>
         <updated>2019-08-17T08:56:39.000Z</updated>
         <content type="html"><![CDATA[<p>euphoric field<br>
@@ -625,8 +625,8 @@ A: 因为如果放弃了，那我就没有存在的意义了。对我来说我�
     </entry>
     <entry>
         <title type="html"><![CDATA[①「Reprint」Fly Out.]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/EOT8d3PlF/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/EOT8d3PlF/index.html">
+        <id>https://annzan.xyz/post/EOT8d3PlF</id>
+        <link href="https://annzan.xyz/post/EOT8d3PlF">
         </link>
         <updated>2019-08-17T08:55:27.000Z</updated>
         <content type="html"><![CDATA[<p>Fly Out.<br>
@@ -644,8 +644,8 @@ A: 因为如果放弃了，那我就没有存在的意义了。对我来说我�
     </entry>
     <entry>
         <title type="html"><![CDATA[离散与混沌]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/KZdGDjDK0/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/KZdGDjDK0/index.html">
+        <id>https://annzan.xyz/post/KZdGDjDK0</id>
+        <link href="https://annzan.xyz/post/KZdGDjDK0">
         </link>
         <updated>2019-08-17T07:43:20.000Z</updated>
         <summary type="html"><![CDATA[<p>离散 For 疏离发散<br>
@@ -665,8 +665,8 @@ A: 因为如果放弃了，那我就没有存在的意义了。对我来说我�
     </entry>
     <entry>
         <title type="html"><![CDATA[「此生已许国，再难许卿」评8/14饭圈女孩怒怼香港废青事件]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/dDRU6Stkh/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/dDRU6Stkh/index.html">
+        <id>https://annzan.xyz/post/dDRU6Stkh</id>
+        <link href="https://annzan.xyz/post/dDRU6Stkh">
         </link>
         <updated>2019-08-16T15:14:47.000Z</updated>
         <summary type="html"><![CDATA[<p>笔者按：自古英雄出少年。民国时期，是少年们站了出来，反抗不公，对抗暴权。<br>
@@ -697,8 +697,8 @@ A: 因为如果放弃了，那我就没有存在的意义了。对我来说我�
     </entry>
     <entry>
         <title type="html"><![CDATA[碎碎念]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/a5TRBQPEN/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/a5TRBQPEN/index.html">
+        <id>https://annzan.xyz/post/a5TRBQPEN</id>
+        <link href="https://annzan.xyz/post/a5TRBQPEN">
         </link>
         <updated>2019-08-15T15:34:34.000Z</updated>
         <summary type="html"><![CDATA[<p>其实有一个类似于说说的插件的，叫天晴说说，但是我不会用。<br>
@@ -714,8 +714,8 @@ A: 因为如果放弃了，那我就没有存在的意义了。对我来说我�
     </entry>
     <entry>
         <title type="html"><![CDATA[中元快讯「俄航威武」又一个哈德逊奇迹？]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/MxT2qjmg_/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/MxT2qjmg_/index.html">
+        <id>https://annzan.xyz/post/MxT2qjmg_</id>
+        <link href="https://annzan.xyz/post/MxT2qjmg_">
         </link>
         <updated>2019-08-15T15:03:26.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
@@ -736,8 +736,8 @@ A: 因为如果放弃了，那我就没有存在的意义了。对我来说我�
     </entry>
     <entry>
         <title type="html"><![CDATA[愿望清单 Dream list]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/zKZV6G29q/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/zKZV6G29q/index.html">
+        <id>https://annzan.xyz/post/zKZV6G29q</id>
+        <link href="https://annzan.xyz/post/zKZV6G29q">
         </link>
         <updated>2019-08-15T14:41:08.000Z</updated>
         <summary type="html"><![CDATA[<p>尝试写一个这个吧。根据蔡戈尼效应[1]，写下来的话会把脑子里的东西清空， 就不会天天念想了。<br>
@@ -775,8 +775,8 @@ A: 因为如果放弃了，那我就没有存在的意义了。对我来说我�
     </entry>
     <entry>
         <title type="html"><![CDATA[「中美贸易摩擦」b站里一些发人深思的评论]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/2B9V3MA-t/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/2B9V3MA-t/index.html">
+        <id>https://annzan.xyz/post/2B9V3MA-t</id>
+        <link href="https://annzan.xyz/post/2B9V3MA-t">
         </link>
         <updated>2019-08-14T07:43:45.000Z</updated>
         <summary type="html"><![CDATA[<ol>
@@ -837,8 +837,8 @@ A: 因为如果放弃了，那我就没有存在的意义了。对我来说我�
     </entry>
     <entry>
         <title type="html"><![CDATA[「我不是我没有」奇怪的耽美书单什么的]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/i_LCUh6yd/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/i_LCUh6yd/index.html">
+        <id>https://annzan.xyz/post/i_LCUh6yd</id>
+        <link href="https://annzan.xyz/post/i_LCUh6yd">
         </link>
         <updated>2019-08-14T07:36:42.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
@@ -930,8 +930,8 @@ awm<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[别用ios搜狗输入法的粘贴辅助]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/N1MV7BXqy/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/N1MV7BXqy/index.html">
+        <id>https://annzan.xyz/post/N1MV7BXqy</id>
+        <link href="https://annzan.xyz/post/N1MV7BXqy">
         </link>
         <updated>2019-08-14T07:33:01.000Z</updated>
         <summary type="html"><![CDATA[<p>就是复制之后调出输入法会把内容显示在首选的位置的功能。尤其在搬运大段的文字的时候。</p>
@@ -943,8 +943,8 @@ awm<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[对一些事情的看法]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/sTDSCZppw/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/sTDSCZppw/index.html">
+        <id>https://annzan.xyz/post/sTDSCZppw</id>
+        <link href="https://annzan.xyz/post/sTDSCZppw">
         </link>
         <updated>2019-08-14T07:27:01.000Z</updated>
         <summary type="html"><![CDATA[<p>qq空间说说上看到一篇文字，全文转载如下</p>
@@ -992,8 +992,8 @@ awm<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[一个让Mac端支持iPhone App免流的方法]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/XoMAYl3Tz/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/XoMAYl3Tz/index.html">
+        <id>https://annzan.xyz/post/XoMAYl3Tz</id>
+        <link href="https://annzan.xyz/post/XoMAYl3Tz">
         </link>
         <updated>2019-08-14T07:10:44.000Z</updated>
         <summary type="html"><![CDATA[<p>感觉一些直播app和b站在mac上的体验反而不如在ios端了。<br>
@@ -1012,8 +1012,8 @@ OK，嗨吧</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[「带你去私奔唷。」：简评《满地都是小星星》陆]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/dai-ni-qu-si-ben-yo-jian-ping-man-di-du-shi-xiao-xing-xing/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/dai-ni-qu-si-ben-yo-jian-ping-man-di-du-shi-xiao-xing-xing/index.html">
+        <id>https://annzan.xyz/post/dai-ni-qu-si-ben-yo-jian-ping-man-di-du-shi-xiao-xing-xing</id>
+        <link href="https://annzan.xyz/post/dai-ni-qu-si-ben-yo-jian-ping-man-di-du-shi-xiao-xing-xing">
         </link>
         <updated>2019-08-14T05:53:30.000Z</updated>
         <summary type="html"><![CDATA[<p>从此，我们只有死别，再无生离。 —— 杨绛《我们仨》</p>
@@ -1108,8 +1108,8 @@ Cool Down。</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[「万恶之源」Gridea和Github搭建个人博客]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/xpwgqKyCG/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/xpwgqKyCG/index.html">
+        <id>https://annzan.xyz/post/xpwgqKyCG</id>
+        <link href="https://annzan.xyz/post/xpwgqKyCG">
         </link>
         <updated>2019-08-14T05:42:38.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="一次github-pagesgridea协作搭建静态博客的经历">一次Github pages+Gridea协作搭建静态博客的经历</h2>
@@ -1225,8 +1225,8 @@ Disqus在国内会有一些问题。<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[好气。Markdown居然不支持右对齐]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/kbg2JV-rR/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/kbg2JV-rR/index.html">
+        <id>https://annzan.xyz/post/kbg2JV-rR</id>
+        <link href="https://annzan.xyz/post/kbg2JV-rR">
         </link>
         <updated>2019-08-12T02:16:20.000Z</updated>
         <summary type="html"><![CDATA[<pre><code>居中：
@@ -1256,8 +1256,8 @@ Disqus在国内会有一些问题。<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[不要升级！MacOS 10.14.6 →12款MBA11]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/bu-yao-sheng-ji-macos-10146-12-kuan-mba11/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/bu-yao-sheng-ji-macos-10146-12-kuan-mba11/index.html">
+        <id>https://annzan.xyz/post/bu-yao-sheng-ji-macos-10146-12-kuan-mba11</id>
+        <link href="https://annzan.xyz/post/bu-yao-sheng-ji-macos-10146-12-kuan-mba11">
         </link>
         <updated>2019-08-11T15:27:00.000Z</updated>
         <summary type="html"><![CDATA[<p>虽然很想体验一下Catalina，但毕竟Pubic Beta那也不是正式版对吧。听说会有CPU占用鬼畜变高的情况。我可不想让我的小风扇呼呼呼。<br>
@@ -1278,8 +1278,8 @@ Disqus在国内会有一些问题。<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[「短篇小说」「满地都是小星星」 陆]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/star/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/star/index.html">
+        <id>https://annzan.xyz/post/star</id>
+        <link href="https://annzan.xyz/post/star">
         </link>
         <updated>2019-08-08T05:41:04.000Z</updated>
         <summary type="html"><![CDATA[<p>侵删。鞠躬。</p>
@@ -4664,8 +4664,8 @@ HOP的节奏外加江式B-BOX配音撞了数十下，连小阿姨都投以侧目
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello World！]]></title>
-        <id>/Users/guest/Documents/GrideaGithub/output/post/hello-gridea/index.html</id>
-        <link href="/Users/guest/Documents/GrideaGithub/output/post/hello-gridea/index.html">
+        <id>https://annzan.xyz/post/hello-gridea</id>
+        <link href="https://annzan.xyz/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
