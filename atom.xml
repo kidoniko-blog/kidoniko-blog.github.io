@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://annzan.xyz</id>
     <title>🍪曲奇看繁星✨</title>
-    <updated>2019-08-17T02:43:52.622Z</updated>
+    <updated>2019-08-17T04:55:53.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://annzan.xyz"/>
     <link rel="self" href="https://annzan.xyz/atom.xml"/>
@@ -614,7 +614,7 @@ Cool Down。</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「Online」Gridea和Github搭建个人博客]]></title>
+        <title type="html"><![CDATA[「起源」Gridea和Github搭建个人博客]]></title>
         <id>https://annzan.xyz/post/xpwgqKyCG</id>
         <link href="https://annzan.xyz/post/xpwgqKyCG">
         </link>
