@@ -40,29 +40,9 @@
       
         <div class="animated fadeInLeft" style="animation-delay: 0.4s">
           <p class="my-4 text-gray-600 font-light hidden lg:block">
-            <br>上海。<br>我在钉子曾梦想的城市。<br>为了灵魂的自由，我甘愿失去肉体的自由。<br>凛然，独自，开放。<br>要成为像钉子一样优秀的人。
+            文章目录
           </p>
-          <div class="animated fadeInLeft social-container hidden lg:block" style="animation-delay: 0.6s">
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
+          <div class="toc-container hidden lg:block">
             
           </div>
         </div>
@@ -107,82 +87,75 @@
 </div>
 <div class="mask" onclick="closeMenu()">
 </div>
-      <div class="content-wrapper py-32 lg:p-8 lg:w-3/4">
-        <h2 class="text-lg text-gray-700 mb-8">
-          <i class="remixicon-archive-line"></i> 文章归档
-        </h2>
+      <div class="content-wrapper py-32 lg:p-8 lg:w-3/4 post-detail animated fadeIn">
+        <h1 class="text-3xl font-bold lg:mt-16">针对 ENFI.CLOUD 下载失败情况的解决方法</h1>
+        <div class="text-sm text-gray-700 lg:my-8">
+          08-19 / 1 min read
+        </div>
+        
+        <div class="post-content yue">
+          <ol>
+<li>重试几次就好了</li>
+<li>删除源文件，注意不要把.aria2 后缀的文件删了。重试就行了</li>
+</ol>
+
+        </div>
+
         
 
-        <div class="archives-container">
+
+        <div class="flex justify-between py-8">
           
-            <h2 class="text-gray-600 py-4 animated fadeIn">
-              <i class="remixicon-map-pin-time-line"></i>
-              2019
-            </h2>
-            
-              
-                <a href="https://annzan.xyz/post/star" class="post">
-                  <h2 class="inline-block font-bold text-lg post-title animated fadeIn">
-                    「短篇小说」「满地都是小星星」 陆
-                  </h2>
-                </a>
-                <div class="text-sm font-light mt-3 mb-6 text-gray-400 animated fadeInDown" style="animation-delay: 0.4s">08-08</div>
-              
-            
-              
-            
-              
-            
+            <div class="prev-post">
+              <a href="https://annzan.xyz/post/F6pkYHCsz">
+                <h3 class="post-title">
+                  <i class="remixicon-arrow-left-line"></i>
+                  🔝你好
+                </h3>
+              </a>
+            </div>
           
-            <h2 class="text-gray-600 py-4 animated fadeIn">
-              <i class="remixicon-map-pin-time-line"></i>
-              2018
-            </h2>
-            
-              
-            
-              
-                <a href="https://annzan.xyz/post/hello-gridea" class="post">
-                  <h2 class="inline-block font-bold text-lg post-title animated fadeIn">
-                    Hello World！
-                  </h2>
-                </a>
-                <div class="text-sm font-light mt-3 mb-6 text-gray-400 animated fadeInDown" style="animation-delay: 0.4s">12-12</div>
-              
-            
-              
-            
+
           
-            <h2 class="text-gray-600 py-4 animated fadeIn">
-              <i class="remixicon-map-pin-time-line"></i>
-              2017
-            </h2>
-            
-              
-            
-              
-            
-              
-                <a href="https://annzan.xyz/post/OmAFPxA2L" class="post">
-                  <h2 class="inline-block font-bold text-lg post-title animated fadeIn">
-                    部分过期的很丧的文章被我隐藏了
-                  </h2>
-                </a>
-                <div class="text-sm font-light mt-3 mb-6 text-gray-400 animated fadeInDown" style="animation-delay: 0.4s">06-15</div>
-              
-            
+            <div class="next-post">
+              <a href="https://annzan.xyz/post/AZRd24rsk">
+                <h3 class="post-title">
+                  『谢邀，禁止转载。』macOS 下右键分享可以绕过禁止复制的 js
+                  <i class="remixicon-arrow-right-line"></i>
+                </h3>
+              </a>
+            </div>
           
         </div>
 
-        <div>
-          <div class="pagination-container animated fadeIn">
-  
-    <a href="https://annzan.xyz/archives/" class="page-btn"><i class="remixicon-arrow-left-line"></i> 上一页</a>
-  
-  
-</div>
+        
+          
+            <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
 
-        </div>
+<div id="gitalk-container"></div>
+
+<script>
+
+  var gitalk = new Gitalk({
+    clientID: '3e528e64f53d54578378',
+    clientSecret: 'e4b609a876e3c18cb19a746b74b45a0e38ad36b5',
+    repo: 'pinglun',
+    owner: 'kidoniko-blog',
+    admin: ['kidoniko-blog'],
+    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+
+  gitalk.render('gitalk-container')
+
+</script>
+
+          
+
+          
+        
+
       </div>
     </div>
 
