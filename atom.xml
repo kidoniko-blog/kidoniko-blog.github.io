@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://annzan.xyz</id>
     <title>🍪曲奇看繁星</title>
-    <updated>2019-08-19T15:15:01.601Z</updated>
+    <updated>2019-08-21T10:33:58.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://annzan.xyz"/>
     <link rel="self" href="https://annzan.xyz/atom.xml"/>
@@ -166,6 +166,18 @@ a计划.找例题，做例题。不看答案，能做多少就做多少，做完
 好吧，只贴几个</p>
 <p>Ps.特别提醒：<br>
 没必要关注我的知乎账号，因为70～80%的干货都发在了微信公众号里，在历史信息里就有。我的微信公众号名称也是“白诗诗”，我这么负责任的人，一定不会让你失望的，请一定要关注。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20 元独立博客建站服务]]></title>
+        <id>https://annzan.xyz/post/VogPberDK</id>
+        <link href="https://annzan.xyz/post/VogPberDK">
+        </link>
+        <updated>2019-08-21T10:31:55.000Z</updated>
+        <content type="html"><![CDATA[<p>效果见本站，如果需要请通过本站下方留言与我取得联系<br>
+价格不包含域名。<br>
+.xyz 域名目前首年 9 元，续费 100 多元。<br>
+可以帮你买，资料填你的。买国外域名不用备案。</p>
 ]]></content>
     </entry>
     <entry>
@@ -1256,37 +1268,6 @@ Disqus在国内会有一些问题。<br>
 👉网站没有更新或者有奇怪的问题的话，删浏览器缓存+删repo大法好。<br>
 换网站主题容易出bug，出了bug的话删repo大法好。<br>
 👉git老是报错而且解决不了的话就开个虚拟机。虚拟机大法好！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好气。Markdown居然不支持右对齐]]></title>
-        <id>https://annzan.xyz/post/kbg2JV-rR</id>
-        <link href="https://annzan.xyz/post/kbg2JV-rR">
-        </link>
-        <updated>2019-08-12T02:16:20.000Z</updated>
-        <summary type="html"><![CDATA[<pre><code>居中：
-&lt;center&gt;诶嘿&lt;/center&gt;
-
-左对齐：
-&lt;p align=&quot;left&quot;&gt;诶嘿&lt;/p&gt;
-右对齐：
-&lt;p align=&quot;right&quot;&gt;诶嘿&lt;/p&gt;
-
-绝对正确，诶嘿~~
-</code></pre>
-]]></summary>
-        <content type="html"><![CDATA[<pre><code>居中：
-&lt;center&gt;诶嘿&lt;/center&gt;
-
-左对齐：
-&lt;p align=&quot;left&quot;&gt;诶嘿&lt;/p&gt;
-右对齐：
-&lt;p align=&quot;right&quot;&gt;诶嘿&lt;/p&gt;
-
-绝对正确，诶嘿~~
-</code></pre>
-<!-- more -->
-<p>所以直接上html了是吗（逃</p>
 ]]></content>
     </entry>
 </feed>
