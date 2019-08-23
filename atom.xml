@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://annzan.xyz</id>
     <title>🍪曲奇看繁星</title>
-    <updated>2019-08-23T20:50:47.296Z</updated>
+    <updated>2019-08-23T20:56:28.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://annzan.xyz"/>
     <link rel="self" href="https://annzan.xyz/atom.xml"/>
@@ -97,6 +97,21 @@
 ]]></summary>
         <content type="html"><![CDATA[<p><a href="https://leanote.com/">蚂蚁笔记</a>，15 元/月，你只负责写就行了。</p>
 <!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本站即将启用新域名 kina.xyz]]></title>
+        <id>https://annzan.xyz/post/DXfSDvq00</id>
+        <link href="https://annzan.xyz/post/DXfSDvq00">
+        </link>
+        <updated>2019-08-23T20:46:47.000Z</updated>
+        <summary type="html"><![CDATA[<p>新网免费.xyz域名买了一年。<br>
+自己实名不要太划算</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>新网免费.xyz域名买了一年。<br>
+自己实名不要太划算</p>
+<!-- more -->
+<p>买还得 150</p>
 ]]></content>
     </entry>
     <entry>
@@ -626,20 +641,6 @@ pd充电器100<br>
         <content type="html"><![CDATA[<p>针对知乎</p>
 <!-- more -->
 <p>禁止转载的回答，在 macOS 环境下邮件分享到邮件或者备忘录可以获得原文。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[光明与期许]]></title>
-        <id>https://annzan.xyz/post/YzftGdRLO</id>
-        <link href="https://annzan.xyz/post/YzftGdRLO">
-        </link>
-        <updated>2019-08-17T11:58:18.000Z</updated>
-        <content type="html"><![CDATA[<p>走心流吧。<br>
-永远不要放弃希望。<br>
-也许明天会更好呢？<br>
-这是大概率的。<br>
-毕竟从小就自带幸运属性，难道不是吗？<br>
-跃迁的快感还没体验到，不能提前放弃。</p>
 ]]></content>
     </entry>
 </feed>
