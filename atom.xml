@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://annzan.xyz</id>
     <title>🍪曲奇看繁星</title>
-    <updated>2019-08-23T16:28:37.336Z</updated>
+    <updated>2019-08-23T16:32:10.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://annzan.xyz"/>
     <link rel="self" href="https://annzan.xyz/atom.xml"/>
@@ -510,12 +510,19 @@ pd充电器100<br>
         <link href="https://annzan.xyz/post/3ZAs7n9YD">
         </link>
         <updated>2019-08-23T14:41:07.000Z</updated>
-        <content type="html"><![CDATA[<ol>
+        <summary type="html"><![CDATA[<p><code>题图：咳咳，咳咳咳，咳咳咳咳（疯狂暗示）</code></p>
+]]></summary>
+        <content type="html"><![CDATA[<p><code>题图：咳咳，咳咳咳，咳咳咳咳（疯狂暗示）</code></p>
+<!-- more -->
+<ol>
 <li>gridea 的同步失败了（如果你用这个的话）</li>
 <li>浏览器缓存没有刷新（最大可能）</li>
 <li>github 那边没有更新，极端的话可以考虑删 repo 重新 push</li>
 <li>你的 cdn 没有更新 cache</li>
 </ol>
+<p>gridea push - 清除 cf 的 cdn 缓存双联即可<br>
+连清除浏览器缓存都不用，因为貌似 cdn 会自带让浏览器回源而不是调用缓存的指令。（我只是个小萌新大概是这样吧）所以因此连三联都不用<br>
+现在写个博客真是太简单啦（悠叹）</p>
 ]]></content>
     </entry>
     <entry>
