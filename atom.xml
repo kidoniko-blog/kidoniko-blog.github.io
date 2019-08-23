@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://annzan.xyz</id>
     <title>🍪曲奇看繁星</title>
-    <updated>2019-08-23T14:39:21.229Z</updated>
+    <updated>2019-08-23T14:42:37.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://annzan.xyz"/>
     <link rel="self" href="https://annzan.xyz/atom.xml"/>
@@ -177,7 +177,7 @@ a计划.找例题，做例题。不看答案，能做多少就做多少，做完
         <content type="html"><![CDATA[<p>以前调温度的时候如果中间漏掉了一度（比如我 20 度升 26 度，如果中间有一个度没对准空调，空调没有叫一声的话），我必须把温度降到那个漏掉的温度然后再重新调一次，因为觉得空调可能会少调了一度跟遥控器上显示的温度并不一样了</p>
 <p>然而长大后的我经过科学的实验发现每调一次温度遥控器都会把包括模式风向风速和温度的信息发送给空调一次，而且每个温度的信息特征都是单独的，并不是每按上升按键就是告诉空调升一度。。</p>
 <p>这时候我才惊觉我家用了快 10 年的空调是如此的智能<br>
-~~然而我还是改不掉漏了一度会手动回滚的陋习（这应该是叫回滚还是叫回溯呀）</p>
+<s>然而我还是改不掉漏了一度会手动回滚的陋习（这应该是叫回滚还是叫回溯</s></p>
 ]]></content>
     </entry>
     <entry>
