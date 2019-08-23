@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://annzan.xyz</id>
     <title>🍪曲奇看繁星</title>
-    <updated>2019-08-21T10:33:58.972Z</updated>
+    <updated>2019-08-23T13:55:18.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://annzan.xyz"/>
     <link rel="self" href="https://annzan.xyz/atom.xml"/>
@@ -166,6 +166,26 @@ a计划.找例题，做例题。不看答案，能做多少就做多少，做完
 好吧，只贴几个</p>
 <p>Ps.特别提醒：<br>
 没必要关注我的知乎账号，因为70～80%的干货都发在了微信公众号里，在历史信息里就有。我的微信公众号名称也是“白诗诗”，我这么负责任的人，一定不会让你失望的，请一定要关注。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[导入iCloud照片到Mac的两种办法]]></title>
+        <id>https://annzan.xyz/post/Zjumvvjjv</id>
+        <link href="https://annzan.xyz/post/Zjumvvjjv">
+        </link>
+        <updated>2019-08-23T13:39:13.000Z</updated>
+        <content type="html"><![CDATA[<p>收到了老家寄来的中考前被锁起来的 iPhone SE 和 AirPods 一代，但在退出 iPhone 上登录的古早 iCloud 的账号时发现iPhone 上的 3000 多张照片实际上有 2400 多张是是存储在云端，本地只有缩略图的，而 iphone 本地的剩余空间又太小，不足以把照片文件下载回本地，只好想办法导入到我的 MBA里。<br>
+其实还有一种办法，就是登录好 iCloud之后把mac 照片应用在偏好设置里勾选『将原件下载到 Mac』的选项，然后Mac 会悄悄地把皂片们自己下回来的。缺点是没法看进度条。<br>
+第二种办法，也就是我用的，就是连好 iPhone 之后选择导入所有新照片，导入速度极其之快，但 Apple 客服解释是导入的仍然是缩略图，原件仍然会在你点开图片的时候再加载，这种好像叫响应式，我不知道<br>
+总之 Apple 客服都说看不了进度条，只能通过储存空间的变小来判断。<br>
+但我发现了隐藏的进度条！！<br>
+只要文件 - 导出，把照片导出来，由于需要图片的原件，那些混入其中的假装自己是个高清皂片的皂片就会被无情的暴露，照片 app上面就会有一个圆圆的进度条，告诉你 「正在下载xx/xxxx 图片用于导出」<br>
+怎么样，是不是很迂回，是不是很因吹斯听<br>
+这个故事告诉我们妖娆的 macos 在用户体验上才不是傻大粗黑的为Windows 可以望其项背的 （逃<br>
+其实在我看来如果你是一个新新人类，要入手一台年轻人的第一台笔记本之类的，那肯定是 MacBook Air/Pro 没跑了<br>
+因为只有需要特定软件生态的老人们才会需要Windows</p>
+<pre><code>			再说 大不了 win to go 解决嘛
+			（逃）</code></pre>
 ]]></content>
     </entry>
     <entry>
@@ -1151,123 +1171,6 @@ Cool Down。</p>
 <blockquote>
 <p>从此，我们只有死别，再无生离。 —— 杨绛《我们仨》</p>
 </blockquote>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「万恶之源」Gridea和Github搭建个人博客]]></title>
-        <id>https://annzan.xyz/post/xpwgqKyCG</id>
-        <link href="https://annzan.xyz/post/xpwgqKyCG">
-        </link>
-        <updated>2019-08-14T05:42:38.000Z</updated>
-        <summary type="html"><![CDATA[<h2 id="一次github-pagesgridea协作搭建静态博客的经历">一次Github pages+Gridea协作搭建静态博客的经历</h2>
-<p><a href="https://gridea.dev/docs/">官方文档</a><br>
-不想写成教程向。毕竟网上帖子很多，自己爬贴也是一种体验（笑<br>
-小白向的话Gridea作者已经给你们写好<a href="https://fehey.com/post/hve-notes-start/">教程</a>咯<br>
-非专业向，毕竟我只是一个什么也不懂的小透明。<br>
-就写意一点，一种FU~</p>
-<p>首先准备环境。Git+Gridea macOS的话还需要xcode<br>
-如果你的macOS不是最新的话，可以到developers<a href="https://developer.apple.com/download/more/">那个页面</a>去下载xcode 10<br>
-或者直接在<a href="https://www.jianshu.com/p/75fd6f051216">我这个页面</a>下载历史版本<br>
-注意Linux的Gridea很可能挂了。</p>
-]]></summary>
-        <content type="html"><![CDATA[<h2 id="一次github-pagesgridea协作搭建静态博客的经历">一次Github pages+Gridea协作搭建静态博客的经历</h2>
-<p><a href="https://gridea.dev/docs/">官方文档</a><br>
-不想写成教程向。毕竟网上帖子很多，自己爬贴也是一种体验（笑<br>
-小白向的话Gridea作者已经给你们写好<a href="https://fehey.com/post/hve-notes-start/">教程</a>咯<br>
-非专业向，毕竟我只是一个什么也不懂的小透明。<br>
-就写意一点，一种FU~</p>
-<p>首先准备环境。Git+Gridea macOS的话还需要xcode<br>
-如果你的macOS不是最新的话，可以到developers<a href="https://developer.apple.com/download/more/">那个页面</a>去下载xcode 10<br>
-或者直接在<a href="https://www.jianshu.com/p/75fd6f051216">我这个页面</a>下载历史版本<br>
-注意Linux的Gridea很可能挂了。</p>
-<!-- more -->
-<h1 id="上线">上线</h1>
-<p>好了<br>
-首先注册github账号。<br>
-然后开一个nickname.github.io的repo<br>
-默认的话page服务是开的<br>
-在github申请一个开了repo权限的OAuth Token<br>
-然后把相关的东西填到Gridea里<br>
-（这里注意网址那里前缀一定填https：//，因为填错网页会异常）<br>
-然后Gridea左下角同步一下就行了<br>
-相当于就是git里的push，<br>
-（这里要吹一下，比MWeb的静态博客部署功能更进了一步。MWeb只能帮你本地网页渲染好，还要你自己到terminal去粘贴执行一下。当然这个也跟macOS的sandbox有关吧大概）<br>
-到此网站基本就可以访问了。<br>
-如果不能访问的话清除一下浏览器缓存。<br>
-还是不能的话删一下repo，重新操作一遍。<br>
-网页显示异常的话注意一下gridea那里填的是不是https前缀</p>
-<h1 id="域名和解析">域名和解析</h1>
-<p>接下来是域名。<br>
-国内的服务商都得备案的。<br>
-我的话直接在狗爹Godaddy上买的.xyz域名，首年9元续费100。<br>
-👉注册好域名狗爹会让你填写你的网站地址，不要相信它！它会通过302或者301（好像是这个吧）跳转把域名跳转过去，而不是传统的A记录或者CNAME记录的方式。这样的话可能会有一些奇奇怪怪的问题<br>
-当然你也可以在深水宝上搜「godaddy域名」，可以买到首年58续费也58的.com域名。当然也可以去买它家已经备案的老域名。对SEO比较好（我什么也没说。<br>
-域名买好把DNS改到DNSpod或者Cloudflare家的（你自己注册我就不说了）<br>
-我用的是cf，因为cf有免费的cdn用（可恶的verycloud不给没备案的网站用）<br>
-改好以后等几分钟到cloudflare去识别，如果识别不到的话等它识别了会给你发邮件的。<br>
-然后添加一个A记录，域名填你注册的域名，ip填<br>
-185.199.108.153<br>
-185.199.109.153<br>
-185.199.110.153<br>
-185.199.111.153<br>
-上面的随便一个就行。通用的。<br>
-不要相信那些让你填192.30.252.153 或 192.30.252.154 或207.97.227.245 或 204.232.175.78的教程，这些教程都过时了。它们要么是不支持https，要么是已经停用，实际上只作为转发的了。</p>
-<p>最后到github pages那里绑定好你的域名。<br>
-把enforce https打开。现在github支持给自定义的域名开强制https了。<br>
-这样你的域名就可以成功被解析了。<br>
-这里附上GIthub官方的三方域名绑定的FAQ<a href="https://help.github.com/cn/articles/troubleshooting-custom-domains">传送</a></p>
-<h1 id="cdn">CDN</h1>
-<p>如果你用的是cf的话，等12小时cdn应该就自动生效了。<br>
-用<a href="http://tool.chinaz.com/speedtest/">这个</a>可以测一下速度。<br>
-<a href="https://zhuanlan.zhihu.com/p/29905253">这里是一个cloudflare的调试指南</a><br>
-调试网站的时候记得打开Developer mode可以暂时关掉缓存。<br>
-<a href="https://support.cloudflare.com/hc/zh-cn/articles/200172316-%E5%A6%82%E4%BD%95%E5%B0%86%E7%89%B9%E5%AE%9A-URL-%E4%BB%8E-Cloudflare-%E7%9A%84%E7%BC%93%E5%AD%98%E4%B8%AD%E6%8E%92%E9%99%A4-">将特定页面从cdn缓存对象里移除</a></p>
-<h1 id="评论">评论</h1>
-<p>然后配置一下评论服务。<br>
-推荐用Gridea的小白教程里用的Gitalk<br>
-Disqus在国内会有一些问题。<br>
-一样，到他给的那个<a href="https://github.com/settings/applications/new">页面</a>申请一下OAuth，填到Gridea里<br>
-同样注意填写的时候的http和https的区分。<br>
-仓库的话你可以新建一个repo专门用于存放评论。<br>
-发布以后到网站上去按提示开通一下，就好了。</p>
-<p>不过评论者都要有github账号，这个很不方便。<br>
-如果有朋友有那种填一下昵称和邮箱就能评论的，请一定告诉我。</p>
-<h1 id="访问统计">访问统计</h1>
-<p>最后再到Google统计添加一下你的网站，获取一个UA-xxxxx-x代码，填到Gridea上对应的位置（具体我不多说了，你自己搜一下教程叭）<br>
-这样就可以看到你网站的访问量了。<br>
-可以到https://www.giuem.com/google-analytics-loading-optimize/<br>
-这里添加一个代码，可以优化google统计的加载速度。</p>
-<p>另外cloudflare也有统计功能</p>
-<h1 id="收录和友链">收录和友链</h1>
-<p>最后你可以到百度添加一下你的网站，然后等着随缘收录叭<br>
-然后你还可以到各种小朋友的网站里请求互加一下友链。<br>
-注意你自己要先把对方加到友链里噢<br>
-有的博主会要求博客更新数量和成立时间以及https什么的。你可以改一下文章创建时间骗一下？（逃，不过看WHois一切就都真相了</p>
-<h1 id="codinggithub-多路解析">Coding+Github 多路解析</h1>
-<p>我的访客基本都是国内，就不折腾了。<br>
-<a href="https://www.huliujia.com/blog/7d8b8a8b346ec437171b8ceca0c4fd708af4b702/">需要的看这里</a></p>
-<h1 id="顺便">顺便</h1>
-<p>👉预览的时候gitalk提示未找到相关的 Issues 进行评论，请联系 @xxx初始化创建是正常的，push以后访问就正常了，因为只要你的网站和你当初在Gitalk那个页面填写的网址不同就会跳这个。<br>
-👉Gridea那个付费的<a href="https://mianbaoduo.com/product/show/mbd-aJqU">6元主题</a>很好看，推荐食用<br>
-👉标题和个人简介可以放emoji表情，像我一样~<br>
-👉善用<code>&lt;!-- more --&gt;</code>指令，可以调整文章在首页显示的内容多少。<br>
-👉合理利用<code>#</code>符号给文章分段，文章左侧会自动生成目录<br>
-👉设置每页只显示3篇文章据说可以让加载速度快一点？（逃<br>
-👉传图片尤其是大图片一定要找图床而不要直接上传，否则会慢到你想死<br>
-👉你以为你的网站访问很快，其实只是你访问多了你的网络会有缓存，本地上也有缓存，所以这种神奇的速度是假的（掩面悲伤<br>
-👉默认的Notes主题在手机端的宽度有点问题，会特别窄，显示不舒服的。<br>
-👉把文章的创建时间改到未来，可以实现让文章置顶的功效。<br>
-👉通过更改源文件夹，可以实现类似于让Gridea「切换账号」的功效，让你可以同时更新不同的博客。<br>
-👉建议如果真的要建多个博客的话可以注册多个Github账号，因为如果再新建一个Repo的话这个repo属于项目网页，绑定域名的时候会遇到麻烦（<a href="https://help.github.com/cn/articles/custom-domain-redirects-for-github-pages-sites">参见</a>）<br>
-👉不建议食用Coding pages，因为它的免费版里会有重定向，百度也不收录它了，所以它唯一的优点也消失了。<br>
-另外它在高峰期会爆炸，连访问都访问不了，哪像Github稳定如斯的慢，我最爱G家了<br>
-👉通过坚果云可以实现定期备份Gridea的文件到云端。防止丢失。<br>
-👉这里再次安利macOS时光机器（Time Machine），群里一位朋友Mojave小升一下居然卡白苹果了，真是可怕如斯(再次建议全员不要升级10.14.6。<br>
-（当然更不要升级catalina<br>
-👉Gridea的网站描述和底部信息支持html,这里提供一个最实用的代码，也就是：蹡蹡 <code>&lt;br&gt;</code>换行符。简单又实用<br>
-👉网站没有更新或者有奇怪的问题的话，删浏览器缓存+删repo大法好。<br>
-换网站主题容易出bug，出了bug的话删repo大法好。<br>
-👉git老是报错而且解决不了的话就开个虚拟机。虚拟机大法好！</p>
 ]]></content>
     </entry>
 </feed>
