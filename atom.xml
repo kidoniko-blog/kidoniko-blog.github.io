@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://annzan.xyz</id>
     <title>🍪曲奇看繁星</title>
-    <updated>2019-08-23T16:59:33.807Z</updated>
+    <updated>2019-08-23T17:13:07.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://annzan.xyz"/>
     <link rel="self" href="https://annzan.xyz/atom.xml"/>
@@ -101,11 +101,11 @@
         <updated>2019-08-23T16:44:54.000Z</updated>
         <summary type="html"><![CDATA[<p>果然陋习的传染是不可控的（逃）</p>
 <p>至于万字长文在哪里<br>
-你估计看不到的 别点开了这篇文章是空的，是为了对着你笑一个（逃）</p>
+你估计看不到的 别点开了这篇文章是空的</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>果然陋习的传染是不可控的（逃）</p>
 <p>至于万字长文在哪里<br>
-你估计看不到的 别点开了这篇文章是空的，是为了对着你笑一个（逃）</p>
+你估计看不到的 别点开了这篇文章是空的</p>
 <!-- more -->
 ]]></content>
     </entry>
@@ -194,7 +194,7 @@
 pps 你可以通过在文件夹名字前面加个感叹号来人工置顶。wifi的 ssid 名称同理。<br>
 提醒事项不多说。</p>
 <p>钱包的话倒不是涉及 iCloud 同步，而且一张北京/上海的公交卡也只能在一个机子上用也是很反人类的（当然这个从原理上也不好实现）<br>
-不过一群人傻乎乎的被 metro 大都会忽悠着去扫二维码只有我一个人特别优越的走了近场通讯 nfc 啥也不干也不用提前打开 app 就直接手机贴上去啾的一下就过去了真的好有优越感啊！！！！！<br>
+不过一群人傻乎乎的被 metro 大都会忽悠着去扫二维码只有我一个人特别优越的走了近场通讯 nfc 啥也不干也不用提前打开 app 就直接手机贴上去啾的一下就过去了真的好有优越感啊！！！！！（上海交通卡官方 app 可以给钱包里显示的交通卡更改封面，很漂亮的。另外锁屏双击 home 可以快捷调出的）<br>
 <s>不过第一次用就没能出站提示去服务中心最后被服务中心的小姐姐开了人工通道出去真是好羞耻</s><br>
 不过一定有什么地方错了，明天再去试！</p>
 <blockquote>
