@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://annzan.xyz</id>
     <title>🍪曲奇看繁星</title>
-    <updated>2019-08-23T13:55:18.963Z</updated>
+    <updated>2019-08-23T13:58:27.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://annzan.xyz"/>
     <link rel="self" href="https://annzan.xyz/atom.xml"/>
@@ -179,7 +179,7 @@ a计划.找例题，做例题。不看答案，能做多少就做多少，做完
 第二种办法，也就是我用的，就是连好 iPhone 之后选择导入所有新照片，导入速度极其之快，但 Apple 客服解释是导入的仍然是缩略图，原件仍然会在你点开图片的时候再加载，这种好像叫响应式，我不知道<br>
 总之 Apple 客服都说看不了进度条，只能通过储存空间的变小来判断。<br>
 但我发现了隐藏的进度条！！<br>
-只要文件 - 导出，把照片导出来，由于需要图片的原件，那些混入其中的假装自己是个高清皂片的皂片就会被无情的暴露，照片 app上面就会有一个圆圆的进度条，告诉你 「正在下载xx/xxxx 图片用于导出」<br>
+只要文件 - 导出（千万不要选天真的选导出原件，你以为原件是高分辨率图片的意思，但苹果认为那是 ps 专用的 xmp 或者某些只能用照片应用打开的硬核iptc格式），把照片导出来，由于需要图片的原件，那些混入其中的假装自己是个高清皂片的皂片就会被无情的暴露，照片 app上面就会有一个圆圆的进度条，告诉你 「正在下载xx/xxxx 图片用于导出」<br>
 怎么样，是不是很迂回，是不是很因吹斯听<br>
 这个故事告诉我们妖娆的 macos 在用户体验上才不是傻大粗黑的为Windows 可以望其项背的 （逃<br>
 其实在我看来如果你是一个新新人类，要入手一台年轻人的第一台笔记本之类的，那肯定是 MacBook Air/Pro 没跑了<br>
