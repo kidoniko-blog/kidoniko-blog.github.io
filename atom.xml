@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://annzan.xyz</id>
     <title>🍪曲奇看繁星</title>
-    <updated>2019-08-23T16:43:47.375Z</updated>
+    <updated>2019-08-23T16:44:15.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://annzan.xyz"/>
     <link rel="self" href="https://annzan.xyz/atom.xml"/>
@@ -113,16 +113,13 @@
         <updated>2019-08-23T16:13:56.000Z</updated>
         <summary type="html"><![CDATA[<p>后来读着有点怪怪的，注明一下，我是羡慕他的家庭，只是为了押韵起的标题。不要望文生义产生某些奇怪的联想<br>
 <code>题图：上海图书馆大厅。每天和一万个人一起学习是一种怎样的感受？在线等，挺急的。</code></p>
-<blockquote>
-<p>自己孩子查完成绩告诉你清华北大时，你是什么心理感受？</p>
-</blockquote>
 ]]></summary>
         <content type="html"><![CDATA[<p>后来读着有点怪怪的，注明一下，我是羡慕他的家庭，只是为了押韵起的标题。不要望文生义产生某些奇怪的联想<br>
 <code>题图：上海图书馆大厅。每天和一万个人一起学习是一种怎样的感受？在线等，挺急的。</code></p>
+<!-- more -->
 <blockquote>
 <p>自己孩子查完成绩告诉你清华北大时，你是什么心理感受？</p>
 </blockquote>
-<!-- more -->
 <p>我：妈，我能考670左右。</p>
 <p>我妈：你可憋吹牛了，好好估。</p>
 <p>我：（委屈巴巴的重新估分，并按照更严格的标准）妈，我最低也能考660，我估分一直很准的好伐？</p>
