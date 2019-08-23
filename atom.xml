@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://annzan.xyz</id>
     <title>🍪曲奇看繁星</title>
-    <updated>2019-08-23T16:32:10.673Z</updated>
+    <updated>2019-08-23T16:33:40.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://annzan.xyz"/>
     <link rel="self" href="https://annzan.xyz/atom.xml"/>
@@ -531,7 +531,11 @@ pd充电器100<br>
         <link href="https://annzan.xyz/post/Q4M4UcCTT">
         </link>
         <updated>2019-08-23T14:33:18.000Z</updated>
-        <content type="html"><![CDATA[<p>以前调温度的时候如果中间漏掉了一度（比如我 20 度升 26 度，如果中间有一个度没对准空调，空调没有叫一声的话），我必须把温度降到那个漏掉的温度然后再重新调一次，因为觉得空调可能会少调了一度跟遥控器上显示的温度并不一样了</p>
+        <summary type="html"><![CDATA[<p>以前调温度的时候如果中间漏掉了一度（比如我 20 度升 26 度，如果中间有一个度没对准空调，空调没有叫一声的话），我必须把温度降到那个漏掉的温度然后再重新调一次，</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>以前调温度的时候如果中间漏掉了一度（比如我 20 度升 26 度，如果中间有一个度没对准空调，空调没有叫一声的话），我必须把温度降到那个漏掉的温度然后再重新调一次，</p>
+<!-- more -->
+<p>因为觉得空调可能会少调了一度跟遥控器上显示的温度并不一样了</p>
 <p>然而长大后的我经过科学的实验发现每调一次温度遥控器都会把包括模式风向风速和温度的信息发送给空调一次，而且每个温度的信息特征都是单独的，并不是每按上升按键就是告诉空调升一度。。</p>
 <p>这时候我才惊觉我家用了快 10 年的空调是如此的智能<br>
 <s>然而我还是改不掉漏了一度会手动回滚的陋习（这应该是叫回滚还是叫回溯</s></p>
@@ -572,7 +576,11 @@ pd充电器100<br>
         <link href="https://annzan.xyz/post/VogPberDK">
         </link>
         <updated>2019-08-21T10:31:55.000Z</updated>
-        <content type="html"><![CDATA[<p>效果见本站，如果需要请通过本站下方留言与我取得联系<br>
+        <summary type="html"><![CDATA[<p>效果见本站，</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>效果见本站，</p>
+<!-- more -->
+<p>如果需要请通过本站下方留言与我取得联系<br>
 价格不包含域名。<br>
 .xyz 域名目前首年 9 元，续费 100 多元。<br>
 可以帮你买，资料填你的。买国外域名不用备案。</p>
@@ -591,12 +599,16 @@ pd充电器100<br>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[『谢邀，禁止转载。』macOS 下右键分享可以绕过禁止复制的 js]]></title>
+        <title type="html"><![CDATA[『谢邀，禁止转载。』macOS 下右键的共享可以绕过知乎的禁止复制 js]]></title>
         <id>https://annzan.xyz/post/AZRd24rsk</id>
         <link href="https://annzan.xyz/post/AZRd24rsk">
         </link>
         <updated>2019-08-18T10:57:43.000Z</updated>
-        <content type="html"><![CDATA[<p>针对知乎禁止转载的回答，在 macOS 环境下邮件分享到邮件或者备忘录可以获得原文。</p>
+        <summary type="html"><![CDATA[<p>针对知乎</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>针对知乎</p>
+<!-- more -->
+<p>禁止转载的回答，在 macOS 环境下邮件分享到邮件或者备忘录可以获得原文。</p>
 ]]></content>
     </entry>
     <entry>
