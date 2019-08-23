@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://annzan.xyz</id>
     <title>🍪曲奇看繁星</title>
-    <updated>2019-08-23T14:42:37.534Z</updated>
+    <updated>2019-08-23T14:45:48.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://annzan.xyz"/>
     <link rel="self" href="https://annzan.xyz/atom.xml"/>
@@ -166,6 +166,20 @@ a计划.找例题，做例题。不看答案，能做多少就做多少，做完
 好吧，只贴几个</p>
 <p>Ps.特别提醒：<br>
 没必要关注我的知乎账号，因为70～80%的干货都发在了微信公众号里，在历史信息里就有。我的微信公众号名称也是“白诗诗”，我这么负责任的人，一定不会让你失望的，请一定要关注。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于 Github Pages 网站没有更新的 check list]]></title>
+        <id>https://annzan.xyz/post/3ZAs7n9YD</id>
+        <link href="https://annzan.xyz/post/3ZAs7n9YD">
+        </link>
+        <updated>2019-08-23T14:41:07.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>gridea 的同步失败了（如果你用这个的话）</li>
+<li>浏览器缓存没有刷新（最大可能）</li>
+<li>github 那边没有更新，极端的话可以考虑删 repo 重新 push</li>
+<li>你的 cdn 没有更新 cache</li>
+</ol>
 ]]></content>
     </entry>
     <entry>
@@ -1084,26 +1098,6 @@ awm<br>
 <p>一直活在网路世界，对这些东西一直抱持一种没什么啊对啊怎么了的态度。<br>
 最近接触到「正常人」们对这事儿的看法。嗯。我理智的说，是震惊了我。<br>
 关于这个话题甚至可以上升到哲学，所以我就不展开了。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个让Mac端支持iPhone App免流的方法]]></title>
-        <id>https://annzan.xyz/post/XoMAYl3Tz</id>
-        <link href="https://annzan.xyz/post/XoMAYl3Tz">
-        </link>
-        <updated>2019-08-14T07:10:44.000Z</updated>
-        <summary type="html"><![CDATA[<p>感觉一些直播app和b站在mac上的体验反而不如在ios端了。<br>
-手机端会有很多什么xx影视啊，xx电影，xx字幕组之类的支持在线看片（雾）的软件，比较纯净，体验比较好。但是电脑上就比较少有对应的软件。<br>
-这个时候怎么办呢？</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>感觉一些直播app和b站在mac上的体验反而不如在ios端了。<br>
-手机端会有很多什么xx影视啊，xx电影，xx字幕组之类的支持在线看片（雾）的软件，比较纯净，体验比较好。但是电脑上就比较少有对应的软件。<br>
-这个时候怎么办呢？</p>
-<!-- more -->
-<p>免流的斗鱼，战旗，熊猫直播，波洞，之类的视频app没法放到mac上看，怎么办呢？<br>
-锵锵，这个时候就要祭出Airplay同屏大法了。<br>
-下载爱思助手Mac版，工具箱里找到同屏，会打开i4Airplayer，点有线同屏，<br>
-OK，嗨吧</p>
 ]]></content>
     </entry>
 </feed>
