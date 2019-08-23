@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://annzan.xyz</id>
     <title>🍪曲奇看繁星</title>
-    <updated>2019-08-23T16:19:55.445Z</updated>
+    <updated>2019-08-23T16:23:25.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://annzan.xyz"/>
     <link rel="self" href="https://annzan.xyz/atom.xml"/>
@@ -107,6 +107,18 @@
 <p>毕竟我也不会SEO，这种Defult的域名也不会有人权吧</p>
 <p>🌎 好吧就这样，可能你会觉得浪费了3分钟</p>
 <p>没问题。据说人与人之间相遇的概率是100000000分之一。 我们有缘再见</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我一天不备案，百度就一天不收录。但我不会向强权低头的，因为没人帮我拍照]]></title>
+        <id>https://annzan.xyz/post/Qg3yNa7xV</id>
+        <link href="https://annzan.xyz/post/Qg3yNa7xV">
+        </link>
+        <updated>2019-08-23T16:22:23.000Z</updated>
+        <summary type="html"><![CDATA[<p>即使幕布是免费的，也没人帮我拍照，因为自拍是不被允许的。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>即使幕布是免费的，也没人帮我拍照，因为自拍是不被允许的。</p>
+<!-- more -->
 ]]></content>
     </entry>
     <entry>
@@ -1067,29 +1079,6 @@ A: 因为如果放弃了，那我就没有存在的意义了。对我来说我�
 <p>——中考的压力并不是什么令人愉悦的事情，但是大概为了自己的梦想只能直面这个挑战。稍微瞥了一眼自己为自己定下的计划表，想起来自己曾经抱怨备考 NOIP 那段时间是人生中第一次拼命，没想到马上又有了再次体验的机会。大概直到明年八月考完某场至关重要的考试超越某个曾经仰望的人站在某个万众瞩目的讲台之后，钉子才能如愿以偿的给自己再放一个长假吧。尽管完全无法保证也无从得知这些目标能不能实现，但是如果永远不去做那么只会徒增后悔吧。大概这就是成长，只能不断的这样安慰自己，然后继续每一个作死的非日常。</p>
 <p>虽说本来只是想给自己写篇简单的自我介绍，结果似乎还是没有避免成为一篇自说自话的中二文的命运。说起来因为时间原因周记也没有再写下去，那么在此延续一下一直以来的小小传统以表祭奠吧。文字环境依旧 Power Write 加 Google Keep 完成，历时大概两个晚上，标题来自至今为止循环次数最多但仍然最喜欢的专辑「Re:Dial」。时针仍然在随着石英的震荡缓缓向前，未来还不可预见而需要用双手去缔造。就算抛开其他的不谈，至少为了让自己以后不会为了此刻的举动后悔，那么就尽最大努力去前进吧。</p>
 <p>千里之行，始於足下。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[离散与混沌]]></title>
-        <id>https://annzan.xyz/post/KZdGDjDK0</id>
-        <link href="https://annzan.xyz/post/KZdGDjDK0">
-        </link>
-        <updated>2019-08-17T07:43:20.000Z</updated>
-        <summary type="html"><![CDATA[<p>离散 For 疏离发散<br>
-混沌 For 不稳定</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>离散 For 疏离发散<br>
-混沌 For 不稳定</p>
-<!-- more -->
-<p>自己就是稳定。<br>
-打磨自己。到高考需要的样子。<br>
-就这样。</p>
-<p>抽离的旁观者。</p>
-<p>我深刻感受到了语言的恶意。</p>
-<p>凛然独自开放。<br>
-理念是先进的，这就是幸运的</p>
-<p>人与人的悲欢并不相通。</p>
-<p>一见生财<sub>天下太平</sub></p>
 ]]></content>
     </entry>
 </feed>
