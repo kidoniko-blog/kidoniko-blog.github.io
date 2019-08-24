@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kina.xyz</id>
     <title>🍪曲奇看繁星</title>
-    <updated>2019-08-24T01:42:55.808Z</updated>
+    <updated>2019-08-24T07:39:11.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kina.xyz"/>
     <link rel="self" href="https://kina.xyz/atom.xml"/>
@@ -102,8 +102,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[利用 Cloudflare 做 301 跳转]]></title>
-        <id>https://kina.xyz/post/_iUbiV5qr</id>
-        <link href="https://kina.xyz/post/_iUbiV5qr">
+        <id>https://kina.xyz/post/301jump</id>
+        <link href="https://kina.xyz/post/301jump">
         </link>
         <updated>2019-08-23T23:51:09.000Z</updated>
         <content type="html"><![CDATA[<p>https://blog.imalan.cn/archives/73/</p>
