@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kina.xyz</id>
     <title>🍪曲奇看繁星</title>
-    <updated>2019-08-24T14:28:48.330Z</updated>
+    <updated>2019-08-24T14:49:06.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kina.xyz"/>
     <link rel="self" href="https://kina.xyz/atom.xml"/>
@@ -98,6 +98,22 @@
 <p>毕竟我也不会SEO，这种Defult的域名也不会有人权吧</p>
 <p>🌎 好吧就这样，可能你会觉得浪费了3分钟</p>
 <p>没问题。据说人与人之间相遇的概率是100000000分之一。 我们有缘再见</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My idol Dimpurr's blogs bout each stage of his study life ]]></title>
+        <id>https://kina.xyz/post/DOjMRVt1d</id>
+        <link href="https://kina.xyz/post/DOjMRVt1d">
+        </link>
+        <updated>2019-08-24T14:30:41.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="初中fly-out"><a href="http://blog.dimpurr.com/euphoric-field/">初中：Fly Out.</a></h1>
+<h1 id="高中euphoric-field"><a href="http://blog.dimpurr.com/euphoric-field/">高中：euphoric field</a></h1>
+<h1 id="你好大学"><a href="http://blog.dimpurr.com/hello-college/">你好大学</a></h1>
+]]></summary>
+        <content type="html"><![CDATA[<h1 id="初中fly-out"><a href="http://blog.dimpurr.com/euphoric-field/">初中：Fly Out.</a></h1>
+<h1 id="高中euphoric-field"><a href="http://blog.dimpurr.com/euphoric-field/">高中：euphoric field</a></h1>
+<h1 id="你好大学"><a href="http://blog.dimpurr.com/hello-college/">你好大学</a></h1>
+<!-- more -->
 ]]></content>
     </entry>
     <entry>
@@ -637,22 +653,6 @@ pd充电器100<br>
 			马上开学了作业还没有着落，噢我的上帝，明天起床请让我看到黑压压整整齐齐写好的作业吧
 		~~再次吐槽 Windows 你搞一个设置软件就好好搞嘛？？为什么要把古早的历史遗留产物「控制面板」给继承下来啊？？这交互起来就像把一个新系统和一个 上世纪的系统粘合起来的东西好吗？？知道什么叫丝滑般的生态体验吗？？？win 家我能用的只剩个 outlook 了，也只是因为外国有的网站会屏蔽 163 系的邮箱~~
 </code></pre>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20 元独立博客建站服务：一个你不会点开的文章]]></title>
-        <id>https://kina.xyz/post/VogPberDK</id>
-        <link href="https://kina.xyz/post/VogPberDK">
-        </link>
-        <updated>2019-08-21T10:31:55.000Z</updated>
-        <summary type="html"><![CDATA[<p>效果见本站。不过既然你是个程序员为什么还要我这种智商税？</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>效果见本站。不过既然你是个程序员为什么还要我这种智商税？</p>
-<!-- more -->
-<p>如果需要请通过本站下方留言与我取得联系<br>
-价格不包含域名。<br>
-.xyz 域名目前首年 9 元，续费 100 多元。<br>
-可以帮你买，资料填你的。买国外域名不用备案。</p>
 ]]></content>
     </entry>
 </feed>
