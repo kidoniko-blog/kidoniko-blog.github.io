@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kina.xyz</id>
     <title>🍪曲奇看繁星</title>
-    <updated>2019-08-24T14:49:06.709Z</updated>
+    <updated>2019-08-24T14:51:51.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kina.xyz"/>
     <link rel="self" href="https://kina.xyz/atom.xml"/>
@@ -109,10 +109,14 @@
         <summary type="html"><![CDATA[<h1 id="初中fly-out"><a href="http://blog.dimpurr.com/euphoric-field/">初中：Fly Out.</a></h1>
 <h1 id="高中euphoric-field"><a href="http://blog.dimpurr.com/euphoric-field/">高中：euphoric field</a></h1>
 <h1 id="你好大学"><a href="http://blog.dimpurr.com/hello-college/">你好大学</a></h1>
+<p>看着他有了第一篇，第二篇，以及第三篇。这是对人生的记录和见证了。<br>
+从高中写起，我的起点先天晚人一步了。不止一步了。将会是很多步。</p>
 ]]></summary>
         <content type="html"><![CDATA[<h1 id="初中fly-out"><a href="http://blog.dimpurr.com/euphoric-field/">初中：Fly Out.</a></h1>
 <h1 id="高中euphoric-field"><a href="http://blog.dimpurr.com/euphoric-field/">高中：euphoric field</a></h1>
 <h1 id="你好大学"><a href="http://blog.dimpurr.com/hello-college/">你好大学</a></h1>
+<p>看着他有了第一篇，第二篇，以及第三篇。这是对人生的记录和见证了。<br>
+从高中写起，我的起点先天晚人一步了。不止一步了。将会是很多步。</p>
 <!-- more -->
 ]]></content>
     </entry>
