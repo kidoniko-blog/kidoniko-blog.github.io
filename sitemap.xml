@@ -1,42 +1,203 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://kina.xyz/</loc>
-  <lastmod>2019-08-24T01:32:56+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://kina.xyz/post/who/</loc>
-  <lastmod>2019-08-24T01:32:56+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kina.xyz/post/fz/</loc>
-  <lastmod>2019-08-24T01:32:56+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kina.xyz/post/mzycteUjL/</loc>
-  <lastmod>2019-08-24T01:32:56+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kina.xyz/page/2/</loc>
-  <lastmod>2019-08-24T01:32:56+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kina.xyz/page/3/</loc>
-  <lastmod>2019-08-24T01:32:56+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
+<urlset >
+    <url>
+        <loc>
+            https://kina.xyz/
+        </loc>
+        <lastmod>Sat Aug 24 08:07:22 GMT 2019</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>
+            https://kina.xyz/post/who/
+        </loc>
+        <lastmod>Sat Aug 24 08:07:22 GMT 2019</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0,7</priority>
+    </url>
+    <url>
+        <loc>
+            https://kina.xyz/page/2/
+        </loc>
+        <lastmod>Sat Aug 24 08:07:22 GMT 2019</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0,7</priority>
+    </url>
+    <url>
+        <loc>
+            https://kina.xyz/post/mzycteUjL/
+        </loc>
+        <lastmod>Sat Aug 24 08:07:22 GMT 2019</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0,7</priority>
+    </url>
+    <url>
+        <loc>
+            https://kina.xyz/post/fz/
+        </loc>
+        <lastmod>Sat Aug 24 08:07:22 GMT 2019</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0,7</priority>
+    </url>
+    <url>
+        <loc>
+            https://kina.xyz/page/3/
+        </loc>
+        <lastmod>Sat Aug 24 08:07:22 GMT 2019</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0,7</priority>
+    </url>
+    <url>
+        <loc>
+            https://kina.xyz/post/w3IZk2gqd/
+        </loc>
+        <lastmod>Sat Aug 24 08:07:22 GMT 2019</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0,7</priority>
+    </url>
+    <url>
+        <loc>
+            https://kina.xyz/post/301jump/
+        </loc>
+        <lastmod>Sat Aug 24 08:07:22 GMT 2019</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0,7</priority>
+    </url>
+    <url>
+        <loc>
+            https://kina.xyz/post/0v35zTgK3/
+        </loc>
+        <lastmod>Sat Aug 24 08:07:22 GMT 2019</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0,7</priority>
+    </url>
+    <url>
+        <loc>
+            https://kina.xyz/post/svMFPvh88/
+        </loc>
+        <lastmod>Sat Aug 24 08:07:22 GMT 2019</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0,7</priority>
+    </url>
+    <url>
+        <loc>
+            https://kina.xyz/post/F6pkYHCsz/
+        </loc>
+        <lastmod>Sat Aug 24 08:07:22 GMT 2019</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0,7</priority>
+    </url>
+    <url>
+        <loc>
+            https://kina.xyz/post/Zjumvvjjv/
+        </loc>
+        <lastmod>Sat Aug 24 08:07:22 GMT 2019</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0,7</priority>
+    </url>
+    <url>
+        <loc>
+            https://kina.xyz/post/DXfSDvq00/
+        </loc>
+        <lastmod>Sat Aug 24 08:07:22 GMT 2019</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0,7</priority>
+    </url>
+    <url>
+        <loc>
+            https://kina.xyz/post/Qg3yNa7xV/
+        </loc>
+        <lastmod>Sat Aug 24 08:07:22 GMT 2019</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0,7</priority>
+    </url>
+    <url>
+        <loc>
+            https://kina.xyz/post/FRh37cE-v/
+        </loc>
+        <lastmod>Sat Aug 24 08:07:22 GMT 2019</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0,7</priority>
+    </url>
+    <url>
+        <loc>
+            https://kina.xyz/post/Q4M4UcCTT/
+        </loc>
+        <lastmod>Sat Aug 24 08:07:22 GMT 2019</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0,7</priority>
+    </url>
+    <url>
+        <loc>
+            https://kina.xyz/post/pHmCDjtIi/
+        </loc>
+        <lastmod>Sat Aug 24 08:07:22 GMT 2019</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0,7</priority>
+    </url>
+    <url>
+        <loc>
+            https://kina.xyz/post/3ZAs7n9YD/
+        </loc>
+        <lastmod>Sat Aug 24 08:07:22 GMT 2019</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0,7</priority>
+    </url>
+    <url>
+        <loc>
+            https://kina.xyz/post/PQm5O6IBj/
+        </loc>
+        <lastmod>Sat Aug 24 08:07:22 GMT 2019</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0,7</priority>
+    </url>
+    <url>
+        <loc>
+            https://kina.xyz/archives/
+        </loc>
+        <lastmod>Sat Aug 24 08:07:22 GMT 2019</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0,8</priority>
+    </url>
+    <url>
+        <loc>
+            https://kina.xyz/post/gv_62yhCk/
+        </loc>
+        <lastmod>Sat Aug 24 08:07:22 GMT 2019</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0,7</priority>
+    </url>
+    <url>
+        <loc>
+            https://kina.xyz/post/RWMkOopO0/
+        </loc>
+        <lastmod>Sat Aug 24 08:07:22 GMT 2019</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0,7</priority>
+    </url>
+    <url>
+        <loc>
+            https://kina.xyz/post/yLnpTlhEO/
+        </loc>
+        <lastmod>Sat Aug 24 08:07:22 GMT 2019</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0,7</priority>
+    </url>
+    <url>
+        <loc>
+            https://kina.xyz/post/kQpuAib2s/
+        </loc>
+        <lastmod>Sat Aug 24 08:07:22 GMT 2019</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0,7</priority>
+    </url>
+    <url>
+        <loc>
+            https://kina.xyz/post/U9m-qbqUq/
+        </loc>
+        <lastmod>Sat Aug 24 08:07:22 GMT 2019</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0,7</priority>
+    </url>
 </urlset>
