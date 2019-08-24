@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kina.xyz</id>
     <title>🍪曲奇看繁星</title>
-    <updated>2019-08-24T08:23:53.661Z</updated>
+    <updated>2019-08-24T14:19:12.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kina.xyz"/>
     <link rel="self" href="https://kina.xyz/atom.xml"/>
@@ -101,6 +101,17 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[土木坛子的 Slogan也是和光同尘。]]></title>
+        <id>https://kina.xyz/post/TlRqBqdoy</id>
+        <link href="https://kina.xyz/post/TlRqBqdoy">
+        </link>
+        <updated>2019-08-24T11:34:25.000Z</updated>
+        <content type="html"><![CDATA[<p>「和光同尘,与时舒卷;戢鳞潜翼,思属风云 」。看来大家的想法很一致嘛。<br>
+语出老子。<br>
+温和的光芒与尘土一样不张扬，顺应时势，屈伸舒缓，敛鳞藏翼蓄志待时，随时关注风云变幻。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[利用 Cloudflare 做 301 跳转]]></title>
         <id>https://kina.xyz/post/301jump</id>
         <link href="https://kina.xyz/post/301jump">
@@ -122,16 +133,18 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[本站已启用新域名 kina.xyz]]></title>
+        <title type="html"><![CDATA[本站已启用新域名 kina.xyz 速记:金阿！]]></title>
         <id>https://kina.xyz/post/DXfSDvq00</id>
         <link href="https://kina.xyz/post/DXfSDvq00">
         </link>
         <updated>2019-08-23T20:46:47.000Z</updated>
-        <summary type="html"><![CDATA[<p>新网免费.xyz域名买了一年。<br>
+        <summary type="html"><![CDATA[<p>大爱金宝<br>
+新网免费.xyz域名买了一年。<br>
 自己实名不要太划算<br>
 老域名 annzan.xyz 已经设置301跳转。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>新网免费.xyz域名买了一年。<br>
+        <content type="html"><![CDATA[<p>大爱金宝<br>
+新网免费.xyz域名买了一年。<br>
 自己实名不要太划算<br>
 老域名 annzan.xyz 已经设置301跳转。</p>
 <!-- more -->
@@ -640,18 +653,6 @@ pd充电器100<br>
 价格不包含域名。<br>
 .xyz 域名目前首年 9 元，续费 100 多元。<br>
 可以帮你买，资料填你的。买国外域名不用备案。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[百度云哼哼：针对 ENFI.CLOUD 下载失败情况的解决方法]]></title>
-        <id>https://kina.xyz/post/ysxptKtxq</id>
-        <link href="https://kina.xyz/post/ysxptKtxq">
-        </link>
-        <updated>2019-08-19T15:13:30.000Z</updated>
-        <content type="html"><![CDATA[<ol>
-<li>重试几次就好了</li>
-<li>删除源文件，注意不要把.aria2 后缀的文件删了。重试就行了</li>
-</ol>
 ]]></content>
     </entry>
 </feed>
