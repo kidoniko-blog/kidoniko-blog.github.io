@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kina.xyz</id>
     <title>🍪曲奇看繁星</title>
-    <updated>2019-08-24T00:30:47.287Z</updated>
+    <updated>2019-08-24T01:32:43.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kina.xyz"/>
     <link rel="self" href="https://kina.xyz/atom.xml"/>
@@ -16,11 +16,11 @@
         <link href="https://kina.xyz/post/F6pkYHCsz">
         </link>
         <updated>2021-08-14T01:39:50.000Z</updated>
-        <summary type="html"><![CDATA[<p>➡️<a href="https://annzan.xyz/post/fz/">友人帐</a> ➡️ <a href="https://annzan.xyz/post/who/">关于我</a>  ➡️<a href="http://allcp.net">公子长佩</a><br>
+        <summary type="html"><![CDATA[<p>➡️<a href="https://kina.xyz/post/fz/">友人帐</a> ➡️ <a href="https://kina.xyz/post/who/">关于我</a><br>
 ➡️<a href="http://blog.dimpurr.com">钉子Dimpurr</a>➡️<a href="https://storeweb.cn/site/browse">个站商店</a>👉<a href="https://www.xml-sitemaps.com/details-annzan.xyz-bed78348a.html">SiteMap</a><br>
 ✏️我们总为了挣扎而低落，却又因为每一次间歇性的幸福到来而撑过，如此生存着。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>➡️<a href="https://annzan.xyz/post/fz/">友人帐</a> ➡️ <a href="https://annzan.xyz/post/who/">关于我</a>  ➡️<a href="http://allcp.net">公子长佩</a><br>
+        <content type="html"><![CDATA[<p>➡️<a href="https://kina.xyz/post/fz/">友人帐</a> ➡️ <a href="https://kina.xyz/post/who/">关于我</a><br>
 ➡️<a href="http://blog.dimpurr.com">钉子Dimpurr</a>➡️<a href="https://storeweb.cn/site/browse">个站商店</a>👉<a href="https://www.xml-sitemaps.com/details-annzan.xyz-bed78348a.html">SiteMap</a><br>
 ✏️我们总为了挣扎而低落，却又因为每一次间歇性的幸福到来而撑过，如此生存着。</p>
 <!-- more -->
@@ -122,16 +122,18 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[本站即将启用新域名 kina.xyz]]></title>
+        <title type="html"><![CDATA[本站已启用新域名 kina.xyz]]></title>
         <id>https://kina.xyz/post/DXfSDvq00</id>
         <link href="https://kina.xyz/post/DXfSDvq00">
         </link>
         <updated>2019-08-23T20:46:47.000Z</updated>
         <summary type="html"><![CDATA[<p>新网免费.xyz域名买了一年。<br>
-自己实名不要太划算</p>
+自己实名不要太划算<br>
+老域名 annzan.xyz 已经设置301跳转。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>新网免费.xyz域名买了一年。<br>
-自己实名不要太划算</p>
+自己实名不要太划算<br>
+老域名 annzan.xyz 已经设置301跳转。</p>
 <!-- more -->
 <p>买还得 150</p>
 ]]></content>
