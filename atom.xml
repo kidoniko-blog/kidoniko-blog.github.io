@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kina.xyz</id>
     <title>🍪曲奇看繁星</title>
-    <updated>2019-08-27T08:27:33.045Z</updated>
+    <updated>2019-08-27T08:29:49.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kina.xyz"/>
     <link rel="self" href="https://kina.xyz/atom.xml"/>
@@ -123,6 +123,28 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[碎碎念]]></title>
+        <id>https://kina.xyz/post/a5TRBQPEN</id>
+        <link href="https://kina.xyz/post/a5TRBQPEN">
+        </link>
+        <updated>2020-08-16T15:34:34.000Z</updated>
+        <summary type="html"><![CDATA[<p>其实有一个类似于说说的插件的，叫天晴说说，但是我不会用。<br>
+那我就假装这个页面是个说说（碎碎念）页面吧。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>其实有一个类似于说说的插件的，叫天晴说说，但是我不会用。<br>
+那我就假装这个页面是个说说（碎碎念）页面吧。</p>
+<!-- more -->
+<p>顺便，搜狗输入法输入「rq」，「sj」，「xq」可以插入时间戳哦。</p>
+<p><strong>土木坛子的 Slogan也是和光同尘。<br>
+「和光同尘,与时舒卷;戢鳞潜翼,思属风云 」。语出老子。<br>
+看来大家的想法很一致嘛。<br>
+温和的光芒与尘土一样不张扬，顺应时势，屈伸舒缓，敛鳞藏翼蓄志待时，随时关注风云变幻。</strong><br>
+<code>2019年08月27日16:29:11</code></p>
+<p><strong>像b站id299，迷路的牙刷这样优秀的主播居然跟我差不多同岁？？自卑✖️n</strong><br>
+<code>2019年08月15日23 :40 :01</code></p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[My idol Dimpurr's blogs bout each stage of his study life ]]></title>
         <id>https://kina.xyz/post/DOjMRVt1d</id>
         <link href="https://kina.xyz/post/DOjMRVt1d">
@@ -140,17 +162,6 @@
 <p>看着他有了第一篇，第二篇，以及第三篇。这是对人生的记录和见证了。<br>
 从高中写起，我的起点先天晚人一步了。不止一步了。将会是很多步。</p>
 <!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[土木坛子的 Slogan也是和光同尘。]]></title>
-        <id>https://kina.xyz/post/TlRqBqdoy</id>
-        <link href="https://kina.xyz/post/TlRqBqdoy">
-        </link>
-        <updated>2019-08-24T11:34:25.000Z</updated>
-        <content type="html"><![CDATA[<p>「和光同尘,与时舒卷;戢鳞潜翼,思属风云 」。看来大家的想法很一致嘛。<br>
-语出老子。<br>
-温和的光芒与尘土一样不张扬，顺应时势，屈伸舒缓，敛鳞藏翼蓄志待时，随时关注风云变幻。</p>
 ]]></content>
     </entry>
     <entry>
