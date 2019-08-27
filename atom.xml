@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kina.xyz</id>
     <title>🍪曲奇看繁星</title>
-    <updated>2019-08-26T06:19:48.471Z</updated>
+    <updated>2019-08-27T08:27:33.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kina.xyz"/>
     <link rel="self" href="https://kina.xyz/atom.xml"/>
@@ -154,15 +154,6 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[利用 Cloudflare 做 301 跳转]]></title>
-        <id>https://kina.xyz/post/301jump</id>
-        <link href="https://kina.xyz/post/301jump">
-        </link>
-        <updated>2019-08-23T23:51:09.000Z</updated>
-        <content type="html"><![CDATA[<p>https://blog.imalan.cn/archives/73/</p>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[比Gridea建站更傻瓜的建博客方式]]></title>
         <id>https://kina.xyz/post/w3IZk2gqd</id>
         <link href="https://kina.xyz/post/w3IZk2gqd">
@@ -181,25 +172,16 @@
         </link>
         <updated>2019-08-23T20:46:47.000Z</updated>
         <summary type="html"><![CDATA[<p>大爱金宝<br>
-新网免费.xyz域名买了一年。<br>
-自己实名不要太划算<br>
-老域名 annzan.xyz 已经设置301跳转。</p>
+新网免费.xyz域名搞了一年。</p>
+<p>老域名 annzan.xyz 已经设置301跳转。<br>
+<a href="https://blog.imalan.cn/archives/73/">利用 Cloudflare 做 301 跳转</a></p>
 ]]></summary>
         <content type="html"><![CDATA[<p>大爱金宝<br>
-新网免费.xyz域名买了一年。<br>
-自己实名不要太划算<br>
-老域名 annzan.xyz 已经设置301跳转。</p>
+新网免费.xyz域名搞了一年。</p>
+<p>老域名 annzan.xyz 已经设置301跳转。<br>
+<a href="https://blog.imalan.cn/archives/73/">利用 Cloudflare 做 301 跳转</a></p>
 <!-- more -->
-<p>买还得 150</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「活动」新网免费 xyz 域名]]></title>
-        <id>https://kina.xyz/post/FRh37cE-v</id>
-        <link href="https://kina.xyz/post/FRh37cE-v">
-        </link>
-        <updated>2019-08-23T20:42:41.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="http://www.xinnet.com/composite/zt/2019y0814makting.html">活动页面</a></p>
+<p><a href="http://www.xinnet.com/composite/zt/2019y0814makting.html">活动页面</a></p>
 <p>先注册再领券，再实名，下单之后出现支付页面，新建模板，注意一下手机号码的填写格式。进入支付页面不要扫二维码，直接余额支付（0 元），支付成功就完事了。</p>
 ]]></content>
     </entry>
@@ -216,18 +198,6 @@
         <content type="html"><![CDATA[<p>果然陋习的传染是不可控的（逃）</p>
 <p>至于万字长文在哪里<br>
 你估计看不到的 别点开了这篇文章是空的</p>
-<!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我一天不备案，百度就一天不收录。但我不会向强权低头的，因为没人帮我拍照]]></title>
-        <id>https://kina.xyz/post/Qg3yNa7xV</id>
-        <link href="https://kina.xyz/post/Qg3yNa7xV">
-        </link>
-        <updated>2019-08-23T16:22:23.000Z</updated>
-        <summary type="html"><![CDATA[<p>即使幕布是免费的，也没人帮我拍照，因为自拍是不被允许的。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>即使幕布是免费的，也没人帮我拍照，因为自拍是不被允许的。</p>
 <!-- more -->
 ]]></content>
     </entry>
@@ -679,6 +649,47 @@ pd充电器100<br>
 			马上开学了作业还没有着落，噢我的上帝，明天起床请让我看到黑压压整整齐齐写好的作业吧
 		~~再次吐槽 Windows 你搞一个设置软件就好好搞嘛？？为什么要把古早的历史遗留产物「控制面板」给继承下来啊？？这交互起来就像把一个新系统和一个 上世纪的系统粘合起来的东西好吗？？知道什么叫丝滑般的生态体验吗？？？win 家我能用的只剩个 outlook 了，也只是因为外国有的网站会屏蔽 163 系的邮箱~~
 </code></pre>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20 元独立博客建站服务：一个你不会点开的文章]]></title>
+        <id>https://kina.xyz/post/VogPberDK</id>
+        <link href="https://kina.xyz/post/VogPberDK">
+        </link>
+        <updated>2019-08-21T10:31:55.000Z</updated>
+        <summary type="html"><![CDATA[<p>效果见本站。不过既然你是个程序员为什么还要我这种智商税？</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>效果见本站。不过既然你是个程序员为什么还要我这种智商税？</p>
+<!-- more -->
+<p>如果需要请通过本站下方留言与我取得联系<br>
+价格不包含域名。<br>
+.xyz 域名目前首年 9 元，续费 100 多元。<br>
+可以帮你买，资料填你的。买国外域名不用备案。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[百度云哼哼：针对 ENFI.CLOUD 下载失败情况的解决方法]]></title>
+        <id>https://kina.xyz/post/ysxptKtxq</id>
+        <link href="https://kina.xyz/post/ysxptKtxq">
+        </link>
+        <updated>2019-08-19T15:13:30.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>重试几次就好了</li>
+<li>删除源文件，注意不要把.aria2 后缀的文件删了。重试就行了</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『谢邀，禁止转载。』macOS 下右键的共享可以绕过知乎的禁止复制 js]]></title>
+        <id>https://kina.xyz/post/AZRd24rsk</id>
+        <link href="https://kina.xyz/post/AZRd24rsk">
+        </link>
+        <updated>2019-08-18T10:57:43.000Z</updated>
+        <summary type="html"><![CDATA[<p>针对知乎</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>针对知乎</p>
+<!-- more -->
+<p>禁止转载的回答，在 macOS 环境下邮件分享到邮件或者备忘录可以获得原文。</p>
 ]]></content>
     </entry>
 </feed>
