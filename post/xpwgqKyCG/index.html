@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>🍪曲奇看繁星</title>
 <meta name="description" content="<br>上海。<br>我在钉子曾梦想的城市。<br>为了灵魂的自由，我甘愿失去肉体的自由。<br>凛然，独自，开放。<br>要成为像钉子一样优秀的人。" />
-<link rel="shortcut icon" href="https://kina.xyz/favicon.ico?v=1567260495432">
+<link rel="shortcut icon" href="https://kina.xyz/favicon.ico?v=1570026320735">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link href="https://cdn.remixicon.com/releases/v1.3.1/remixicon.css" rel="stylesheet">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
@@ -33,7 +33,7 @@
       <div class="flex lg:block p-4 lg:px-0 items-center fixed lg:static lg:block top-0 right-0 left-0 bg-white z-50">
         <i class="remixicon-menu-2-line lg:mt-4 text-2xl cursor-pointer animated fadeIn" onclick="openMenu()"></i>
         <a href="https://kina.xyz">
-          <img class="animated fadeInLeft avatar rounded-lg mx-4 lg:mt-32 lg:mx-0 mt-0 lg:w-24 lg:h-24 w-12 w-12" src="https://kina.xyz/images/avatar.png?v=1567260495432" alt="">
+          <img class="animated fadeInLeft avatar rounded-lg mx-4 lg:mt-32 lg:mx-0 mt-0 lg:w-24 lg:h-24 w-12 w-12" src="https://kina.xyz/images/avatar.png?v=1570026320735" alt="">
         </a>
         <h1 class="animated fadeInLeft lg:text-4xl font-extrabold lg:mt-8 mt-0 text-xl" style="animation-delay: 0.2s">🍪曲奇看繁星</h1>
       </div>
@@ -103,25 +103,20 @@
 <div class="mask" onclick="closeMenu()">
 </div>
       <div class="content-wrapper py-32 lg:p-8 lg:w-3/4 post-detail animated fadeIn">
-        <h1 class="text-3xl font-bold lg:mt-16">「万恶之源」Gridea和Github搭建个人博客</h1>
+        <h1 class="text-3xl font-bold lg:mt-16">「Online」Gridea和Github搭建个人博客</h1>
         <div class="text-sm text-gray-700 lg:my-8">
-          08-14 / 1 min read
+          08-14 / 7 min read
         </div>
         
-          <img class="post-feature-image rounded-lg mx-auto my-4" src="https://ae01.alicdn.com/kf/H99ca5a8be632457982959c28c1265e0af.png" alt="">
+          <img class="post-feature-image rounded-lg mx-auto my-4" src="https://s2.ax1x.com/2019/08/15/mVSB5j.gif" alt="">
         
         <div class="post-content yue">
           <h2 id="一次github-pagesgridea协作搭建静态博客的经历">一次Github pages+Gridea协作搭建静态博客的经历</h2>
-<pre><code>点击预览并不会让网页重新渲染生成。同步才可以。奇怪吧。
-</code></pre>
 <p><a href="https://gridea.dev/docs/">官方文档</a><br>
 不想写成教程向。毕竟网上帖子很多，自己爬贴也是一种体验（笑<br>
 小白向的话Gridea作者已经给你们写好<a href="https://fehey.com/post/hve-notes-start/">教程</a>咯<br>
 非专业向，毕竟我只是一个什么也不懂的小透明。<br>
 就写意一点，一种FU~</p>
-<p>更新：<br>
-比Gridea建站更傻瓜的建博客方式<br>
-<a href="https://leanote.com/">蚂蚁笔记</a>，15 元/月，你只负责写就行了。</p>
 <p>首先准备环境。Git+Gridea macOS的话还需要xcode<br>
 如果你的macOS不是最新的话，可以到developers<a href="https://developer.apple.com/download/more/">那个页面</a>去下载xcode 10<br>
 或者直接在<a href="https://www.jianshu.com/p/75fd6f051216">我这个页面</a>下载历史版本<br>
@@ -163,13 +158,9 @@
 这样你的域名就可以成功被解析了。<br>
 这里附上GIthub官方的三方域名绑定的FAQ<a href="https://help.github.com/cn/articles/troubleshooting-custom-domains">传送</a></p>
 <h1 id="cdn">CDN</h1>
-<pre><code>我吹爆 cloudflare 的 app 功能好吗。我的角标和返回顶部和进度条都是用那个加的。还有各种奇奇怪怪的功能欢迎食用
-</code></pre>
 <p>如果你用的是cf的话，等12小时cdn应该就自动生效了。<br>
 用<a href="http://tool.chinaz.com/speedtest/">这个</a>可以测一下速度。<br>
-<a href="https://zhuanlan.zhihu.com/p/29905253">这里是一个cloudflare的调试指南</a><br>
-调试网站的时候记得打开Developer mode可以暂时关掉缓存。<br>
-<a href="https://support.cloudflare.com/hc/zh-cn/articles/200172316-%E5%A6%82%E4%BD%95%E5%B0%86%E7%89%B9%E5%AE%9A-URL-%E4%BB%8E-Cloudflare-%E7%9A%84%E7%BC%93%E5%AD%98%E4%B8%AD%E6%8E%92%E9%99%A4-">将特定页面从cdn缓存对象里移除</a></p>
+沿海地区绿的挺多，速度还行的话就不用开cdn了，cf的cdn也不咋地（雾</p>
 <h1 id="评论">评论</h1>
 <p>然后配置一下评论服务。<br>
 推荐用Gridea的小白教程里用的Gitalk<br>
@@ -228,7 +219,7 @@ Disqus在国内会有一些问题。<br>
               <a href="https://kina.xyz/post/dai-ni-qu-si-ben-yo-jian-ping-man-di-du-shi-xiao-xing-xing">
                 <h3 class="post-title">
                   <i class="remixicon-arrow-left-line"></i>
-                  「带你去私奔唷。」：简评《满地都是小星星》步归陆
+                  「带你去私奔唷。」：简评《满地都是小星星》陆
                 </h3>
               </a>
             </div>
