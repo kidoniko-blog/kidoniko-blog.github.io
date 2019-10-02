@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kina.xyz</id>
     <title>🍪曲奇看繁星</title>
-    <updated>2019-10-02T14:41:31.923Z</updated>
+    <updated>2019-10-02T14:44:38.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kina.xyz"/>
     <link rel="self" href="https://kina.xyz/atom.xml"/>
@@ -283,45 +283,6 @@ Cool Down。</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[碎碎念]]></title>
-        <id>https://kina.xyz/post/a5TRBQPEN</id>
-        <link href="https://kina.xyz/post/a5TRBQPEN">
-        </link>
-        <updated>2019-08-15T15:34:34.000Z</updated>
-        <summary type="html"><![CDATA[<p>其实有一个类似于说说的插件的，叫天晴说说，但是我不会用。<br>
-那我就假装这个页面是个说说（碎碎念）页面吧。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>其实有一个类似于说说的插件的，叫天晴说说，但是我不会用。<br>
-那我就假装这个页面是个说说（碎碎念）页面吧。</p>
-<!-- more -->
-<p>顺便，搜狗输入法输入「rq」，「sj」，「xq」可以插入时间戳哦。</p>
-<p><strong>像b站id299，迷路的牙刷这样优秀的主播居然跟我差不多同岁？？自卑✖️n</strong><br>
-<code>2019年08月15日23 :40 :01</code></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中元快讯「俄航威武」又一个哈德逊奇迹？]]></title>
-        <id>https://kina.xyz/post/MxT2qjmg_</id>
-        <link href="https://kina.xyz/post/MxT2qjmg_">
-        </link>
-        <updated>2019-08-15T15:03:26.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>据《莫斯科时报》报道，一架俄罗斯客机起飞不久之后在莫斯科附近紧急迫降。这架空客321客机隶属于乌拉尔航空公司，原定从莫斯科的茹科夫斯基国际机场出发飞往克里米亚的辛菲罗波尔，出发时机上共载234人。</p>
-</blockquote>
-]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<p>据《莫斯科时报》报道，一架俄罗斯客机起飞不久之后在莫斯科附近紧急迫降。这架空客321客机隶属于乌拉尔航空公司，原定从莫斯科的茹科夫斯基国际机场出发飞往克里米亚的辛菲罗波尔，出发时机上共载234人。</p>
-</blockquote>
-<!-- more -->
-<blockquote>
-<p>事故发生后，飞机备降现场的画面已经曝光。这架飞机是从茹科夫斯基到辛菲罗波尔U6178航班。在刚刚起飞不久之后，飞机撞到了正在天上飞行的鸟，结果导致飞机的引擎着火受损。随后这架飞机紧急降落在机场附近的一片玉米地里。而降落与起飞只隔了15分钟，可以说这15分钟攸关生死一线。据悉，这架飞机上一共有234名乘客。乌拉尔航空公司对外说，这架飞机在被鸟撞击后，两台发动机全部失效。如此看来，能够降落成功，实在是机长的本领过硬。</p>
-</blockquote>
-<p>刚起飞就双发失效，实在是最危险的情况了。据说这种在模拟机上都很难成功。这个跟「萨利机长」原型的哈德逊河迫降奇迹就只差一个哈德逊河了（逃，好吧其实哈德逊是不可超越的，毕竟河上迫降是基本impossible的事情</p>
-<p>把喷气客机当滑翔机开，还全员生还，飞机没有横滚什么的，虽然这也和莫斯科那边的地理环境有关，但不得不还是要高喊一句老毛子威武了。哈德逊河奇迹的机长至少还有过滑翔机驾驶经验，不知道这次当值的这对儿老毛子有没有过。不管怎样，没事就是好事。</p>
-<p>更多情况还不清楚，大概也不会清楚了。好的又水了一篇blog大概。</p>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[愿望清单 Dream list]]></title>
         <id>https://kina.xyz/post/zKZV6G29q</id>
         <link href="https://kina.xyz/post/zKZV6G29q">
@@ -358,68 +319,6 @@ Cool Down。</p>
 <p>[1]蔡戈尼效应又名蔡戈尼克记忆效应,是指人们天生有一种办事有始有终的驱动力，人们之所以会忘记已完成的工作，是因为欲完成的动机已经得到满足；如果工作尚未完成，这同一动机便使他对此留下深刻印象。很多人有与生俱来的完成欲。要做的事一日不完结，一日不得解脱。</p>
 <p>蔡戈尼效应使人走入两个极端：一个是过分强迫，面对任务非得一气呵成，不完成便死抓着不放手，甚至偏执地将其他任何人事物置身事外；另一极端是驱动力过弱，做任何事都拖沓罗嗦，时常半途而废，总是不把一件事情完全完成后再转移目标，永远无法彻底地完成一件事情。</p>
 <p>人们在面对问题时，尽管全神贯注，一旦解开了就会松懈不再在意，因而很快忘记。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「中美贸易摩擦」b站里一些发人深思的评论]]></title>
-        <id>https://kina.xyz/post/2B9V3MA-t</id>
-        <link href="https://kina.xyz/post/2B9V3MA-t">
-        </link>
-        <updated>2019-08-14T07:43:45.000Z</updated>
-        <summary type="html"><![CDATA[<ol>
-<li></li>
-</ol>
-<blockquote>
-<p>其实判断一个政府是不是负责，在于他是否能看到未来，而不是眼下，因为绝大多数政府的决策，短期内都是无法见效的，从而得到大量人阴阳怪气的反对和批评。</p>
-</blockquote>
-]]></summary>
-        <content type="html"><![CDATA[<ol>
-<li></li>
-</ol>
-<blockquote>
-<p>其实判断一个政府是不是负责，在于他是否能看到未来，而不是眼下，因为绝大多数政府的决策，短期内都是无法见效的，从而得到大量人阴阳怪气的反对和批评。</p>
-</blockquote>
-<!-- more -->
-<blockquote>
-<p>那么，中国呢？<br>
-中国一穷二白的时候，人家就开始扫盲和建设各种水利工程了。<br>
-人均GDP全世界垫底的时候，就开始规划高速公路。<br>
-那个时候，路上连车子都看不到几辆啊，当时高速公路被人骂作是什么？面子工程对吧？现在谁还敢说这条十几万公里，纵横全国的高速路网是面子工程？<br>
-十几年前，人均GDP还是一千七百多美元，与菲律宾一个档次，高铁开工，那时候多少人痛骂，一句等一等你的人民，让多少人感同身受？<br>
-与之相比，那个时候的菲律宾政府在做什么？什么都没做！<br>
-这个政府完全可以学菲律宾，可以学很多第三世界落后的发展国家一样，什么都不做的。而事实上，做这些事，在当时是要被许多知识分子和人民戳脊梁骨的。人均GDP历史曲线<br>
-在西部人民还在吃草的时候，歼20立项。<br>
-在茶叶蛋都吃不起的时候，各种航空工程和军事工程纷纷上马。<br>
-这个政府可怕的地方不在于它现在有多少GDP，而在于，它最穷，环境最恶劣，国内外所有“有识之士”都说你要完的时候，人家就已经按部就班的制定了各种计划啊。<br>
-而这些计划，无一不是世界霸主才有的标配。晓得了吧，人家在全世界认为你药丸的时候，这个政府想的还是一百年之后的事，一百年之后，怎么崛起，需要航母，需要四代飞机，需要核潜艇，需要全面覆盖的教育体系，需要覆盖城乡的医疗系统，需要四通八达的交通道路和舒适的高铁网络……<br>
-今天你看到IT的繁荣，是建立于全面覆盖的4G和宽带网络，你今天享受的网络购物，是建立于交通的便捷之上。内忧外患之下，这样顶着大家痛骂干活的政府，它完不了。<br>
-如果有兴趣，可以看看那些发展中国家的政府，每天都在干什么，你就知道谁要完了。</p>
-</blockquote>
-<ol start="2">
-<li></li>
-</ol>
-<blockquote>
-<p>为什么爆发贸易战，看看下面美国要我们签的合同。</p>
-<p>1.中国必须按照美国的要求开放市场给美国</p>
-<p>2.必须大量购买美国产品（包括中国必须在截至2020年的2年内，减少对美国的2000亿贸易逆差。）<br>
-3.不得要求美国企业转让技术给中国（只能做最低廉的制造业，科技不让碰）<br>
-4.中国停止“中国制造2025”计划<br>
-5.不得反对美国限制中国对美国敏感行业的投资<br>
-6.中国撤销在世贸组织中对美国发起的控诉<br>
-……</p>
-<p>以后涉及到专利案件等经济案件，中国政府必须服从美国法院的判决。这* *就是租界的治外法权，从而彻底阉割中国，中国谈判代表坚决反对。而提出这条的美国代表就是完成当年广场协议的代表莱特希泽。</p>
-<p>最后一次谈崩了，是因为美国人提出来中国的关税税率必须由美国人来定，中国的制度必须改成美国模式，就是彻底抹去我们建国以来70年的奋斗！</p>
-<p>美方要求中国停止对国有企业补贴，并且有监督权可以审查中国的财政支出，进行单方面制裁。这一举将我国内政纳入美国法律体系，严重干涉他国内政，是丧权辱国的不平等条约。</p>
-<p>他们还提出：我们美国如果觉得你中国不配合我们，我们可以立刻用关税制裁你们，但你们不得反击，不能对美国产品加关税，只能废除关税。</p>
-<p>还有一个协议外的要求，美国要求在中国地级市以上政府部门设立常驻美国监管机构，美方派人监督中国市场上政府的行为</p>
-<p>这谁敢签？被人压着打是不是这个意思？竟然还有国人黑中国，黑华为。<br>
-看看自己的身份证！</p>
-<p>怀疑真实性的搜：解放日报 媒体：美国提出“不平等条约” 还当现在是1840？</p>
-<p>或者，美国《华尔街日报》公布的美国贸易谈判《条件清单》（转载）</p>
-<p>（中文译文不准确的，以英文原文为准）</p>
-<p>标题Balancing the trade relationship between the united states of Americaand the people’s republic of China（中文：平衡中美之间的贸易关系）https://user.guancha.cn/main/content?id=114416&amp;s=fwzxfbbt&amp;from=groupmessage&amp;isappinstalled=0</p>
-<blockquote></blockquote>
-</blockquote>
 ]]></content>
     </entry>
     <entry>
@@ -516,19 +415,6 @@ awm<br>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[别用ios搜狗输入法的粘贴辅助]]></title>
-        <id>https://kina.xyz/post/N1MV7BXqy</id>
-        <link href="https://kina.xyz/post/N1MV7BXqy">
-        </link>
-        <updated>2019-08-14T07:33:01.000Z</updated>
-        <summary type="html"><![CDATA[<p>就是复制之后调出输入法会把内容显示在首选的位置的功能。尤其在搬运大段的文字的时候。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>就是复制之后调出输入法会把内容显示在首选的位置的功能。尤其在搬运大段的文字的时候。</p>
-<!-- more -->
-<p>这玩意大概有字数限制，会把超出的字数自动砍掉。害得我差点丢失数据。幸好发现及时，不然如果没有第三方的剪切板记录服务来帮你备份的话，像我这种习惯把原文剪切掉再拷贝的人，等到发现的时候剪切板已经被覆盖掉了，枯都没处枯啊</p>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[对一些事情的看法]]></title>
         <id>https://kina.xyz/post/sTDSCZppw</id>
         <link href="https://kina.xyz/post/sTDSCZppw">
@@ -598,7 +484,7 @@ OK，嗨吧</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「Online」Gridea和Github搭建个人博客]]></title>
+        <title type="html"><![CDATA[一次Gridea和Github搭建个人博客的记录]]></title>
         <id>https://kina.xyz/post/xpwgqKyCG</id>
         <link href="https://kina.xyz/post/xpwgqKyCG">
         </link>
@@ -710,59 +596,6 @@ Disqus在国内会有一些问题。<br>
 👉网站没有更新或者有奇怪的问题的话，删浏览器缓存+删repo大法好。<br>
 换网站主题容易出bug，出了bug的话删repo大法好。<br>
 👉git老是报错而且解决不了的话就开个虚拟机。虚拟机大法好！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好气。Markdown居然不支持右对齐]]></title>
-        <id>https://kina.xyz/post/kbg2JV-rR</id>
-        <link href="https://kina.xyz/post/kbg2JV-rR">
-        </link>
-        <updated>2019-08-12T02:16:20.000Z</updated>
-        <summary type="html"><![CDATA[<pre><code>居中：
-&lt;center&gt;诶嘿&lt;/center&gt;
-
-左对齐：
-&lt;p align=&quot;left&quot;&gt;诶嘿&lt;/p&gt;
-右对齐：
-&lt;p align=&quot;right&quot;&gt;诶嘿&lt;/p&gt;
-
-绝对正确，诶嘿~~
-</code></pre>
-]]></summary>
-        <content type="html"><![CDATA[<pre><code>居中：
-&lt;center&gt;诶嘿&lt;/center&gt;
-
-左对齐：
-&lt;p align=&quot;left&quot;&gt;诶嘿&lt;/p&gt;
-右对齐：
-&lt;p align=&quot;right&quot;&gt;诶嘿&lt;/p&gt;
-
-绝对正确，诶嘿~~
-</code></pre>
-<!-- more -->
-<p>所以直接上html了是吗（逃</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不要升级！MacOS 10.14.6 →12款MBA11]]></title>
-        <id>https://kina.xyz/post/bu-yao-sheng-ji-macos-10146-12-kuan-mba11</id>
-        <link href="https://kina.xyz/post/bu-yao-sheng-ji-macos-10146-12-kuan-mba11">
-        </link>
-        <updated>2019-08-11T15:27:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>虽然很想体验一下Catalina，但毕竟Pubic Beta那也不是正式版对吧。听说会有CPU占用鬼畜变高的情况。我可不想让我的小风扇呼呼呼。<br>
-那么就保守更新一下Mojave的10.14.6吧<br>
-结果我的middle 2012（型号md223），在9102年下半年仍然使用64g过时巨大SSD的MacBook Air 11&quot;翻车了。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>虽然很想体验一下Catalina，但毕竟Pubic Beta那也不是正式版对吧。听说会有CPU占用鬼畜变高的情况。我可不想让我的小风扇呼呼呼。<br>
-那么就保守更新一下Mojave的10.14.6吧<br>
-结果我的middle 2012（型号md223），在9102年下半年仍然使用64g过时巨大SSD的MacBook Air 11&quot;翻车了。</p>
-<!-- more -->
-<p>各种app出现奇奇怪怪的死机，必须点两次强制退出才能得救。<br>
-另外就是打开软件变得非常慢，通常图标要跳呀跳 跳好几下好几下才能打开<br>
-严重影响我大信仰MBA的丝滑体验！可耻的负优化开始了朋友们。<br>
-虽然12年的机子（包括Pro在内）可能迎来的是最后一届大更新，但是除非需要装Xcode这种坑爹的强行要求最新系统版本的东西，只建议停留在Mojave。<br>
-当然，如果你用不到比较新比较小众的软件，你留在captain，sierra，high sierra我也没意见啦<br>
-好的又水了一篇blog</p>
 ]]></content>
     </entry>
     <entry>
@@ -4149,60 +3982,6 @@ HOP的节奏外加江式B-BOX配音撞了数十下，连小阿姨都投以侧目
 最后一样谢谢大家的支持：）<br>
 因为小星星的关系新认识了好多人，真的很开心。<br>
 2010/10/13　陆</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello World！]]></title>
-        <id>https://kina.xyz/post/hello-gridea</id>
-        <link href="https://kina.xyz/post/hello-gridea">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="http://hvenotes.fehey.com/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>𝖶𝗂𝗇𝖽𝗈𝗐𝗌</strong> 或 <strong>𝖬𝖺𝖼𝖮𝖲</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[那个穿着青橘色衬衫的少年阿，你在哪里？]]></title>
-        <id>https://kina.xyz/post/ling-rou-guan-xi</id>
-        <link href="https://kina.xyz/post/ling-rou-guan-xi">
-        </link>
-        <updated>2018-08-08T03:04:01.000Z</updated>
-        <summary type="html"><![CDATA[<p>这篇文章是在我正遭遇很痛苦的事情的时候写下的。所以请见谅。放在这里也只是存个档。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>这篇文章是在我正遭遇很痛苦的事情的时候写下的。所以请见谅。放在这里也只是存个档。</p>
-<!-- more -->
-<p>内容隐藏</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[部分过期的很丧的文章被我隐藏了]]></title>
-        <id>https://kina.xyz/post/OmAFPxA2L</id>
-        <link href="https://kina.xyz/post/OmAFPxA2L">
-        </link>
-        <updated>2017-06-15T03:01:03.000Z</updated>
-        <content type="html"><![CDATA[<p>就这样。</p>
 ]]></content>
     </entry>
 </feed>
