@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kina.xyz</id>
     <title>🍪曲奇看繁星</title>
-    <updated>2019-10-02T14:36:38.566Z</updated>
+    <updated>2019-10-02T14:37:57.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kina.xyz"/>
     <link rel="self" href="https://kina.xyz/atom.xml"/>
@@ -11,13 +11,30 @@
     <icon>https://kina.xyz/favicon.ico</icon>
     <rights>All rights reserved 2019, 🍪曲奇看繁星</rights>
     <entry>
-        <title type="html"><![CDATA[🔝  (￣▽￣)"欢迎来到惊悚乐园~]]></title>
+        <title type="html"><![CDATA[学费还差200块 有愿意支持的就支持一下吧]]></title>
+        <id>https://kina.xyz/post/6qc99Po7r</id>
+        <link href="https://kina.xyz/post/6qc99Po7r">
+        </link>
+        <updated>2019-10-02T14:29:16.000Z</updated>
+        <summary type="html"><![CDATA[<p>2000块的学费其实早就该交了，学校发通知说的9月15号。但是拖到10月2号了还是没扣款。家里已经交不起2个月之后的房租了，电费更是已经要到了该停电但是还没有停的地步了。<br>
+钱已经借无可借了。<br>
+靠借同学借到1800了，还差200 这是高一上半学期的学费，现在每天上学就跟上了今天没明天似的忐忑<br>
+如果有愿意赞助我这200块的，请联系加我微信songzhiheng2019 感激不尽！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>2000块的学费其实早就该交了，学校发通知说的9月15号。但是拖到10月2号了还是没扣款。家里已经交不起2个月之后的房租了，电费更是已经要到了该停电但是还没有停的地步了。<br>
+钱已经借无可借了。<br>
+靠借同学借到1800了，还差200 这是高一上半学期的学费，现在每天上学就跟上了今天没明天似的忐忑<br>
+如果有愿意赞助我这200块的，请联系加我微信songzhiheng2019 感激不尽！</p>
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欢迎来到我的博客。]]></title>
         <id>https://kina.xyz/post/F6pkYHCsz</id>
         <link href="https://kina.xyz/post/F6pkYHCsz">
         </link>
-        <updated>2021-08-14T01:39:50.000Z</updated>
-        <summary type="html"><![CDATA[<p>啊不，欢迎来到我的博客。<br>
-人生一期一会，我感激我们的相遇。<strong>谢谢你。</strong><br>
+        <updated>2019-10-02T13:37:39.000Z</updated>
+        <summary type="html"><![CDATA[<p>人生一期一会，我感激我们的相遇。<strong>谢谢你。</strong><br>
 ✔️即使全世界都否定了你，你也不要否定你自己。<br>
 如果没有人给你鼓掌，你就自己给自己打气。<br>
 直到有一天所有人都对你刮目相看，对你喝彩<br>
@@ -41,8 +58,7 @@
 ✏️为了学习，我今天有特意去买了一盒巧克力，预计前途是一片光明。<br>
 ✏️世界上只有一种英雄主义，就是认清了生活的本质却依然热爱生活。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>啊不，欢迎来到我的博客。<br>
-人生一期一会，我感激我们的相遇。<strong>谢谢你。</strong><br>
+        <content type="html"><![CDATA[<p>人生一期一会，我感激我们的相遇。<strong>谢谢你。</strong><br>
 ✔️即使全世界都否定了你，你也不要否定你自己。<br>
 如果没有人给你鼓掌，你就自己给自己打气。<br>
 直到有一天所有人都对你刮目相看，对你喝彩<br>
@@ -168,24 +184,6 @@ a计划.找例题，做例题。不看答案，能做多少就做多少，做完
 好吧，只贴几个</p>
 <p>Ps.特别提醒：<br>
 没必要关注我的知乎账号，因为70～80%的干货都发在了微信公众号里，在历史信息里就有。我的微信公众号名称也是“白诗诗”，我这么负责任的人，一定不会让你失望的，请一定要关注。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学费还差200块 有愿意支持的就支持一下吧]]></title>
-        <id>https://kina.xyz/post/6qc99Po7r</id>
-        <link href="https://kina.xyz/post/6qc99Po7r">
-        </link>
-        <updated>2019-10-02T14:29:16.000Z</updated>
-        <summary type="html"><![CDATA[<p>2000块的学费其实早就该交了，学校发通知说的9月15号。但是拖到10月2号了还是没扣款。家里已经交不起2个月之后的房租了，电费更是已经要到了该停电但是还没有停的地步了。<br>
-钱已经借无可借了。<br>
-靠借同学借到1800了，还差200 这是高一上半学期的学费，现在每天上学就跟上了今天没明天似的忐忑<br>
-如果有愿意赞助我这200块的，请联系加我微信songzhiheng2019 感激不尽！</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>2000块的学费其实早就该交了，学校发通知说的9月15号。但是拖到10月2号了还是没扣款。家里已经交不起2个月之后的房租了，电费更是已经要到了该停电但是还没有停的地步了。<br>
-钱已经借无可借了。<br>
-靠借同学借到1800了，还差200 这是高一上半学期的学费，现在每天上学就跟上了今天没明天似的忐忑<br>
-如果有愿意赞助我这200块的，请联系加我微信songzhiheng2019 感激不尽！</p>
-<!-- more -->
 ]]></content>
     </entry>
     <entry>
