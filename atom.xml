@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kina.xyz</id>
     <title>🍪曲奇看繁星</title>
-    <updated>2019-10-26T03:57:10.883Z</updated>
+    <updated>2019-10-26T03:59:22.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kina.xyz"/>
     <link rel="self" href="https://kina.xyz/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://kina.xyz/favicon.ico</icon>
     <rights>All rights reserved 2019, 🍪曲奇看繁星</rights>
     <entry>
-        <title type="html"><![CDATA[学费还差200块 有愿意支持的就支持一下吧]]></title>
+        <title type="html"><![CDATA[网站挂了几天，不过现在好了]]></title>
         <id>https://kina.xyz/post/6qc99Po7r</id>
         <link href="https://kina.xyz/post/6qc99Po7r">
         </link>
